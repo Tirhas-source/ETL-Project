@@ -1,0 +1,1262 @@
+,company,sector,industry,continent,country,market_value_2015,sales_2015,profits_2015,assets_2015,rank_2015,rank_2020,sales_2020,profits_2020,assets_2020,market_value_2020
+0,Commonwealth Bank,Financials,Major Banks,Australia,Australia,114.5,41.5,7.9,699.9,49,#84,$27.3 B,$7 B,$688.8 B,$72.6 B
+1,Westpac Banking Group,Financials,Major Banks,Australia,Australia,99.0,38.4,6.8,651.4,60,#127,$26 B,$4.8 B,$611.9 B,$38.4 B
+2,ANZ,Financials,Major Banks,Australia,Australia,83.9,34.0,6.2,659.7,75,#164,$23.9 B,$2.9 B,$703.8 B,$31.3 B
+3,Wesfarmers,Consumer Staples,Food Retail,Australia,Australia,43.5,58.5,2.3,39.3,205,#515,$19.9 B,$1.4 B,$18.3 B,$28 B
+4,Telstra,Telecommunication Services,Telecommunications services,Australia,Australia,58.1,24.7,3.8,35.6,225,#453,$16.6 B,$1.4 B,$32 B,$23.7 B
+5,Woolworths,Consumer Staples,Food Retail,Australia,Australia,41.3,58.3,2.3,21.7,284,#415,$43 B,$1.1 B,$25.8 B,$29.5 B
+6,AMP,Financials,Investment Services,Australia,Australia,13.5,19.4,0.6,119.2,431,#1036,$15.3 B,$-1.7 B,$103.8 B,$3.2 B
+7,Macquarie Group,Financials,Investment Services,Australia,Australia,17.2,10.3,0.9,144.6,432,#319,$11.5 B,$2.2 B,$148 B,$22.8 B
+8,Fortescue Metals Group,Materials,Iron & Steel,Australia,Australia,15.3,10.6,3.0,22.9,507,#476,$12.9 B,$5 B,$21.3 B,$24.1 B
+9,Suncorp Group,Financials,Diversified Insurance,Australia,Australia,15.2,15.6,0.4,84.2,539,#777,$9.3 B,$712 M,$66.9 B,$7.6 B
+10,Woodside Petroleum,Energy,Oil & Gas Operations,Australia,Australia,29.4,6.2,1.7,23.8,579,#1328,$4.9 B,$335 M,$29.4 B,$14 B
+11,Insurance Australia Group,Financials,Property & Casualty Insurance,Australia,Australia,11.9,9.0,0.9,23.7,667,#1243,$5.5 B,$598 M,$20.4 B,$8.7 B
+12,QBE Insurance Group,Financials,Property & Casualty Insurance,Australia,Australia,14.7,16.1,-0.3,47.3,734,#824,$12.2 B,$567 M,$40.7 B,$8.1 B
+13,Origin Energy,Utilities,Electric Utilities,Australia,Australia,14.5,14.0,0.2,27.2,852,#1148,$9.6 B,$705 M,$17.2 B,$6.4 B
+14,CSL,Health Care,Biotechs,Australia,Australia,31.1,5.0,1.2,6.2,928,#610,$8.9 B,$2 B,$14.1 B,$92 B
+15,Amcor,Materials,Containers & Packaging,Australia,Australia,11.5,11.2,0.5,9.0,1004,#992,$11.1 B,$445 M,$16.8 B,$14.4 B
+16,Brambles,Consumer Discretionary,Business & Personal Services,Australia,Australia,13.4,5.6,1.3,7.5,1007,#1738,$4.1 B,$481 M,$7.4 B,$11 B
+17,Santos,Energy,Oil & Gas Operations,Australia,Australia,12.1,3.5,0.5,18.4,1111,#1538,$4.1 B,$672 M,$18.2 B,$6.7 B
+18,Caltex Australia,Energy,Oil & Gas Operations,Australia,Australia,5.4,23.5,0.5,5.4,1185,#1873,$15.3 B,$266 M,$5.9 B,$4.1 B
+19,AGL Energy,Utilities,Electric Utilities,Australia,Australia,7.8,9.2,0.3,12.5,1345,#1346,$9.2 B,$652 M,$10.2 B,$7 B
+20,Qantas Airways,Industrials,Airline,Australia,Australia,2.2,14.9,-0.3,17.9,1356,#1331,$12.4 B,$582 M,$14.3 B,$3.7 B
+21,Bendigo & Adelaide Bank,Financials,Regional Banks,Australia,Australia,4.3,3.1,0.3,54.0,1482,#1819,$1.9 B,$222 M,$52.5 B,$2.3 B
+22,Newcrest Mining,Materials,Diversified Metals & Mining,Australia,Australia,6.9,3.8,-5.8,15.7,1922,#1512,$3.8 B,$559 M,$11.9 B,$13.8 B
+23,OMV Group,Energy,Oil & Gas Operations,Europe,Austria,14.8,56.3,1.5,43.8,326,#441,$26.3 B,$1.9 B,$47.7 B,$10.7 B
+24,Raiffeisen Bank International,Financials,Major Banks,Europe,Austria,10.1,11.1,0.7,177.4,536,#725,$5.3 B,$8.8 B,$1.3 B,$170.8 B
+25,Erste Group Bank,Financials,Major Banks,Europe,Austria,14.4,12.6,0.1,275.4,694,#507,$11.2 B,$1.5 B,$276.7 B,$8.9 B
+26,Vienna Insurance Group,Financials,Diversified Insurance,Europe,Austria,6.4,13.3,0.4,55.0,809,#1131,$11.6 B,$371 M,$55.1 B,$2.6 B
+27,Voestalpine,Materials,Iron & Steel,Europe,Austria,7.7,14.9,0.6,17.0,841,#1566,$14.8 B,$-13 M,$17.3 B,$3.7 B
+28,Uniqa,Financials,Diversified Insurance,Europe,Austria,4.1,8.5,0.4,40.0,1108,#1794,$6.1 B,$276 M,$31.4 B,$2.1 B
+29,Verbund,Utilities,Electric Utilities,Europe,Austria,7.2,4.3,0.8,17.6,1151,#1307,$4.4 B,$621 M,$13.3 B,$15.7 B
+30,STRABAG,Industrials,Construction Services,Europe,Austria,2.7,16.5,0.2,13.9,1425,#1461,$18 B,$417 M,$13.6 B,$2.9 B
+31,Ahli United Bank,Financials,Regional Banks,Asia,Bahrain,4.7,1.3,0.6,32.7,1322,#1244,$2.1 B,$695 M,$40.3 B,$6.1 B
+32,Anheuser-Busch InBev,Consumer Staples,Beverages,Europe,Belgium,171.2,43.2,14.5,141.7,64,#56,$52.3 B,$9.1 B,$238.3 B,$89.9 B
+33,KBC Group,Financials,Major Banks,Europe,Belgium,26.3,17.2,1.3,338.8,260,#260,$14.9 B,$2.7 B,$326.4 B,$22.5 B
+34,Solvay,Materials,Diversified Chemicals,Europe,Belgium,13.4,15.1,0.4,25.4,737,#1186,$12.6 B,$133 M,$23.9 B,$8.1 B
+35,Colruyt,Consumer Staples,Food Retail,Europe,Belgium,8.9,11.1,0.5,4.9,1139,#1470,$10.8 B,$417 M,$4.9 B,$8.3 B
+36,UCB,Health Care,Pharmaceuticals,Europe,Belgium,15.3,4.5,0.3,13.7,1383,#1102,$5.5 B,$886 M,$12.4 B,$17.3 B
+37,Umicore,Materials,Diversified Metals & Mining,Europe,Belgium,5.6,13.0,0.2,4.8,1736,#1271,$19.6 B,$322 M,$8 B,$10.4 B
+38,Everest Re Group,Financials,Diversified Insurance,North America,Bermuda,8.6,5.3,1.2,19.8,886,#896,$8 B,$1 B,$27.3 B,$7.9 B
+39,Arch Capital Group,Financials,Property & Casualty Insurance,North America,Bermuda,7.7,3.5,0.7,19.6,1149,#759,$6.7 B,$1.6 B,$36.7 B,$9.8 B
+40,Petrobras,Energy,Oil & Gas Operations,South America,Brazil,86.8,141.2,10.9,319.2,30,#70,$78.9 B,$10.2 B,$230.2 B,$43.5 B
+41,Banco Bradesco,Financials,Regional Banks,South America,Brazil,58.5,74.1,5.6,384.9,63,#101,$62 B,$5.7 B,$337.9 B,$31.3 B
+42,Banco do Brasil,Financials,Major Banks,South America,Brazil,28.3,68.6,7.3,552.7,104,#208,$42 B,$3.8 B,$359.5 B,$14.7 B
+43,Vale,Materials,Iron & Steel,South America,Brazil,71.4,47.6,0.1,123.7,442,#513,$36.2 B,$179 M,$84.8 B,$42.5 B
+44,JBS,Consumer Staples,Food Processing,South America,Brazil,9.6,43.0,0.4,29.1,637,#461,$51.8 B,$1.5 B,$31.4 B,$11.7 B
+45,Cemig,Utilities,Electric Utilities,South America,Brazil,8.7,6.8,1.4,12.6,914,#1680,$6.4 B,$774 M,$12.4 B,$2.6 B
+46,CPFL Energia,Utilities,Electric Utilities,South America,Brazil,7.8,7.2,0.4,13.2,1166,#1542,$7.6 B,$685 M,$11 B,$6.2 B
+47,Braskem,Materials,Specialized Chemicals,South America,Brazil,5.3,19.0,0.2,20.5,1179,#1623,$13.3 B,$-673 M,$16.9 B,$3.1 B
+48,WEG,Industrials,Electrical Equipment,South America,Brazil,8.7,3.2,0.4,4.3,1832,#1654,$3.4 B,$425 M,$3.3 B,$15.5 B
+49,TD Bank Group,Financials,Major Banks,North America,Canada,86.2,31.3,6.6,815.2,76,#46,$44.8 B,$9.3 B,"$1,102 B",$75.8 B
+50,Bank of Nova Scotia,Financials,Major Banks,North America,Canada,71.2,27.7,6.3,702.1,95,#85,$34.8 B,$6.4 B,$872.6 B,$48.7 B
+51,Bank of Montreal,Financials,Major Banks,North America,Canada,43.3,20.1,4.0,531.6,146,#132,$29.1 B,$4.4 B,$665.2 B,$32.6 B
+52,Suncor Energy,Energy,Oil & Gas Operations,North America,Canada,51.5,38.4,3.8,73.7,149,#252,$28.9 B,$2.2 B,$69 B,$27.3 B
+53,Canadian Imperial Bank,Financials,Major Banks,North America,Canada,34.4,16.7,3.6,359.6,182,#179,$21.6 B,$3.9 B,$508.2 B,$26.4 B
+54,Brookfield Asset Management,Financials,Real Estate,North America,Canada,25.2,20.8,2.1,112.7,238,#95,$69.1 B,$2.8 B,$324 B,$51.3 B
+55,Sun Life Financial,Financials,Life & Health Insurance,North America,Canada,21.1,17.9,1.7,184.4,271,#243,$24.6 B,$2 B,$226.1 B,$20.1 B
+56,Canadian Natural Resources,Energy,Oil & Gas Operations,North America,Canada,42.0,15.7,2.2,50.4,278,#306,$17.2 B,$4.1 B,$62.3 B,$19.8 B
+57,BCE,Telecommunication Services,Telecommunications services,North America,Canada,33.7,19.8,2.0,42.7,290,#300,$18.1 B,$2.4 B,$46.4 B,$36.6 B
+58,Husky Energy,Energy,Oil & Gas Operations,North America,Canada,30.0,22.3,1.8,35.6,315,#1443,$14.6 B,$-2.6 B,$21.8 B,$3.2 B
+59,Power Corp of Canada,Financials,Life & Health Insurance,North America,Canada,12.7,31.7,1.0,319.9,333,#377,$31.5 B,$874 M,$352.1 B,$11.5 B
+60,Enbridge,Energy,Oil Services & Equipment,North America,Canada,38.5,32.2,0.6,54.2,344,#123,$37.5 B,$4.3 B,$125.9 B,$62.2 B
+61,Canadian National Railway,Industrials,Railroads,North America,Canada,46.7,10.3,2.5,28.7,387,#368,$11.2 B,$3.3 B,$32.6 B,$58.8 B
+62,Magna International,Consumer Discretionary,Auto & Truck Parts,North America,Canada,21.9,34.8,1.6,18.0,409,#500,$39.4 B,$1.8 B,$25.8 B,$11.7 B
+63,Rogers Communications,Telecommunication Services,Telecommunications services,North America,Canada,21.6,12.3,1.6,22.2,479,#549,$11.2 B,$1.5 B,$28.2 B,$21.2 B
+64,National Bank of Canada,Financials,Major Banks,North America,Canada,13.3,7.0,1.5,175.2,493,#462,$9 B,$1.7 B,$218.7 B,$13.6 B
+65,Cenovus Energy,Energy,Oil & Gas Operations,North America,Canada,21.8,18.1,0.6,24.1,523,#1410,$14.4 B,$216 M,$23.5 B,$4.5 B
+66,TELUS,Telecommunication Services,Telecommunications services,North America,Canada,22.3,11.0,1.3,20.3,542,#565,$11 B,$1.3 B,$29.3 B,$20.7 B
+67,George Weston,Consumer Staples,Food Retail,North America,Canada,9.5,32.6,0.7,23.2,599,#789,$37.8 B,$182 M,$36.9 B,$10.9 B
+68,Teck Resources,Materials,Diversified Metals & Mining,North America,Canada,12.6,9.1,0.9,34.1,604,#1616,$8.4 B,$-453 M,$27.2 B,$4.7 B
+69,Couche Tard,Consumer Discretionary,Specialty Stores,North America,Canada,15.3,37.7,0.8,10.4,638,#325,$57.5 B,$2.1 B,$24.8 B,$31.1 B
+70,Bombardier,Industrials,Aerospace & Defense,North America,Canada,6.7,18.2,0.6,29.4,740,#1341,$15.8 B,$-1.8 B,$25 B,$860 M
+71,Canadian Pacific Railway,Industrials,Railroads,North America,Canada,26.5,6.0,0.8,16.1,750,#742,$6.1 B,$1.8 B,$16.5 B,$30.9 B
+72,Barrick Gold,Materials,Diversified Metals & Mining,North America,Canada,20.8,12.6,-10.4,37.4,771,#356,$9.7 B,$4 B,$44.4 B,$45.9 B
+73,Onex,Financials,Investment Services,North America,Canada,6.2,29.0,-0.6,36.9,947,#1489,$306 M,$4.3 B,$12.5 B,$4.6 B
+74,CGI Group,Information Technology,Computer Services,North America,Canada,9.6,9.9,0.6,11.1,974,#956,$9.8 B,$163 M,$35 B,$15.5 B
+75,Canadian Tire,Consumer Discretionary,Specialty Stores,North America,Canada,7.6,11.4,0.5,12.8,988,#1358,$11 B,$587 M,$15.1 B,$4.3 B
+76,Intact Financial,Financials,Property & Casualty Insurance,North America,Canada,8.3,7.2,0.4,18.1,1058,#873,$8.7 B,$568 M,$23.7 B,$13.6 B
+77,Shaw Communications,Consumer Discretionary,Broadcasting & Cable,North America,Canada,10.9,5.1,0.7,11.9,1072,#1867,$4.1 B,$545 M,$11.6 B,$8.4 B
+78,Fairfax Financial,Financials,Property & Casualty Insurance,North America,Canada,9.8,5.8,-0.6,36.0,1136,#503,$20.7 B,$2 B,$70.5 B,$7.5 B
+79,Saputo,Consumer Staples,Food Processing,North America,Canada,9.8,8.5,0.5,5.2,1164,#1240,$10.9 B,$466 M,$10.2 B,$10.3 B
+80,Empire,Consumer Staples,Food Retail,North America,Canada,5.6,18.6,0.3,11.1,1274,#1487,$19.5 B,$398 M,$10.6 B,$6 B
+81,E-L Financial,Financials,Diversified Insurance,North America,Canada,2.6,2.1,0.7,15.0,1510,#1888,$1.2 B,$561 M,$18.3 B,$2 B
+82,Pembina Pipeline,Energy,Oil & Gas Operations,North America,Canada,12.1,4.9,0.3,8.6,1533,#883,$5.4 B,$1.1 B,$25.6 B,$12.6 B
+83,Fortis (Canada),Utilities,Electric Utilities,North America,Canada,6.1,3.9,0.4,16.9,1582,#653,$6.6 B,$1.3 B,$42.3 B,$18 B
+84,Air Canada,Industrials,Airline,North America,Canada,1.4,12.0,0.0,8.9,1882,#932,$14.5 B,$1.1 B,$21.4 B,$3.8 B
+85,Falabella,Consumer Discretionary,Department Stores,South America,Chile,21.6,13.2,0.9,18.2,581,#1097,$13.4 B,$420 M,$24.4 B,$6.8 B
+86,Cencosud,Consumer Staples,Food Retail,South America,Chile,9.0,20.7,0.5,19.2,777,#1405,$14.7 B,$399 M,$17.3 B,$3.5 B
+87,AntarChile,Financials,Investment Services,South America,Chile,6.1,24.4,0.5,22.1,819,#1230,$23.7 B,$108 M,$25.5 B,$3.1 B
+88,Latam Airlines,Industrials,Airline,South America,Chile,8.2,12.9,-0.3,22.6,1050,#1635,$10.1 B,$212 M,$21.1 B,$2.3 B
+89,BCI-Banco Credito,Financials,Regional Banks,South America,Chile,6.1,3.2,0.6,38.5,1141,#1294,$3.8 B,$572 M,$66.9 B,$5.3 B
+90,Quinenco,Industrials,Conglomerates,South America,Chile,3.5,8.6,0.3,56.7,1162,#1333,$8.2 B,$278 M,$63.4 B,$2.4 B
+91,ICBC,Financials,Major Banks,Asia,China,215.6,148.7,42.7,3124.9,1,#1,$177.2 B,$45.3 B,"$4,322.5 B",$242.3 B
+92,China Construction Bank,Financials,Regional Banks,Asia,China,174.4,121.3,34.2,2449.5,2,#2,$162.1 B,$38.9 B,"$3,822 B",$203.8 B
+93,Agricultural Bank of China,Financials,Regional Banks,Asia,China,141.1,136.4,27.0,2405.4,3,#5,$148.7 B,$30.9 B,"$3,697.5 B",$147.2 B
+94,Bank of China,Financials,Major Banks,Asia,China,124.2,105.1,25.5,2291.8,9,#10,$135.4 B,$27.2 B,"$3,387 B",$112.8 B
+95,PetroChina,Energy,Oil & Gas Operations,Asia,China,202.0,328.5,21.1,386.9,10,#32,$364.1 B,$6.6 B,$392.3 B,$65.9 B
+96,Ping An Insurance Group,Financials,Diversified Insurance,Asia,China,66.1,59.0,4.6,552.8,62,#7,$155 B,$18.8 B,"$1,218.6 B",$187.2 B
+97,Bank of Communications,Financials,Major Banks,Asia,China,48.7,46.6,10.1,942.2,65,#45,$66.6 B,$11.2 B,"$1,422.1 B",$47.1 B
+98,China Life Insurance,Financials,Life & Health Insurance,Asia,China,79.8,68.4,4.0,327.2,66,#37,$103.7 B,$8.5 B,$536.2 B,$60.3 B
+99,China Merchants Bank,Financials,Major Banks,Asia,China,45.2,32.2,8.1,634.7,102,#26,$58.4 B,$13.7 B,"$1,094.9 B",$120.9 B
+100,China Shenhua Energy,Materials,Diversified Metals & Mining,Asia,China,57.6,42.8,7.2,80.4,124,#168,$35 B,$6.1 B,$80.8 B,$35.6 B
+101,Industrial Bank,Financials,Regional Banks,Asia,China,28.8,32.7,6.7,593.5,129,#57,$50.2 B,$9.2 B,"$1,045 B",$49 B
+102,Shanghai Pudong Development,Financials,Regional Banks,Asia,China,29.2,31.7,6.7,607.9,130,#65,$50 B,$8.6 B,"$1,029.3 B",$44.2 B
+103,China Citic Bank,Financials,Regional Banks,Asia,China,32.5,27.8,5.7,555.6,134,#113,$49.3 B,$7.1 B,$991.4 B,$23.9 B
+104,China Telecom,Telecommunication Services,Telecommunications services,Asia,China,37.4,52.3,2.9,89.7,150,#174,$54.4 B,$3 B,$101 B,$27.9 B
+105,SAIC Motor,Consumer Discretionary,Auto & Truck Manufacturers,Asia,China,24.7,88.3,4.0,56.4,175,#131,$121.1 B,$3.7 B,$121.9 B,$31.3 B
+106,China Everbright Bank,Financials,Regional Banks,Asia,China,18.6,21.2,4.2,404.2,206,#148,$35.6 B,$5.5 B,$737.6 B,$22.3 B
+107,China Pacific Insurance,Financials,Life & Health Insurance,Asia,China,23.2,33.2,1.6,118.6,227,#130,$55.8 B,$4 B,$215.7 B,$30 B
+108,China Vanke,Financials,Real Estate,Asia,China,14.9,22.0,2.5,79.2,305,#100,$53.5 B,$5.6 B,$245.3 B,$37.6 B
+109,China Communications Construction,Industrials,Construction Services,Asia,China,11.2,52.8,2.0,85.6,306,#267,$79.8 B,$2.8 B,$161.1 B,$10.8 B
+110,China Railway Construction,Industrials,Construction Services,Asia,China,10.5,89.9,1.7,87.5,311,#211,$116.8 B,$2.8 B,$154.4 B,$14.9 B
+111,Huaxia Bank,Financials,Regional Banks,Asia,China,12.0,12.9,2.4,253.5,365,#271,$21.3 B,$3.1 B,$440.1 B,$14.3 B
+112,Huaneng Power International,Utilities,Electric Utilities,Asia,China,12.1,21.8,1.7,43.1,401,#961,$24.9 B,$29 M,$61.5 B,$5.9 B
+113,Tencent Holdings,Information Technology,Computer Services,Asia,China,135.4,9.8,2.5,17.7,426,#50,$54.6 B,$13.5 B,$137 B,$509.7 B
+114,Bank of Beijing,Financials,Regional Banks,Asia,China,10.8,9.8,2.1,197.2,429,#282,$17.9 B,$3.1 B,$393.1 B,$14.9 B
+115,New China Life Insurance,Financials,Life & Health Insurance,Asia,China,10.2,18.7,0.7,88.6,474,#330,$25.2 B,$2.1 B,$125.8 B,$10.8 B
+116,Gree Electric Appliances,Consumer Discretionary,Household Appliances,Asia,China,13.7,17.9,1.6,21.2,501,#246,$28.8 B,$3.6 B,$40.3 B,$46.7 B
+117,Baoshan Iron & Steel,Materials,Iron & Steel,Asia,China,10.4,30.8,0.7,37.4,512,#323,$43 B,$2.1 B,$48.3 B,$15.3 B
+118,Anhui Conch Cement,Materials,Construction Materials,Asia,China,22.8,9.0,1.5,15.4,603,#312,$22.7 B,$4.9 B,$25.7 B,$41.7 B
+119,Daqin Railway,Industrials,Railroads,Asia,China,16.0,7.9,2.0,16.4,641,#637,$10.9 B,$1.8 B,$21 B,$15.1 B
+120,China National Building,Materials,Construction Materials,Asia,China,5.4,19.2,0.9,48.2,650,#400,$36.6 B,$1.6 B,$64.1 B,$10.6 B
+121,China Cinda Asset Management,,,Asia,China,20.1,4.0,1.2,46.2,685,#537,$11.1 B,$1.9 B,$217.2 B,$7.4 B
+122,GD Power Development,Utilities,Electric Utilities,Asia,China,6.6,10.8,1.0,40.4,698,#1083,$16.6 B,$270 M,$52.4 B,$5.5 B
+123,China Coal Energy,Materials,Diversified Metals & Mining,Asia,China,7.3,13.2,0.7,35.5,701,#788,$18.7 B,$903 M,$39.1 B,$3.5 B
+124,Baidu,Information Technology,Computer Services,Asia,China,55.8,5.2,1.7,11.7,723,#705,$15.5 B,$297 M,$43.3 B,$27.6 B
+125,Citic Securities,Financials,Investment Services,Asia,China,19.0,2.7,0.9,44.8,732,#509,$6 B,$1.8 B,$113.7 B,$23.4 B
+126,Dongfeng Motor Group,Consumer Discretionary,Auto & Truck Manufacturers,Asia,China,12.4,6.1,1.5,19.2,739,#695,$14.6 B,$1.9 B,$39 B,$5.7 B
+127,Fosun International,Materials,Iron & Steel,Asia,China,8.2,8.3,0.9,30.2,751,#371,$20.7 B,$2.1 B,$102.7 B,$10.8 B
+128,Metallurgical Corp of China,Industrials,Construction Services,Asia,China,5.0,32.1,0.5,53.3,759,#620,$49.8 B,$964 M,$67.6 B,$3.6 B
+129,China Yangtze Power,Utilities,Electric Utilities,Asia,China,15.3,3.8,1.5,25.4,794,#433,$7.5 B,$3.4 B,$41.8 B,$54.4 B
+130,China Shipbuilding Industry,Industrials,Heavy Equipment,Asia,China,13.2,7.9,0.4,28.6,822,#1323,$5.5 B,$73 M,$26.2 B,$13.5 B
+131,Great Wall Motor,Consumer Discretionary,Auto & Truck Manufacturers,Asia,China,15.4,8.9,1.3,8.7,839,#1396,$11.9 B,$441 M,$14.8 B,$6.1 B
+132,Datang International Power,Utilities,Electric Utilities,Asia,China,4.9,12.1,0.6,49.2,862,#1224,$13.6 B,$60 M,$40.5 B,$2.7 B
+133,Kweichow Moutai,Consumer Staples,Beverages,Asia,China,27.2,4.6,2.5,9.2,875,#342,$11.3 B,$6.2 B,$25.6 B,$225.5 B
+134,Jiangxi Copper,Materials,Diversified Metals & Mining,Asia,China,5.8,28.5,0.6,14.7,891,#1218,$34.6 B,$354 M,$19.4 B,$3.4 B
+135,Sinopharm Group,Health Care,Pharmaceuticals,Asia,China,7.1,27.1,0.4,17.4,903,#556,$61.5 B,$904 M,$38.7 B,$8.4 B
+136,Zhejiang Zheneng Electric Power,Utilities,Electric Utilities,Asia,China,9.2,7.5,0.7,15.2,917,#1467,$7.1 B,$543 M,$15.5 B,$6.7 B
+137,Shanghai International Port,Industrials,Other Transportation,Asia,China,17.4,4.6,0.9,14.6,928,#925,$5.2 B,$1.3 B,$20.4 B,$13.7 B
+138,Huadian Power International,Utilities,Electric Utilities,Asia,China,3.6,10.8,0.7,28.5,935,#1167,$13.1 B,$412 M,$33.3 B,$3.4 B
+139,Shanghai Electric Group,Industrials,Heavy Equipment,Asia,China,7.3,12.8,0.4,21.4,938,#1059,$15.1 B,$447 M,$37.1 B,$4.7 B
+140,Aluminum Corp of China,Materials,Aluminum,Asia,China,6.6,28.1,0.2,33.0,940,#1168,$27.5 B,$93 M,$29.2 B,$3.6 B
+141,Haitong Securities,Financials,Investment Services,Asia,China,14.4,2.1,0.7,22.2,945,#638,$7 B,$1.4 B,$91.4 B,$10.5 B
+142,Weichai Power,Industrials,Heavy Equipment,Asia,China,7.7,9.4,0.6,13.0,1003,#502,$24.1 B,$1.2 B,$33.1 B,$13.9 B
+143,Shaanxi Coal Industry,Materials,Diversified Metals & Mining,Asia,China,6.7,7.0,1.0,13.1,1016,#805,$9.2 B,$1.6 B,$17.4 B,$10.4 B
+144,Chongqing Rural Bank,Financials,Regional Banks,Asia,China,4.1,4.3,1.0,81.1,1021,#815,$7 B,$1.4 B,$147.9 B,$5 B
+145,Guangzhou R&F,Financials,Real Estate,Asia,China,4.6,5.9,1.2,23.2,1028,#720,$13.1 B,$1.4 B,$61.3 B,$4.4 B
+146,Tingyi Holding,Consumer Staples,Food Processing,Asia,China,16.2,10.9,0.4,8.4,1039,#1323,$9 B,$482 M,$8.3 B,$10 B
+147,China Eastern Airlines,Industrials,Airline,Asia,China,4.8,14.3,0.4,22.8,1069,#865,$17.5 B,$464 M,$40.4 B,$6.8 B
+148,China Southern Airlines,Industrials,Airline,Asia,China,3.7,15.9,0.3,27.3,1093,#909,$22.3 B,$384 M,$44.1 B,$6.4 B
+149,Bank of Ningbo,Financials,Regional Banks,Asia,China,4.1,3.9,0.8,73.9,1098,#391,$8.6 B,$2.1 B,$202.9 B,$20.8 B
+150,Bank of Nanjing,Financials,Regional Banks,Asia,China,3.7,3.3,0.7,69.6,1116,#517,$8.7 B,$1.7 B,$209 B,$10.9 B
+151,BYD,Consumer Discretionary,Auto & Truck Manufacturers,Asia,China,17.2,8.4,0.1,12.9,1133,#832,$17.6 B,$237 M,$28.2 B,$17.2 B
+152,Inner Mongolia Yili,Consumer Staples,Food Processing,Asia,China,12.1,7.3,0.5,5.2,1176,#792,$12.5 B,$833 M,$9.9 B,$24.5 B
+153,Zoomlion Heavy Industry,Industrials,Heavy Equipment,Asia,China,6.1,6.2,0.6,14.8,1176,#1629,$6.3 B,$637 M,$13.2 B,$6.1 B
+154,Want Want China,Consumer Staples,Food Processing,Asia,China,20.3,3.8,0.7,4.3,1200,#1809,$3 B,$543 M,$4.1 B,$8.9 B
+155,Wuliangye Yibin,Consumer Staples,Beverages,Asia,China,10.5,3.8,1.5,7.2,1222,#768,$5.2 B,$2 B,$14.9 B,$74.7 B
+156,Xiamen C&D,Industrials,Trading Companies,Asia,China,2.4,16.2,0.4,11.6,1243,#686,$50.1 B,$819 M,$47.1 B,$3.4 B
+157,Harbin Bank,Financials,Regional Banks,Asia,China,1.1,2.6,0.5,53.2,1249,#1311,$4.8 B,$518 M,$83.7 B,$1.9 B
+158,Gemdale,Financials,Real Estate,Asia,China,5.0,6.3,0.5,19.2,1267,#696,$8.4 B,$1.5 B,$48.1 B,$8.6 B
+159,Greentown China Holdings,Financials,Real Estate,Asia,China,2.5,4.7,0.8,20.2,1271,#1353,$9 B,$178 M,$48.4 B,$2.3 B
+160,GF Securities,Financials,Investment Services,Asia,China,9.5,1.2,0.4,17.5,1286,#919,$4 B,$1.1 B,$56.6 B,$8.3 B
+161,BBMG,Materials,Construction Materials,Asia,China,4.7,7.0,0.5,16.3,1291,#1048,$12.5 B,$498 M,$40 B,$2.7 B
+162,China National Chemical,Industrials,Construction Services,Asia,China,4.9,9.7,0.6,11.0,1313,#1416,$14.3 B,$426 M,$15.9 B,$4.3 B
+163,China International Marine,Industrials,Heavy Equipment,Asia,China,6.2,9.3,0.4,12.0,1349,#1484,$11.8 B,$71 M,$24.8 B,$3.2 B
+164,Shanghai Construction,Industrials,Construction Services,Asia,China,2.8,16.2,0.3,15.8,1360,#1042,$28.3 B,$393 M,$32.8 B,$4.1 B
+165,Jiangsu Yanghe Brewery,Consumer Staples,Beverages,Asia,China,9.0,2.6,0.9,4.4,1382,#1135,$2.7 B,$1.1 B,$7.3 B,$21 B
+166,Zijin Mining Group,Materials,Diversified Metals & Mining,Asia,China,4.6,8.1,0.5,11.1,1389,#778,$20.3 B,$638 M,$19.7 B,$10.5 B
+167,Sany Heavy Industry,Industrials,Heavy Equipment,Asia,China,6.9,5.8,0.5,11.1,1396,#703,$10.9 B,$1.6 B,$13 B,$23.3 B
+168,Shanghai Pharmaceuticals,Consumer Staples,Drug Retail,Asia,China,5.8,12.1,0.4,9.0,1446,#1009,$27 B,$592 M,$19.7 B,$5 B
+169,SDIC Power Holdings,Energy,Oil & Gas Operations,Asia,China,5.0,4.2,0.5,25.6,1458,#1098,$5.6 B,$744 M,$31.1 B,$7.4 B
+170,Shenzhen Overseas,Consumer Discretionary,Hotels & Motels,Asia,China,5.5,3.7,0.7,14.5,1459,#760,$6.6 B,$1.7 B,$56.9 B,$7.6 B
+171,China Longyuan Power,Utilities,Diversified Utilities,Asia,China,8.2,3.1,0.3,18.3,1466,#1648,$4 B,$631 M,$22.5 B,$4 B
+172,Yanzhou Coal Mining,Materials,Diversified Metals & Mining,Asia,China,4.5,9.4,0.3,19.6,1472,#910,$9.8 B,$1.4 B,$30.3 B,$3.7 B
+173,Sunac China Holdings,,,Asia,China,2.0,5.0,0.5,16.1,1474,#223,$25.3 B,$3.8 B,$137.9 B,$20.7 B
+174,Hengan International Group,Consumer Staples,Household/Personal Care,Asia,China,12.9,2.7,0.5,5.2,1478,#1638,$3.3 B,$566 M,$6.2 B,$10.6 B
+175,Angang Steel,Materials,Iron & Steel,Asia,China,3.6,12.2,0.1,15.3,1492,#1817,$14.4 B,$241 M,$12.7 B,$2.6 B
+176,China Hongqiao Group,Materials,Diversified Metals & Mining,Asia,China,3.9,4.8,0.9,10.8,1509,#978,$12.2 B,$880 M,$25.8 B,$4.3 B
+177,Bank of Chongqing,Financials,Regional Banks,Asia,China,1.7,1.8,0.4,34.2,1516,#1290,$3.6 B,$567 M,$72 B,$1.7 B
+178,China Merchants Securities,Financials,Investment Services,Asia,China,7.7,1.4,0.4,13.7,1565,#999,$3.5 B,$938 M,$54.8 B,$7.4 B
+179,Hikvision,Information Technology,Electronics,Asia,China,11.4,1.5,0.4,2.0,1572,#736,$8.1 B,$1.8 B,$10.3 B,$42.5 B
+180,Huatai Securities,Financials,Investment Services,Asia,China,6.9,1.1,0.3,16.5,1579,#698,$4.4 B,$1.3 B,$80.7 B,$15.1 B
+181,China Communications Services,Telecommunication Services,Telecommunications services,Asia,China,3.1,11.1,0.4,8.0,1626,#1488,$17 B,$443 M,$12.6 B,$4.9 B
+182,China Gezhouba,Industrials,Construction Services,Asia,China,2.9,9.1,0.3,14.0,1655,#871,$15.7 B,$788 M,$33.7 B,$4.3 B
+183,BOE Technology Group,Information Technology,Electronics,Asia,China,4.8,5.4,0.4,14.8,1668,#817,$16.5 B,$207 M,$48.1 B,$12.3 B
+184,Hainan Airlines,Industrials,Airline,Asia,China,3.6,4.8,0.3,17.1,1731,#1495,$10.4 B,$-533 M,$27.6 B,$4.1 B
+185,Kaisa Group Holdings,Financials,Consumer Financial Services,Asia,China,1.8,3.2,0.5,14.5,1786,#1157,$6.9 B,$668 M,$38.9 B,$2.3 B
+186,Hunan Valin Steel,Materials,Iron & Steel,Asia,China,0.9,9.7,0.0,11.7,1786,#1349,$14.5 B,$614 M,$12.2 B,$3.5 B
+187,Yunnan Baiyao Group,Health Care,Pharmaceuticals,Asia,China,9.2,2.6,0.4,2.1,1807,#1344,$4.4 B,$663 M,$7.3 B,$16.4 B
+188,Inner Mongolia Baotou Steel,Materials,Iron & Steel,Asia,China,5.2,6.1,0.0,14.9,1838,#1159,$10.1 B,$502 M,$20.1 B,$7 B
+189,Financial Street Holdings,Financials,Real Estate,Asia,China,2.5,3.2,0.5,12.6,1880,#1970,$3.6 B,$434 M,$23.3 B,$2.9 B
+190,Tongling Nonferrous Metals,Materials,Diversified Metals & Mining,Asia,China,2.1,12.4,0.1,7.4,1928,#1962,$13.4 B,$104 M,$6.9 B,$2.9 B
+191,Wanhua Chemical Group,Materials,Specialized Chemicals,Asia,China,6.3,3.2,0.5,4.6,1937,#748,$9.6 B,$1.3 B,$15.2 B,$20 B
+192,China Fortune Land Development,,,Asia,China,6.0,2.9,0.4,10.2,1957,#473,$15.1 B,$2.1 B,$67 B,$10.1 B
+193,New Hope Liuhe,Consumer Staples,Food Processing,Asia,China,3.3,11.1,0.3,4.7,1964,#875,$11.9 B,$730 M,$9.2 B,$19.3 B
+194,Ecopetrol,Energy,Oil & Gas Operations,South America,Colombia,83.6,37.7,7.0,68.5,128,#313,$22.1 B,$4 B,$41.3 B,$21.9 B
+195,Grupo Aval,Financials,Investment Services,South America,Colombia,13.3,9.0,0.8,72.0,553,#711,$11.1 B,$924 M,$85 B,$6.3 B
+196,Bancolombia,Financials,Regional Banks,South America,Colombia,13.3,5.9,0.8,67.7,644,#856,$7 B,$950 M,$71.9 B,$6.2 B
+197,Banco Davivienda,Financials,Regional Banks,South America,Colombia,5.8,3.1,0.5,28.2,1363,#1644,$3.7 B,$448 M,$37.2 B,$3.3 B
+198,CEZ Group,Utilities,Electric Utilities,Europe,Czech Republic,15.3,11.1,1.8,32.3,485,#903,$9.2 B,$530 M,$31.1 B,$10 B
+199,Danske Bank,Financials,Major Banks,Europe,Denmark,28.3,20.8,1.3,596.0,231,#398,$16 B,$1.5 B,$589.3 B,$10.1 B
+200,Novo Nordisk,Health Care,Pharmaceuticals,Europe,Denmark,119.6,14.9,4.5,13.0,399,#333,$18.3 B,$5.8 B,$18.9 B,$146.8 B
+201,Carlsberg,Consumer Staples,Beverages,Europe,Denmark,15.2,11.8,1.0,27.9,565,#729,$9.9 B,$985 M,$18.5 B,$18.1 B
+202,Coloplast,Health Care,Medical Equipment & Supplies,Europe,Denmark,17.3,2.1,0.5,1.6,1353,#1215,$2.7 B,$596 M,$2 B,$33.6 B
+203,Jyske Bank,Financials,Regional Banks,Europe,Denmark,4.1,1.8,0.3,48.4,1517,#1580,$2.1 B,$342 M,$97.6 B,$2 B
+204,Novozymes,Health Care,Biotechs,Europe,Denmark,13.8,2.1,0.4,3.0,1554,#1604,$2.2 B,$487 M,$3 B,$13.8 B
+205,Vestas Wind Systems,Industrials,Electrical Equipment,Europe,Denmark,9.4,8.1,-0.1,7.8,1574,#750,$13.6 B,$788 M,$16.1 B,$16.8 B
+206,Commercial International Bank,Financials,Regional Banks,Africa,Egypt,4.8,1.7,0.4,16.4,1750,#1456,$2.8 B,$702 M,$24.1 B,$6 B
+207,Sampo,Financials,Diversified Insurance,Europe,Finland,29.7,8.7,1.9,44.3,408,#466,$12.7 B,$1.3 B,$58.1 B,$18.4 B
+208,Fortum,Utilities,Electric Utilities,Europe,Finland,20.3,8.0,1.6,33.6,513,#755,$6.1 B,$1.7 B,$26.2 B,$14.7 B
+209,Nokia,Information Technology,Communications Equipment,Europe,Finland,28.1,27.5,-0.8,34.7,631,#625,$25.8 B,$391 M,$43.6 B,$20.5 B
+210,UPM-Kymmene,Materials,Paper & Paper Products,Europe,Finland,9.3,13.3,0.4,20.1,829,#774,$10.9 B,$1.1 B,$16.4 B,$14.8 B
+211,Kone,Industrials,Construction Services,Europe,Finland,21.6,9.2,0.9,7.4,836,#765,$11.1 B,$1 B,$8.8 B,$31.4 B
+212,Stora Enso,Materials,Paper & Paper Products,Europe,Finland,8.5,14.0,-0.1,17.6,1081,#926,$10.7 B,$889 M,$15.9 B,$9.3 B
+213,Kesko,Consumer Staples,Food Retail,Europe,Finland,4.4,12.4,0.2,6.0,1924,#1637,$12.1 B,$372 M,$7.7 B,$6.5 B
+214,BNP Paribas,Financials,Major Banks,Europe,France,98.6,123.2,6.4,2480.5,24,#42,$128 B,$8.7 B,"$2,429.9 B",$39.2 B
+215,Total,Energy,Oil & Gas Operations,Europe,France,149.8,227.9,11.2,239.1,25,#29,$176.2 B,$11.3 B,$273.3 B,$93.1 B
+216,AXA Group,Financials,Diversified Insurance,Europe,France,63.4,138.9,6.0,1018.9,33,#64,$150 B,$4 B,$850.8 B,$42.3 B
+217,EDF,Utilities,Electric Utilities,Europe,France,75.8,100.4,4.5,353.9,50,#112,$79.8 B,$5.1 B,$340.4 B,$24.7 B
+218,Sanofi,Health Care,Pharmaceuticals,Europe,France,137.1,43.7,4.9,132.4,87,#117,$40.4 B,$3.3 B,$126.5 B,$122.5 B
+219,Credit Agricole,Financials,Major Banks,Europe,France,41.0,65.3,3.3,2117.7,89,#118,$74.3 B,$4.8 B,"$1,984.2 B",$21.9 B
+220,VINCI,Industrials,Construction Services,Europe,France,44.2,54.1,2.6,86.9,147,#137,$54.6 B,$3.6 B,$102.3 B,$45.5 B
+221,Schneider Electric,Industrials,Electrical Equipment,Europe,France,50.7,31.3,2.5,51.0,196,#227,$30.4 B,$2.7 B,$50.5 B,$50.4 B
+222,Carrefour,Consumer Staples,Food Retail,Europe,France,27.4,99.4,1.7,60.0,212,#374,$83 B,$1.3 B,$57 B,$11.8 B
+223,Danone,Consumer Staples,Food Processing,Europe,France,41.8,28.3,1.9,42.6,242,#248,$28.3 B,$2.1 B,$50.9 B,$45 B
+224,Natixis,Financials,Major Banks,Europe,France,23.6,21.6,1.2,702.9,251,#362,$33.5 B,$2 B,$576 B,$7.5 B
+225,Renault,Consumer Discretionary,Auto & Truck Manufacturers,Europe,France,28.7,54.3,0.8,103.3,262,#797,$62.2 B,$-158 M,$137.1 B,$5.8 B
+226,CNP Assurances,Financials,Diversified Insurance,Europe,France,14.6,36.2,1.3,455.1,265,#393,$46.6 B,$1.5 B,$470.3 B,$7.1 B
+227,Saint-Gobain,Materials,Construction Materials,Europe,France,34.5,55.5,0.8,63.0,277,#331,$47.7 B,$1.6 B,$56.1 B,$14.4 B
+228,Air Liquide,Materials,Specialized Chemicals,Europe,France,42.1,20.2,2.2,34.6,293,#239,$24.5 B,$2.5 B,$49 B,$60 B
+229,Safran,Industrials,Aerospace & Defense,Europe,France,29.0,19.5,1.4,33.0,351,#257,$28.1 B,$2.7 B,$48.1 B,$36.7 B
+230,Michelin Group,Consumer Discretionary,Auto & Truck Parts,Europe,France,23.6,26.9,1.5,28.5,359,#381,$27 B,$1.9 B,$35.6 B,$17.4 B
+231,Pernod Ricard,Consumer Staples,Beverages,Europe,France,30.6,10.9,1.6,38.3,398,#451,$10.6 B,$1.6 B,$36.8 B,$40 B
+232,Alstom,Industrials,Conglomerates,Europe,France,9.1,26.6,1.0,41.2,493,#1414,$9.3 B,$373 M,$14.1 B,$9.2 B
+233,Thales,Industrials,Aerospace & Defense,Europe,France,13.8,18.2,0.8,29.6,527,#487,$20.6 B,$1.3 B,$35 B,$16.1 B
+234,Vivendi,Telecommunication Services,Telecommunications services,Europe,France,37.3,31.6,-1.3,67.8,548,#363,$17.8 B,$1.8 B,$41.9 B,$25.3 B
+235,Publicis Groupe,Consumer Discretionary,Advertising,Europe,France,18.4,9.2,1.1,23.6,589,#769,$12.3 B,$941 M,$36.7 B,$7 B
+236,Sodexo,Consumer Discretionary,Business & Personal Services,Europe,France,16.5,24.1,0.6,16.6,613,#673,$25.2 B,$756 M,$21.5 B,$11.6 B
+237,Unibail-Rodamco,Financials,Real Estate,Europe,France,25.2,2.3,1.7,44.6,622,#1730,$499 M,$95 M,$15.7 B,$13.6 B
+238,Bouygues,Industrials,Construction Services,Europe,France,13.4,44.3,-1.0,47.3,660,#445,$42.5 B,$1.3 B,$44.2 B,$11.7 B
+239,Scor,Financials,Diversified Insurance,Europe,France,6.5,12.8,0.7,45.5,695,#950,$16.5 B,$472 M,$50.1 B,$5.2 B
+240,Veolia Environnement,Utilities,Diversified Utilities,Europe,France,10.8,29.6,-0.2,49.9,719,#548,$30.4 B,$693 M,$46 B,$11.8 B
+241,Kering,Consumer Discretionary,Apparel/Accessories,Europe,France,25.8,12.9,0.1,31.4,763,#322,$17.8 B,$2.4 B,$30.5 B,$63 B
+242,Peugeot,Consumer Discretionary,Auto & Truck Manufacturers,Europe,France,6.6,71.8,-3.1,82.2,775,#264,$83.6 B,$3.6 B,$78.3 B,$12.8 B
+243,Capgemini,Information Technology,Computer Services,Europe,France,11.8,13.4,0.6,14.0,798,#644,$15.8 B,$958 M,$20.4 B,$15.9 B
+244,Valeo,Consumer Discretionary,Auto & Truck Parts,Europe,France,11.2,16.1,0.6,12.5,805,#1229,$21.8 B,$350 M,$21.2 B,$5.5 B
+245,Eiffage,Industrials,Construction Services,Europe,France,6.7,18.9,0.3,37.7,847,#671,$20.9 B,$812 M,$36.9 B,$8 B
+246,Financiere de l'Odet,Industrials,Conglomerates,Europe,France,6.0,13.1,0.6,19.6,916,#995,$27.8 B,$137 M,$63.8 B,$2.7 B
+247,Finatis,Consumer Staples,Food Retail,Europe,France,0.6,65.5,0.1,56.6,923,#1024,$42.7 B,$-173 M,$42.8 B,$160 M
+248,Dassault Aviation,Industrials,Aerospace & Defense,Europe,France,14.2,6.1,0.6,13.9,948,#1146,$8.3 B,$798 M,$17.3 B,$6.8 B
+249,Wendel,Financials,Investment Services,Europe,France,7.7,8.5,0.4,18.7,1005,#1568,$9.6 B,$447 M,$16.4 B,$3.7 B
+250,Legrand,Industrials,Electrical Equipment,Europe,France,16.5,5.9,0.7,9.1,1022,#943,$7.4 B,$934 M,$13.3 B,$18 B
+251,Air France-KLM,Industrials,Airline,Europe,France,4.7,34.0,-2.4,35.0,1036,#1096,$30.4 B,$325 M,$34.5 B,$2.2 B
+252,Rexel,Information Technology,Electronics,Europe,France,7.4,17.3,0.3,14.5,1100,#1802,$15.4 B,$229 M,$12.4 B,$2.8 B
+253,ATOS,Information Technology,Computer Services,Europe,France,8.9,11.4,0.3,9.7,1198,#1007,$13 B,$525 M,$20.9 B,$7.7 B
+254,Aeroports de Paris,Industrials,Other Transportation,Europe,France,12.6,3.7,0.4,13.3,1318,#1221,$5.3 B,$658 M,$18.9 B,$9.7 B
+255,Iliad,Information Technology,Computer Services,Europe,France,16.5,5.0,0.4,6.6,1398,#939,$6 B,$1.9 B,$20.4 B,$8.7 B
+256,Accor,Consumer Discretionary,Hotels & Motels,Europe,France,12.0,7.4,0.2,9.7,1418,#1713,$4.5 B,$519 M,$15.6 B,$7.5 B
+257,Gecina,Financials,Real Estate,Europe,France,8.2,1.0,0.4,15.2,1424,#1004,$1.1 B,$1.7 B,$23 B,$9.6 B
+258,Dassault Systemes,Information Technology,Software & Programming,Europe,France,14.8,2.7,0.5,5.8,1431,#1020,$4.5 B,$689 M,$15.6 B,$37.8 B
+259,Arkema,Materials,Diversified Chemicals,Europe,France,7.2,8.1,0.2,7.5,1791,#1391,$9.8 B,$608 M,$12.3 B,$6.4 B
+260,Volkswagen Group,Consumer Discretionary,Auto & Truck Manufacturers,Europe,Germany,119.0,261.5,12.0,446.9,19,#23,$275.2 B,$12 B,$538.9 B,$70.4 B
+261,Allianz,Financials,Diversified Insurance,Europe,Germany,77.2,131.4,8.0,963.1,27,#25,$122.4 B,$8.9 B,"$1,183.5 B",$77.1 B
+262,Daimler,Consumer Discretionary,Auto & Truck Manufacturers,Europe,Germany,102.9,156.6,9.1,232.2,31,#326,$189.2 B,$418 M,$326.6 B,$37 B
+263,BMW Group,Consumer Discretionary,Auto & Truck Manufacturers,Europe,Germany,83.4,101.0,7.1,190.7,48,#75,$116.6 B,$5.5 B,$271.3 B,$38.9 B
+264,Siemens,Industrials,Conglomerates,Europe,Germany,114.2,99.7,6.0,140.1,53,#62,$97.4 B,$5.9 B,$171 B,$75.4 B
+265,BASF,Materials,Diversified Chemicals,Europe,Germany,102.3,98.2,6.4,88.7,72,#107,$66.5 B,$8.8 B,$101.3 B,$47 B
+266,Munich Re,Financials,Diversified Insurance,Europe,Germany,38.9,88.0,4.4,343.1,92,#206,$36.1 B,$1.4 B,$317.2 B,$31.1 B
+267,E.ON,Utilities,Electric Utilities,Europe,Germany,37.6,162.6,2.8,180.1,113,#218,$45.9 B,$1.8 B,$118 B,$26.1 B
+268,Bayer,Materials,Diversified Chemicals,Europe,Germany,111.3,53.3,4.2,70.7,120,#102,$49.9 B,$4.8 B,$137.7 B,$64.7 B
+269,Deutsche Telekom,Telecommunication Services,Telecommunications services,Europe,Germany,71.2,79.8,1.2,162.8,145,#69,$90.1 B,$4.3 B,$207.1 B,$69.2 B
+270,Deutsche Post,Industrials,Air Courier,Europe,Germany,45.4,73.1,2.8,48.9,163,#185,$70.9 B,$2.9 B,$61 B,$36.7 B
+271,Deutsche Bank,Financials,Major Banks,Europe,Germany,46.5,61.1,0.9,2220.4,167,#542,$37.7 B,$-6.1 B,"$1,636.2 B",$15.3 B
+272,SAP,Information Technology,Software & Programming,Europe,Germany,97.1,22.3,4.4,37.3,207,#150,$31.1 B,$4.7 B,$69.1 B,$142.4 B
+273,Continental,Consumer Discretionary,Auto & Truck Parts,Europe,Germany,48.7,44.3,2.6,37.0,215,#646,$49.8 B,$-1.4 B,$49.4 B,$16.9 B
+274,Linde,Materials,Diversified Chemicals,Europe,Germany,37.0,22.1,1.7,45.1,275,#178,$28.2 B,$2.3 B,$86.6 B,$96.6 B
+275,Fresenius,Health Care,Medical Equipment & Supplies,Europe,Germany,27.8,27.0,1.3,45.1,303,#240,$39.6 B,$2.1 B,$75.2 B,$23.8 B
+276,Henkel,Consumer Staples,Household/Personal Care,Europe,Germany,46.4,21.7,2.1,26.7,312,#305,$22.5 B,$2.3 B,$35.9 B,$38.5 B
+277,Talanx,Financials,Diversified Insurance,Europe,Germany,9.2,36.7,1.0,174.0,389,#407,$43.6 B,$1 B,$193 B,$9 B
+278,HeidelbergCement,Materials,Construction Materials,Europe,Germany,16.5,18.5,1.0,37.0,434,#678,$10.8 B,$983 M,$44.5 B,$9.4 B
+279,RWE Group,Utilities,Electric Utilities,Europe,Germany,25.1,68.2,-3.6,111.8,505,#297,$14.7 B,$9.5 B,$79.4 B,$17.7 B
+280,Adidas,Consumer Discretionary,Apparel/Accessories,Europe,Germany,22.8,19.2,1.0,16.0,522,#397,$25 B,$1.5 B,$22.8 B,$44.9 B
+281,Evonik,,,Europe,Germany,18.3,17.1,0.7,21.9,552,#569,$14.7 B,$2.4 B,$26.2 B,$11.5 B
+282,Commerzbank,Financials,Major Banks,Europe,Germany,21.7,21.6,0.1,803.0,556,#692,$14.5 B,$722 M,$520.4 B,$4.6 B
+283,Porsche Automobil Holding,Consumer Discretionary,Auto & Truck Manufacturers,Europe,Germany,32.3,0.0,3.2,43.1,577,#675,$130 M,$4.9 B,$40.1 B,$15.4 B
+284,Deutsche Lufthansa,Industrials,Airline,Europe,Germany,12.3,39.9,0.4,40.1,580,#631,$40.8 B,$1.4 B,$48.7 B,$4.3 B
+285,ThyssenKrupp Group,Industrials,Conglomerates,Europe,Germany,15.5,51.6,-2.0,48.9,624,#1035,$44.7 B,$-741 M,$40.4 B,$4.1 B
+286,Metro Group,Consumer Staples,Food Retail,Europe,Germany,13.4,81.0,-0.1,45.2,642,#1273,$29.8 B,$-405 M,$20.4 B,$3.2 B
+287,Deutsche Boerse,Financials,Investment Services,Europe,Germany,15.5,3.0,0.6,260.9,718,#589,$3.7 B,$1.1 B,$154 B,$28.5 B
+288,EnBW-Energie Baden,Utilities,Electric Utilities,Europe,Germany,9.7,27.3,0.1,49.8,770,#492,$22.3 B,$822 M,$52.4 B,$14.7 B
+289,Beiersdorf,Consumer Staples,Household/Personal Care,Europe,Germany,24.7,8.2,0.7,8.0,895,#905,$8.6 B,$804 M,$11.4 B,$23.7 B
+290,Brenntag,Materials,Specialized Chemicals,Europe,Germany,9.6,13.0,0.5,7.8,1095,#1272,$14.4 B,$522 M,$9.8 B,$7 B
+291,TUI,Consumer Discretionary,Business & Personal Services,Europe,Germany,4.3,24.4,0.0,17.5,1252,#1094,$21.6 B,$506 M,$20.1 B,$2.4 B
+292,Infineon Technologies,Information Technology,Semiconductors,Europe,Germany,13.7,5.3,0.5,8.1,1316,#763,$8.9 B,$925 M,$16.4 B,$23.1 B
+293,Aareal Bank,Financials,Thrifts & Mortgage Finance,Europe,Germany,2.7,1.3,0.2,59.2,1653,#1896,$1.5 B,$162 M,$46.2 B,$978 M
+294,BayWa,Consumer Discretionary,Specialty Stores,Europe,Germany,2.0,19.5,0.2,6.9,1695,#1769,$19.1 B,$41 M,$10 B,$1.1 B
+295,Piraeus Bank,Financials,Regional Banks,Europe,Greece,13.9,5.5,3.4,126.8,502,#1718,$2.6 B,$301 M,$68.7 B,$582 M
+296,Alpha Bank,Financials,Regional Banks,Europe,Greece,10.5,5.2,3.0,99.3,586,#1706,$3.2 B,$109 M,$71.2 B,$1.1 B
+297,National Bank of Greece,Financials,Major Banks,Europe,Greece,13.4,5.0,1.1,152.9,607,#1702,$2.3 B,$-220 M,$72.1 B,$1.2 B
+298,Bank of Greece,Financials,Major Banks,Europe,Greece,0.4,2.8,1.1,150.9,979,#1055,$1.3 B,$943 M,$122.5 B,$286 M
+299,China Mobile,Telecommunication Services,Telecommunications services,Asia,Hong Kong,184.6,102.5,19.8,192.8,28,#28,$108.1 B,$15.5 B,$233.9 B,$164.9 B
+300,CNOOC,Energy,Oil & Gas Operations,Asia,Hong Kong,67.2,43.0,10.6,102.7,108,#126,$33.6 B,$8.8 B,$108.8 B,$50.6 B
+301,AIA Group,Financials,Life & Health Insurance,Asia,Hong Kong,58.0,20.7,2.8,145.2,164,#66,$40.9 B,$6.6 B,$280.3 B,$111.8 B
+302,China Unicom,Telecommunication Services,Telecommunications services,Asia,Hong Kong,31.6,48.0,1.7,87.5,193,#286,$42.1 B,$1.6 B,$82 B,$19.8 B
+303,Jardine Matheson,Industrials,Conglomerates,Asia,Hong Kong,43.4,39.5,1.6,63.8,208,#287,$40.9 B,$2.8 B,$97 B,$13.4 B
+304,China Railway Group,Industrials,Construction Services,Asia,Hong Kong,10.0,85.9,1.5,102.3,320,#204,$122.9 B,$3.2 B,$151.6 B,$14.8 B
+305,Sun Hung Kai Properties,Financials,Real Estate,Asia,Hong Kong,33.4,7.1,4.7,69.5,361,#270,$11.2 B,$5.1 B,$103.6 B,$39.8 B
+306,CLP Holdings,Utilities,Electric Utilities,Asia,Hong Kong,19.2,13.5,0.8,27.3,530,#660,$10.9 B,$594 M,$28.4 B,$27 B
+307,Swire Pacific,Industrials,Conglomerates,Asia,Hong Kong,17.7,6.6,1.7,45.0,531,#609,$10.9 B,$1.1 B,$56.6 B,$9.9 B
+308,China Resources Land,Financials,Real Estate,Asia,Hong Kong,12.9,9.3,1.9,36.3,534,#210,$21.6 B,$4.1 B,$109.4 B,$29.3 B
+309,Lenovo Group,Information Technology,Computer Hardware,Asia,Hong Kong,11.9,37.2,0.8,19.5,566,#681,$51.8 B,$741 M,$35 B,$6.5 B
+310,China Resources Power,Utilities,Electric Utilities,Asia,Hong Kong,12.6,9.0,1.5,27.6,595,#1043,$8.6 B,$841 M,$27.7 B,$5.7 B
+311,MTR,Industrials,Railroads,Asia,Hong Kong,21.7,5.0,1.7,27.8,632,#566,$7 B,$1.5 B,$37.1 B,$34.2 B
+312,Country Garden Holdings,Financials,Real Estate,Asia,Hong Kong,8.0,10.2,1.4,34.1,633,#111,$70.1 B,$5.7 B,$273.8 B,$27.8 B
+313,Henderson Land,Financials,Real Estate,Asia,Hong Kong,15.7,3.0,2.1,39.2,692,#639,$3.1 B,$2.2 B,$58.4 B,$19.8 B
+314,New World Development,Financials,Real Estate,Asia,Hong Kong,8.8,6.4,1.1,45.7,704,#648,$7.6 B,$1 B,$76.2 B,$12 B
+315,Galaxy Entertainment,Consumer Discretionary,Casinos & Gaming,Asia,Hong Kong,39.7,8.5,1.3,6.0,742,#974,$3.8 B,$1.7 B,$12.3 B,$28.2 B
+316,Shimao Property Holdings,Financials,Real Estate,Asia,Hong Kong,7.6,6.8,1.2,29.0,788,#423,$16.2 B,$1.6 B,$67.7 B,$13.9 B
+317,Bank of East Asia,Financials,Regional Banks,Asia,Hong Kong,9.1,4.1,0.9,97.2,817,#1454,$4.4 B,$329 M,$111 B,$6.2 B
+318,Chow Tai Fook Jewellery,Consumer Discretionary,Apparel/Accessories,Asia,Hong Kong,15.8,9.0,0.9,6.9,893,#1399,$8.5 B,$533 M,$8.2 B,$8.5 B
+319,Power Assets Holdings,Utilities,Electric Utilities,Asia,Hong Kong,18.7,1.3,1.4,13.6,904,#1254,$172 M,$910 M,$12 B,$14.3 B
+320,Link REIT,Financials,Real Estate,Asia,Hong Kong,11.4,0.9,2.5,13.4,954,#742,$1.3 B,$2.3 B,$29.6 B,$18.5 B
+321,Cathay Pacific Airways,Industrials,Airline,Asia,Hong Kong,7.4,13.0,0.3,22.1,972,#1348,$13.7 B,$216 M,$27.5 B,$4.7 B
+322,Sun Art Retail Group,Consumer Discretionary,Specialty Stores,Asia,Hong Kong,11.9,14.0,0.5,8.2,1010,#1085,$13.8 B,$412 M,$10.2 B,$15.9 B
+323,Hong Kong Exchanges,Financials,Investment Services,Asia,Hong Kong,17.9,1.0,0.6,11.1,1144,#688,$2.1 B,$1.2 B,$35.8 B,$41.1 B
+324,Hang Lung Group,Financials,Real Estate,Asia,Hong Kong,6.8,1.3,0.6,25.7,1175,#1400,$1.2 B,$870 M,$27.4 B,$3.1 B
+325,Beijing Enterprises,Utilities,Natural Gas Utilities,Asia,Hong Kong,11.4,4.9,0.5,12.5,1196,#1072,$8.7 B,$1 B,$23.8 B,$4.5 B
+326,China Taiping Insurance,Financials,Diversified Insurance,Asia,Hong Kong,4.4,11.9,0.2,40.3,1197,#545,$31.8 B,$1.1 B,$116.3 B,$6.1 B
+327,ZTE,Information Technology,Communications Equipment,Asia,Hong Kong,7.2,12.1,0.2,16.7,1220,#779,$13.1 B,$740 M,$20.3 B,$12 B
+328,China Mengniu Dairy,Consumer Staples,Food Processing,Asia,Hong Kong,10.0,7.1,0.3,4.4,1564,#1026,$11.4 B,$595 M,$11.3 B,$14 B
+329,Hopson Development Holdings,Financials,Real Estate,Asia,Hong Kong,2.1,2.0,0.5,17.4,1601,#1311,$2.4 B,$1.2 B,$26.2 B,$2.5 B
+330,Brilliance China Automotive Holdings,,,Asia,Hong Kong,7.7,1.0,0.5,3.1,1680,#1950,$559 M,$979 M,$7.1 B,$4.7 B
+331,Guangdong Investment,Utilities,Diversified Utilities,Asia,Hong Kong,6.3,1.0,0.6,5.3,1835,#1447,$2.1 B,$644 M,$9.8 B,$13.6 B
+332,First Pacific,Financials,Investment Services,Asia,Hong Kong,4.4,6.2,0.2,15.6,1869,#1790,$8.1 B,$-254 M,$21.9 B,$901 M
+333,MOL Hungarian Oil,Energy,Oil & Gas Operations,Europe,Hungary,5.6,24.2,0.1,21.5,1105,#1044,$18.1 B,$768 M,$17.4 B,$4 B
+334,OTP Bank,Financials,Regional Banks,Europe,Hungary,5.3,6.2,0.3,48.2,1270,#841,$5.1 B,$1.4 B,$61.7 B,$8.3 B
+335,Reliance Industries,Energy,Oil & Gas Operations,Asia,India,50.9,72.8,3.8,67.2,135,#58,$84.8 B,$6.2 B,$147.2 B,$123.8 B
+336,State Bank of India,Financials,Regional Banks,Asia,India,23.6,37.1,3.3,376.8,155,#171,$51.1 B,$2 B,$559.9 B,$22.6 B
+337,Oil & Natural Gas,Energy,Oil & Gas Operations,Asia,India,46.4,29.6,4.5,53.8,176,#269,$60.1 B,$4.4 B,$72.6 B,$13.4 B
+338,ICICI Bank,Financials,Regional Banks,Asia,India,23.7,13.3,1.8,124.2,304,#255,$20.8 B,$1.3 B,$182.8 B,$32.8 B
+339,Tata Motors,Consumer Discretionary,Auto & Truck Manufacturers,Asia,India,19.9,34.5,1.8,32.4,332,#1037,$40.5 B,$-150 M,$42.4 B,$4.5 B
+340,Indian Oil,Energy,Oil & Gas Operations,Asia,India,11.1,74.6,0.8,43.7,416,#389,$69.9 B,$1.8 B,$47.1 B,$10.6 B
+341,HDFC Bank,Financials,Regional Banks,Asia,India,29.6,7.9,1.3,75.0,421,#146,$20.7 B,$3.8 B,$209 B,$73.1 B
+342,NTPC,Utilities,Electric Utilities,Asia,India,16.8,12.3,2.3,35.5,424,#497,$13.5 B,$1.8 B,$47.7 B,$12.6 B
+343,Coal India,Materials,Diversified Metals & Mining,Asia,India,30.6,12.6,3.2,18.4,428,#612,$13.8 B,$2.6 B,$19.7 B,$12.3 B
+344,Larsen & Toubro,Industrials,Construction Services,Asia,India,19.8,13.5,1.0,26.7,500,#443,$20.8 B,$1.4 B,$40.4 B,$16.8 B
+345,HDFC,Financials,Consumer Financial Services,Asia,India,23.2,6.6,1.2,43.5,535,#279,$13.2 B,$2.3 B,$98.2 B,$44.2 B
+346,Tata Consultancy Services,Information Technology,Computer Services,Asia,India,71.2,13.1,3.0,9.2,542,#375,$22.1 B,$4.6 B,$16 B,$100.7 B
+347,Bharti Airtel,Telecommunication Services,Telecommunications services,Asia,India,21.1,14.3,0.4,29.2,625,#700,$12 B,$-3.8 B,$49.2 B,$37.4 B
+348,Axis Bank,Financials,Regional Banks,Asia,India,11.5,6.3,1.0,62.7,630,#727,$11.3 B,$263 M,$122.7 B,$16.7 B
+349,Infosys,Information Technology,Computer Services,Asia,India,31.7,8.1,1.7,8.7,726,#602,$12.8 B,$2.3 B,$12.3 B,$40.6 B
+350,Punjab National Bank,Financials,Regional Banks,Asia,India,4.5,8.7,0.9,91.4,795,#1197,$8.9 B,$-476 M,$117.5 B,$2.9 B
+351,Bank of Baroda,Financials,Regional Banks,Asia,India,5.2,7.5,0.9,102.9,801,#1063,$12.1 B,$-50 M,$159.3 B,$3 B
+352,Mahindra & Mahindra,Consumer Discretionary,Auto & Truck Manufacturers,Asia,India,9.9,12.4,0.7,14.1,803,#1291,$14.5 B,$291 M,$23.5 B,$6.1 B
+353,ITC,Consumer Staples,Tobacco,Asia,India,46.9,5.8,1.4,6.6,830,#907,$5.5 B,$1.6 B,$10.1 B,$29.8 B
+354,Wipro,Information Technology,Computer Services,Asia,India,23.1,7.1,1.2,7.8,849,#904,$8.6 B,$1.4 B,$10.8 B,$14.4 B
+355,GAIL India,Utilities,Natural Gas Utilities,Asia,India,8.0,9.3,0.8,12.2,955,#1257,$10.9 B,$936 M,$9.9 B,$5.8 B
+356,Hindalco Industries,Materials,Aluminum,Asia,India,4.8,14.6,0.6,22.7,957,#965,$18.6 B,$786 M,$21.5 B,$3.9 B
+357,Canara Bank,Financials,Major Banks,Asia,India,2.0,6.9,0.5,77.2,966,#1237,$8.3 B,$104 M,$103.2 B,$1.7 B
+358,Bank of India,Financials,Regional Banks,Asia,India,2.4,6.6,0.5,84.0,976,#1349,$7.1 B,$109 M,$89.2 B,$1.5 B
+359,Tata Steel,Materials,Iron & Steel,Asia,India,6.5,23.8,-1.3,27.2,983,#828,$21.1 B,$773 M,$34.4 B,$4.5 B
+360,Power Grid of India,Utilities,Electric Utilities,Asia,India,9.5,2.4,0.8,22.0,1011,#845,$5 B,$1.4 B,$35.6 B,$11.3 B
+361,Bharat Petroleum,Energy,Oil & Gas Operations,Asia,India,5.4,40.3,0.3,14.9,1045,#601,$42.6 B,$1.1 B,$20.5 B,$10.7 B
+362,HCL Technologies,Information Technology,Software & Programming,Asia,India,16.6,4.7,0.7,4.2,1153,#809,$9.7 B,$1.5 B,$10.6 B,$19.6 B
+363,Power Finance,Consumer Discretionary,Business & Personal Services,Asia,India,4.2,3.2,0.8,31.2,1226,#820,$7.5 B,$1.4 B,$91.5 B,$3.4 B
+364,Union Bank of India,Financials,Regional Banks,Asia,India,1.4,5.2,0.4,57.6,1229,#1511,$5.9 B,$-531 M,$74.9 B,$1.2 B
+365,Kotak Mahindra Bank,Financials,Regional Banks,Asia,India,9.9,2.9,0.4,18.3,1254,#522,$7.4 B,$1.2 B,$56.5 B,$34.6 B
+366,IDBI Bank,Financials,Regional Banks,Asia,India,1.7,5.2,0.3,59.4,1290,#1948,$3.6 B,$-2.5 B,$41.9 B,$3 B
+367,Sun Pharma Industries,Health Care,Pharmaceuticals,Asia,India,19.9,2.1,0.5,4.1,1293,#1483,$4.5 B,$568 M,$9.2 B,$14.9 B
+368,Steel Authority of India,Materials,Iron & Steel,Asia,India,4.9,8.2,0.4,15.9,1328,#1789,$9.6 B,$336 M,$17.2 B,$1.8 B
+369,Bajaj Auto,Consumer Discretionary,Recreational Products,Asia,India,10.0,3.6,0.6,2.4,1498,#1531,$4.3 B,$748 M,$4 B,$10.1 B
+370,Central Bank of India,Financials,Regional Banks,Asia,India,1.1,4.3,0.2,49.5,1637,#1855,$3.6 B,$-803 M,$48.9 B,$1.2 B
+371,Indian Bank,Financials,Regional Banks,Asia,India,0.9,2.8,0.3,30.0,1734,#1944,$3.4 B,$133 M,$42.1 B,$422 M
+372,Grasim Industries,Materials,Construction Materials,Asia,India,4.4,5.1,0.5,7.4,1978,#1060,$11 B,$576 M,$34.7 B,$4.4 B
+373,JSW Steel,Materials,Iron & Steel,Asia,India,4.1,7.0,0.2,12.1,1989,#1116,$11 B,$756 M,$17.7 B,$5.8 B
+374,Bank Mandiri,Financials,Regional Banks,Asia,Indonesia,20.5,6.6,1.7,60.2,478,#495,$8.6 B,$1.9 B,$95 B,$14 B
+375,Bank Central Asia,Financials,Regional Banks,Asia,Indonesia,23.9,4.0,1.4,40.8,661,#487,$6 B,$2 B,$66.2 B,$42.8 B
+376,Bank Negara Indonesia,Financials,Regional Banks,Asia,Indonesia,8.5,3.4,0.9,31.8,965,#1053,$5.4 B,$1.1 B,$60.9 B,$5.1 B
+377,Gudang Garam,Consumer Staples,Tobacco,Asia,Indonesia,8.7,5.3,0.4,4.2,1547,#1516,$7.9 B,$774 M,$4.7 B,$5.9 B
+378,Eaton,Industrials,Other Industrial Equipment,Europe,Ireland,36.1,22.0,1.9,35.5,299,#339,$20.9 B,$2.1 B,$30.8 B,$34.4 B
+379,Accenture,Information Technology,Computer Services,Europe,Ireland,52.7,30.6,2.9,16.4,339,#205,$44.7 B,$5 B,$33.5 B,$118 B
+380,Seagate Technology,Information Technology,Computer Storage Devices,Europe,Ireland,18.7,14.0,1.6,8.9,682,#840,$10.4 B,$1.8 B,$8.8 B,$13 B
+381,CRH,Materials,Construction Materials,Europe,Ireland,21.0,23.9,-0.4,28.2,708,#318,$28.1 B,$1.9 B,$41.9 B,$23.8 B
+382,Bank of Ireland,Financials,Major Banks,Europe,Ireland,14.4,5.8,-0.6,182.1,891,#1118,$7.1 B,$432 M,$148 B,$2.2 B
+383,Ryanair Holdings,Industrials,Airline,Europe,Ireland,14.7,6.7,0.7,11.4,936,#816,$9.6 B,$1.2 B,$16.7 B,$12.4 B
+384,Experian,Consumer Discretionary,Business & Personal Services,Europe,Ireland,18.0,4.8,0.7,8.2,1154,#1156,$5 B,$727 M,$8.6 B,$27 B
+385,Kerry Group,Consumer Staples,Food Processing,Europe,Ireland,13.5,7.7,0.1,7.2,1460,#1047,$8.1 B,$634 M,$10.7 B,$20.3 B
+386,Smurfit Kappa Group,Materials,Paper & Paper Products,Europe,Ireland,5.8,10.6,0.2,11.3,1569,#1372,$10.1 B,$532 M,$11.6 B,$7.5 B
+387,DCC,Industrials,Conglomerates,Europe,Ireland,4.7,16.7,0.2,5.0,1781,#1524,$19.3 B,$296 M,$9.4 B,$7 B
+388,Bank Hapoalim,Financials,Major Banks,Asia,Israel,7.6,5.0,0.7,109.5,822,#1022,$4.8 B,$505 M,$134.2 B,$8.6 B
+389,Bank Leumi,Financials,Major Banks,Asia,Israel,5.8,4.6,0.4,103.6,1143,#846,$4.9 B,$989 M,$135.8 B,$7.9 B
+390,Delek Group,Financials,Investment Services,Asia,Israel,4.7,10.7,0.2,35.6,1273,#1964,$2.2 B,$90 M,$40.6 B,$525 M
+391,Check Point Software,Information Technology,Software & Programming,Asia,Israel,13.1,1.4,0.7,4.9,1353,#1274,$2 B,$824 M,$5.6 B,$15.4 B
+392,Mizrahi Tefahot Bank,Financials,Regional Banks,Asia,Israel,3.1,2.1,0.3,51.7,1546,#1320,$3 B,$517 M,$79.1 B,$4.9 B
+393,Israel Discount Bank,Financials,Regional Banks,Asia,Israel,2.0,2.7,0.2,57.8,1660,#1386,$3.5 B,$478 M,$75.2 B,$3.8 B
+394,FIBI Holdings,Financials,Regional Banks,Asia,Israel,0.7,1.4,0.1,30.4,1904,#1960,$1.4 B,$117 M,$40.9 B,$1.1 B
+395,Eni,Energy,Oil & Gas Operations,Europe,Italy,90.9,152.7,6.9,186.6,39,#468,$72.5 B,$-4.3 B,$131.7 B,$34.1 B
+396,Enel,Utilities,Electric Utilities,Europe,Italy,53.2,106.3,4.3,226.2,71,#97,$86.6 B,$2.4 B,$192.4 B,$69.4 B
+397,Generali Group,Financials,Diversified Insurance,Europe,Italy,34.5,100.5,2.5,602.8,114,#140,$91.9 B,$3 B,$578.6 B,$22.5 B
+398,EXOR,Financials,Investment Services,Europe,Italy,10.1,143.7,2.4,170.7,256,#558,$160.9 B,$-801 M,$193.8 B,$12.7 B
+399,Intesa Sanpaolo,Financials,Major Banks,Europe,Italy,57.4,24.5,-6.0,863.0,453,#125,$41.3 B,$4.7 B,$916.1 B,$27.3 B
+400,Telecom Italia,Telecommunication Services,Telecommunications services,Europe,Italy,22.8,31.1,-0.9,96.8,574,#546,$20.1 B,$1 B,$78.7 B,$8.3 B
+401,Atlantia,Industrials,Other Transportation,Europe,Italy,21.6,4.8,0.8,40.7,676,#520,$10.4 B,$1.2 B,$91.1 B,$13.3 B
+402,UBI Banca,Financials,Regional Banks,Europe,Italy,8.9,6.8,0.3,171.2,853,#1493,$5.3 B,$281 M,$142 B,$3.2 B
+403,Unipol Gruppo,Financials,Diversified Insurance,Europe,Italy,5.6,26.3,-0.1,111.2,874,#683,$17.6 B,$1 B,$84.3 B,$2.5 B
+404,Terna,Utilities,Electric Utilities,Europe,Italy,10.9,2.5,0.7,20.2,1025,#1080,$2.6 B,$848 M,$20.3 B,$12.6 B
+405,Mediobanca,Financials,Regional Banks,Europe,Italy,9.8,4.4,0.0,103.7,1127,#1075,$3.4 B,$940 M,$92.6 B,$5 B
+406,Banca MPS,Financials,Major Banks,Europe,Italy,4.5,6.7,-1.9,274.4,1207,#1569,$4.7 B,$-1.1 B,$148.5 B,$1.3 B
+407,Cattolica Assicurazioni,Financials,Diversified Insurance,Europe,Italy,1.5,6.0,0.1,24.5,1616,#1474,$8.3 B,$84 M,$41.2 B,$922 M
+408,Banca Popolare di Sondrio,Financials,Regional Banks,Europe,Italy,2.2,2.1,0.1,45.2,1733,#1895,$1.2 B,$154 M,$46.2 B,$713 M
+409,Credito Emiliano,Financials,Regional Banks,Europe,Italy,3.4,2.0,0.2,43.4,1755,#1813,$2.1 B,$225 M,$53.5 B,$1.5 B
+410,Prysmian,Industrials,Electrical Equipment,Europe,Italy,5.4,9.7,0.2,7.9,1988,#1963,$12.9 B,$327 M,$11.8 B,$5 B
+411,Toyota Motor,Consumer Discretionary,Auto & Truck Manufacturers,Asia,Japan,193.5,255.6,18.8,385.5,12,#11,$280.5 B,$22.7 B,$495.1 B,$173.3 B
+412,Mitsubishi UFJ Financial,Financials,Major Banks,Asia,Japan,77.7,48.6,11.3,2458.9,37,#52,$60.1 B,$5.4 B,"$2,893 B",$51.8 B
+413,Sumitomo Mitsui Financial,Financials,Major Banks,Asia,Japan,58.6,46.2,9.7,1494.7,56,#81,$48.4 B,$6.4 B,"$1,954.8 B",$36.4 B
+414,Nippon Telegraph & Tel,Telecommunication Services,Telecommunications services,Asia,Japan,61.0,110.7,5.7,189.3,61,#43,$109.6 B,$7.9 B,$211.1 B,$83 B
+415,Honda Motor,Consumer Discretionary,Auto & Truck Manufacturers,Asia,Japan,63.0,117.7,4.9,147.9,70,#83,$142.4 B,$4.3 B,$188.5 B,$42.6 B
+416,Softbank,Telecommunication Services,Telecommunications services,Asia,Japan,91.2,55.6,5.8,156.6,73,#66,$87.4 B,$2.9 B,$362.6 B,$89.7 B
+417,Mizuho Financial,Financials,Major Banks,Asia,Japan,48.7,28.5,7.5,1791.6,101,#242,$35.9 B,$831 M,"$1,874.9 B",$29.8 B
+418,Nissan Motor,Consumer Discretionary,Auto & Truck Manufacturers,Asia,Japan,40.2,104.0,3.9,137.2,111,#512,$96.3 B,$383 M,$166.4 B,$13.5 B
+419,Hitachi,Information Technology,Electronics,Asia,Japan,36.2,95.7,2.6,104.7,138,#198,$82.9 B,$1.8 B,$94.6 B,$29.3 B
+420,KDDI,Telecommunication Services,Telecommunications services,Asia,Japan,46.9,42.3,3.4,46.1,178,#122,$47.8 B,$5.9 B,$86.5 B,$66.9 B
+421,Tokio Marine Holdings,Financials,Property & Casualty Insurance,Asia,Japan,23.0,42.7,2.0,181.2,189,#151,$48.5 B,$2.6 B,$224.5 B,$33 B
+422,Denso,Consumer Discretionary,Auto & Truck Parts,Asia,Japan,42.4,41.3,2.8,41.3,202,#394,$47.4 B,$626 M,$52.4 B,$27.6 B
+423,Japan Tobacco,Consumer Staples,Tobacco,Asia,Japan,56.9,23.5,4.5,41.8,209,#283,$20 B,$3.2 B,$51.1 B,$33.4 B
+424,Itochu,Industrials,Trading Companies,Asia,Japan,18.4,55.0,3.2,76.8,211,#135,$103.1 B,$4.9 B,$104.6 B,$29.6 B
+425,Seven & I Holdings,Consumer Staples,Food Retail,Asia,Japan,33.4,57.3,1.8,46.4,220,#234,$61 B,$2 B,$55.6 B,$29.3 B
+426,Canon,Industrials,Business Products & Supplies,Asia,Japan,40.8,38.2,2.4,40.4,221,#359,$33 B,$1.1 B,$43.9 B,$22.7 B
+427,Sony,Consumer Discretionary,Consumer Electronics,Asia,Japan,20.1,78.2,1.1,148.9,233,#58,$79.2 B,$6 B,$208.3 B,$78.7 B
+428,East Japan Railway,Industrials,Railroads,Asia,Japan,28.7,27.7,1.9,68.8,237,#261,$27.1 B,$1.8 B,$79.1 B,$27.8 B
+429,Panasonic,Consumer Discretionary,Consumer Electronics,Asia,Japan,28.4,77.3,1.2,52.1,246,#256,$70.4 B,$2.6 B,$61.8 B,$18 B
+430,MS&AD Insurance,Financials,Property & Casualty Insurance,Asia,Japan,14.3,45.8,1.5,160.8,266,#215,$50.6 B,$2.6 B,$220.1 B,$16.7 B
+431,Bridgestone,Consumer Discretionary,Auto & Truck Parts,Asia,Japan,27.7,36.5,2.1,34.0,285,#327,$32.3 B,$2.7 B,$36.3 B,$20.7 B
+432,Dai-ichi Life Insurance,Financials,Life & Health Insurance,Asia,Japan,14.5,58.1,0.8,356.3,301,#230,$62.6 B,$1.8 B,$560.8 B,$14.4 B
+433,Marubeni,Industrials,Trading Companies,Asia,Japan,11.5,66.0,2.2,68.4,302,#442,$63.6 B,$1.4 B,$62.7 B,$8.5 B
+434,Central Japan Railway,Industrials,Railroads,Asia,Japan,22.8,16.7,2.6,50.6,308,#247,$17 B,$3.7 B,$89 B,$31.2 B
+435,Mitsubishi Heavy Industries,Industrials,Heavy Equipment,Asia,Japan,19.4,31.8,1.3,41.9,337,#481,$37 B,$1.5 B,$51 B,$8.7 B
+436,Mitsubishi Electric,Industrials,Electrical Equipment,Asia,Japan,24.7,38.8,1.2,32.5,339,#294,$41.3 B,$2.1 B,$40.9 B,$26.9 B
+437,Takeda Pharmaceutical,Health Care,Pharmaceuticals,Asia,Japan,37.0,17.0,1.1,42.1,348,#490,$29.7 B,$-498 M,$119.9 B,$56.6 B
+438,Sumitomo Mitsui Trust,Financials,Major Banks,Asia,Japan,17.7,11.2,1.4,400.6,353,#383,$13.8 B,$1.8 B,$509.3 B,$11.1 B
+439,Toshiba,Information Technology,Electronics,Asia,Japan,17.9,65.0,0.6,61.6,369,#818,$32.2 B,$-1.4 B,$33.1 B,$11.4 B
+440,Orix,Financials,Consumer Financial Services,Asia,Japan,18.4,12.0,1.4,82.5,388,#292,$21.3 B,$3 B,$118.2 B,$15.4 B
+441,Komatsu,Industrials,Heavy Equipment,Asia,Japan,19.7,19.7,1.5,25.9,410,#405,$23.2 B,$1.9 B,$34.3 B,$18.2 B
+442,Inpex,Energy,Oil & Gas Operations,Asia,Japan,19.1,13.6,1.6,37.7,411,#597,$12.2 B,$1.5 B,$44.6 B,$9.4 B
+443,Mitsui Fudosan,Financials,Real Estate,Asia,Japan,26.8,15.3,0.8,43.0,417,#367,$17.5 B,$1.5 B,$67.2 B,$18.2 B
+444,Suzuki Motor,Consumer Discretionary,Auto & Truck Manufacturers,Asia,Japan,14.6,29.0,1.2,26.4,436,#480,$33.6 B,$1.1 B,$31.7 B,$15.7 B
+445,JFE Holdings,Materials,Iron & Steel,Asia,Japan,10.9,36.1,1.0,40.1,441,#642,$34.9 B,$1.5 B,$45.4 B,$3.9 B
+446,Resona Holdings,Financials,Regional Banks,Asia,Japan,10.9,7.9,2.2,420.3,444,#654,$7.6 B,$1.3 B,$549.5 B,$7.2 B
+447,Toyota Industries,Consumer Discretionary,Auto & Truck Parts,Asia,Japan,14.8,20.0,0.9,38.1,445,#429,$20 B,$1.3 B,$48.9 B,$15.8 B
+448,Daiwa Securities,Financials,Investment Services,Asia,Japan,14.9,6.8,1.9,199.3,446,#914,$6.5 B,$573 M,$224.6 B,$6.4 B
+449,Tokyo Electric Power,Utilities,Electric Utilities,Asia,Japan,6.3,66.0,0.9,145.6,460,#427,$58.9 B,$5.2 B,$110.8 B,$5.4 B
+450,Mitsubishi Estate,Financials,Real Estate,Asia,Japan,32.8,10.2,0.7,45.1,468,#483,$11.2 B,$1.1 B,$55.2 B,$22.3 B
+451,T&D Holdings,Financials,Life & Health Insurance,Asia,Japan,8.0,21.6,0.9,134.3,473,#741,$18.6 B,$572 M,$150.9 B,$5.3 B
+452,Aeon,Consumer Discretionary,Discount Stores,Asia,Japan,9.3,64.4,0.6,67.3,476,#555,$78.9 B,$246 M,$102.6 B,$17.1 B
+453,Fujifilm Holdings,Consumer Discretionary,Consumer Electronics,Asia,Japan,13.0,24.4,0.9,30.8,483,#449,$21.7 B,$1.4 B,$31.8 B,$19.7 B
+454,Kirin Holdings,Consumer Staples,Beverages,Asia,Japan,12.6,23.1,0.9,27.6,509,#706,$17.8 B,$547 M,$22.2 B,$16.9 B
+455,Toyota Tsusho,Industrials,Trading Companies,Asia,Japan,8.9,74.8,0.7,37.7,516,#508,$61.6 B,$1.2 B,$42.1 B,$8.5 B
+456,Otsuka Holding,Health Care,Pharmaceuticals,Asia,Japan,16.1,14.4,1.8,17.9,527,#580,$12.8 B,$1.2 B,$23.8 B,$21.6 B
+457,Kyocera,Information Technology,Electronics,Asia,Japan,16.2,14.6,0.9,25.7,531,#549,$14.7 B,$991 M,$30.1 B,$19.6 B
+458,Shin-Etsu Chemical,Materials,Diversified Chemicals,Asia,Japan,24.2,11.4,1.2,19.9,537,#355,$14.2 B,$2.9 B,$29.9 B,$46.7 B
+459,Kubota,Industrials,Heavy Equipment,Asia,Japan,16.6,14.6,1.2,19.9,539,#529,$17.6 B,$1.4 B,$28.9 B,$15.4 B
+460,Aisin Seiki,Consumer Discretionary,Auto & Truck Parts,Asia,Japan,10.2,28.1,1.0,24.0,545,#898,$34.8 B,$221 M,$37 B,$7.9 B
+461,Daikin Industries,Materials,Construction Materials,Asia,Japan,16.7,17.3,1.0,19.3,545,#375,$23.5 B,$1.7 B,$26.1 B,$38.3 B
+462,Mazda Motor,Consumer Discretionary,Auto & Truck Manufacturers,Asia,Japan,13.4,26.7,0.9,19.7,550,#949,$32.1 B,$540 M,$26.4 B,$3.6 B
+463,Daiwa House Industry,Industrials,Construction Services,Asia,Japan,11.1,25.4,0.8,24.7,562,#324,$40 B,$2.3 B,$42.7 B,$17.1 B
+464,Tokyo Gas,Utilities,Natural Gas Utilities,Asia,Japan,12.5,20.6,1.0,19.6,577,#930,$17.7 B,$399 M,$23.5 B,$9.7 B
+465,Sumitomo Electric,Consumer Discretionary,Auto & Truck Parts,Asia,Japan,12.0,25.2,0.6,24.2,584,#674,$28.9 B,$812 M,$29 B,$8.1 B
+466,Sumitomo Realty,Financials,Real Estate,Asia,Japan,18.6,8.3,0.7,39.2,588,#591,$9.3 B,$1.3 B,$47.8 B,$12.9 B
+467,Astellas Pharma,Health Care,Pharmaceuticals,Asia,Japan,26.1,11.7,0.8,14.9,615,#547,$11.8 B,$2 B,$18.3 B,$30.7 B
+468,Mitsubishi Motors,Consumer Discretionary,Auto & Truck Manufacturers,Asia,Japan,10.3,21.0,1.1,14.3,636,#1172,$21.9 B,$477 M,$17.7 B,$4.2 B
+469,Asahi Kasei,Materials,Diversified Chemicals,Asia,Japan,9.4,19.0,0.9,18.6,646,#634,$19.9 B,$1.2 B,$24.9 B,$9.9 B
+470,Fast Retailing,Consumer Discretionary,Apparel/Footwear Retail,Asia,Japan,36.4,12.6,1.0,10.0,647,#428,$20.5 B,$1.4 B,$22.8 B,$49.2 B
+471,Asahi Group Holdings,Consumer Staples,Beverages,Asia,Japan,12.8,17.6,0.6,17.0,663,#519,$19.2 B,$1.3 B,$28.9 B,$16 B
+472,Isuzu Motors,Consumer Discretionary,Auto & Truck Manufacturers,Asia,Japan,9.7,18.0,1.2,13.5,670,#943,$19.1 B,$797 M,$19.6 B,$5.7 B
+473,Ricoh,Industrials,Business Products & Supplies,Asia,Japan,8.4,22.0,0.6,24.4,674,#1191,$18.5 B,$370 M,$26.4 B,$5 B
+474,Toray Industries,Materials,Diversified Chemicals,Asia,Japan,10.8,18.1,0.6,18.4,679,#829,$20.8 B,$589 M,$25.6 B,$7.5 B
+475,Sekisui House,Industrials,Construction Services,Asia,Japan,8.6,18.3,0.8,17.3,706,#582,$22.1 B,$1.3 B,$24.3 B,$11.8 B
+476,Daiichi Sankyo,Health Care,Pharmaceuticals,Asia,Japan,11.6,10.9,0.9,17.3,707,#614,$9 B,$1.2 B,$19.5 B,$44.7 B
+477,Idemitsu Kosan,Energy,Oil & Gas Operations,Asia,Japan,3.2,49.9,0.8,29.1,708,#818,$51.8 B,$409 M,$38 B,$6.8 B
+478,Kansai Electric Power,Utilities,Electric Utilities,Asia,Japan,9.3,32.5,-1.3,72.0,716,#447,$30.1 B,$1.5 B,$68.6 B,$9.2 B
+479,Fujitsu,Information Technology,Computer Hardware,Asia,Japan,12.6,47.3,0.2,30.5,728,#422,$35.7 B,$1.4 B,$28.7 B,$20 B
+480,Dentsu,Consumer Discretionary,Advertising,Asia,Japan,10.8,22.4,0.4,22.2,730,#1340,$9.6 B,$-742 M,$34.9 B,$5.9 B
+481,Mitsubishi Chemical,Materials,Diversified Chemicals,Asia,Japan,6.0,33.4,0.5,33.4,736,#599,$34.1 B,$732 M,$49.8 B,$8.2 B
+482,Japan Airlines,Industrials,Airline,Asia,Japan,9.0,13.2,1.6,12.4,738,#951,$13.6 B,$1.1 B,$17.9 B,$6.1 B
+483,West Japan Railway,Industrials,Railroads,Asia,Japan,7.8,13.5,0.6,24.8,749,#663,$13.9 B,$822 M,$30.3 B,$11.9 B
+484,Murata Manufacturing,Information Technology,Electronics,Asia,Japan,21.3,8.4,0.9,11.6,776,#498,$14 B,$1.7 B,$20.6 B,$36 B
+485,Chubu Electric Power,Utilities,Electric Utilities,Asia,Japan,8.8,28.1,-0.6,54.9,779,#455,$28.6 B,$1.6 B,$49.8 B,$10.3 B
+486,Lixil Group,Materials,Construction Materials,Asia,Japan,8.5,15.8,0.5,16.2,839,#1429,$17 B,$-217 M,$20.3 B,$3.5 B
+487,Rakuten,Consumer Discretionary,Internet & Catalog Retail,Asia,Japan,17.6,5.3,0.4,30.5,854,#831,$11.6 B,$-292 M,$84.3 B,$11.6 B
+488,Fanuc,Industrials,Other Industrial Equipment,Asia,Japan,34.4,4.5,1.0,12.3,855,#1087,$4.7 B,$675 M,$14 B,$32 B
+489,Tokyu,Industrials,Railroads,Asia,Japan,7.7,11.2,0.6,19.0,859,#979,$10.7 B,$524 M,$23.2 B,$9.2 B
+490,Secom,Industrials,Security Systems,Asia,Japan,13.2,8.3,0.7,12.1,879,#793,$9.7 B,$829 M,$16.6 B,$18.4 B
+491,Kobe Steel,Materials,Iron & Steel,Asia,Japan,4.8,18.1,0.6,21.2,913,#1366,$17.5 B,$-17 M,$22.2 B,$1.2 B
+492,NEC,Information Technology,Electronics,Asia,Japan,8.0,30.6,0.0,24.2,920,#643,$28 B,$762 M,$28 B,$10.1 B
+493,Nippon Yusen,Industrials,Other Transportation,Asia,Japan,4.9,22.0,0.5,25.1,926,#1496,$15.6 B,$-156 M,$18.8 B,$2.3 B
+494,Sumitomo Metal Mining,Materials,Diversified Metals & Mining,Asia,Japan,6.8,8.5,0.9,14.4,949,#1437,$7.8 B,$471 M,$16.1 B,$7 B
+495,Hankyu Hanshin Holdings,Industrials,Railroads,Asia,Japan,6.8,7.1,0.5,21.6,1008,#1099,$7.3 B,$602 M,$22.9 B,$8.4 B
+496,Kyushu Electric Power,Utilities,Electric Utilities,Asia,Japan,5.5,17.6,-1.6,42.4,1024,#1121,$18.5 B,$-4 M,$45.8 B,$3.8 B
+497,Sumitomo Chemical,Materials,Diversified Chemicals,Asia,Japan,6.0,21.9,0.1,26.9,1035,#897,$20.7 B,$611 M,$33.8 B,$5.1 B
+498,IHI,Industrials,Heavy Equipment,Asia,Japan,6.2,12.9,0.5,14.2,1047,#1710,$12.5 B,$36 M,$15.7 B,$1.9 B
+499,All Nippon Airways,Industrials,Airline,Asia,Japan,7.6,16.0,0.2,20.5,1052,#1137,$18.2 B,$254 M,$23.7 B,$7.2 B
+500,Mitsubishi Materials,Materials,Diversified Metals & Mining,Asia,Japan,3.7,14.1,0.5,17.2,1070,#1556,$13.9 B,$-13 M,$18.3 B,$2.7 B
+501,Tohoku Electric Power,Utilities,Electric Utilities,Asia,Japan,4.9,19.9,-0.4,39.5,1075,#874,$20.7 B,$580 M,$40 B,$4.7 B
+502,Shizuoka Bank,Financials,Regional Banks,Asia,Japan,6.1,2.2,0.5,103.3,1080,#1471,$2.1 B,$384 M,$117.5 B,$3.5 B
+503,Suntory Beverage & Food,,,Asia,Japan,10.5,11.5,0.3,12.0,1083,#963,$11.9 B,$632 M,$14.4 B,$11.7 B
+504,Daito Trust Construction,Industrials,Construction Services,Asia,Japan,7.2,12.8,0.7,5.5,1085,#1225,$14.3 B,$714 M,$7.2 B,$6 B
+505,Yamato Holdings,Industrials,Trucking,Asia,Japan,9.8,13.8,0.3,10.1,1093,#1603,$14.9 B,$128 M,$10.7 B,$7 B
+506,Kawasaki Heavy Industries,Industrials,Heavy Equipment,Asia,Japan,6.3,13.6,0.4,15.9,1095,#1510,$15 B,$191 M,$18.9 B,$2.6 B
+507,Keyence,Information Technology,Electronics,Asia,Japan,25.5,2.6,0.8,7.8,1111,#734,$5.1 B,$1.8 B,$17 B,$87.9 B
+508,Sharp,Consumer Discretionary,Consumer Electronics,Asia,Japan,5.1,29.2,-1.1,22.9,1115,#966,$21.9 B,$583 M,$17.8 B,$6.8 B
+509,Osaka Gas,Utilities,Natural Gas Utilities,Asia,Japan,7.8,14.9,0.2,16.0,1129,#994,$12.9 B,$580 M,$19.6 B,$7.8 B
+510,Kintetsu,Industrials,Railroads,Asia,Japan,6.7,11.9,0.3,18.7,1151,#1275,$11.3 B,$307 M,$17.9 B,$9.2 B
+511,Dai Nippon Printing,Consumer Discretionary,Printing & Publishing,Asia,Japan,6.1,14.7,0.3,14.7,1160,#1533,$12.9 B,$238 M,$16.4 B,$6.2 B
+512,Mitsubishi UFJ Lease,Financials,Rental & Leasing,Asia,Japan,4.3,7.2,0.4,41.3,1163,#989,$8.5 B,$692 M,$54.2 B,$4.3 B
+513,Chiba Bank,Financials,Major Banks,Asia,Japan,5.2,2.2,0.5,112.3,1167,#1305,$2 B,$459 M,$144.4 B,$3.4 B
+514,Sojitz,Industrials,Trading Companies,Asia,Japan,2.1,24.3,0.2,21.2,1182,#1107,$16.1 B,$559 M,$20.7 B,$2.9 B
+515,Nidec,Industrials,Electrical Equipment,Asia,Japan,18.0,8.5,0.2,10.8,1187,#680,$14.1 B,$550 M,$19.6 B,$34.4 B
+516,Yamaha Motor,Consumer Discretionary,Recreational Products,Asia,Japan,5.4,14.4,0.5,10.9,1201,#1198,$15.3 B,$695 M,$14.1 B,$4.6 B
+517,Nintendo,Consumer Discretionary,Consumer Electronics,Asia,Japan,16.6,6.1,0.0,15.1,1207,#534,$11.2 B,$2 B,$17.5 B,$49.7 B
+518,Oriental Land,Consumer Discretionary,Hotels & Motels,Asia,Japan,13.7,4.7,0.7,6.4,1224,#1204,$4.3 B,$572 M,$9.4 B,$41.9 B
+519,Ajinomoto,Consumer Staples,Food Processing,Asia,Japan,8.9,10.5,0.3,10.6,1231,#1505,$10.2 B,$284 M,$12.9 B,$9.8 B
+520,Oji Holdings,Materials,Paper & Paper Products,Asia,Japan,4.6,13.3,0.3,18.3,1232,#1207,$13.9 B,$555 M,$17.8 B,$5.1 B
+521,Mitsui OSK Lines,Industrials,Other Transportation,Asia,Japan,4.7,17.1,-0.9,21.7,1251,#1652,$10.6 B,$300 M,$19.4 B,$2.1 B
+522,Chugoku Electric Power,Utilities,Electric Utilities,Asia,Japan,4.9,12.5,-0.2,27.3,1266,#955,$12.4 B,$828 M,$30.2 B,$4.9 B
+523,Shinsei Bank,Financials,Regional Banks,Asia,Japan,5.1,3.5,0.4,87.1,1267,#1299,$2.8 B,$512 M,$93.1 B,$2.9 B
+524,Eisai,Health Care,Pharmaceuticals,Asia,Japan,10.8,6.0,0.4,9.3,1275,#1061,$6.1 B,$887 M,$9.7 B,$20.2 B
+525,Taisei,Industrials,Construction Services,Asia,Japan,5.2,15.1,0.3,14.5,1285,#894,$15.9 B,$1.1 B,$16.6 B,$6.7 B
+526,OMRON,Information Technology,Electronics,Asia,Japan,9.2,7.6,0.4,6.1,1299,#1255,$6.2 B,$698 M,$7 B,$12 B
+527,Hoya,Information Technology,Electronics,Asia,Japan,13.3,4.2,0.7,6.5,1302,#971,$5.3 B,$1.1 B,$7.5 B,$34.7 B
+528,Nitto Denko,Materials,Diversified Chemicals,Asia,Japan,8.2,7.5,0.5,7.6,1312,#1769,$6.8 B,$434 M,$8.5 B,$7.8 B
+529,Obayashi,Industrials,Construction Services,Asia,Japan,4.2,16.0,0.1,17.8,1327,#799,$18.9 B,$1.2 B,$20.8 B,$6.4 B
+530,Medipal Holdings,Health Care,Pharmaceuticals,Asia,Japan,3.6,29.5,0.2,13.4,1332,#1413,$29.7 B,$319 M,$16 B,$4.1 B
+531,Aozora Bank,Financials,Major Banks,Asia,Japan,4.7,1.2,0.5,46.2,1349,#1798,$1.5 B,$332 M,$50.8 B,$2.1 B
+532,Kajima,Industrials,Construction Services,Asia,Japan,3.8,15.3,0.2,17.4,1358,#931,$18.4 B,$891 M,$20.2 B,$5.4 B
+533,Unicharm,Consumer Staples,Household/Personal Care,Asia,Japan,10.7,5.8,0.4,5.7,1368,#1296,$6.6 B,$423 M,$8 B,$22 B
+534,Toppan Printing,Consumer Discretionary,Printing & Publishing,Asia,Japan,4.9,15.6,0.2,16.1,1378,#988,$13.5 B,$966 M,$20.7 B,$5.2 B
+535,Sekisui Chemical,Industrials,Construction Services,Asia,Japan,5.3,11.1,0.5,9.4,1380,#1541,$10.4 B,$542 M,$10.2 B,$5.9 B
+536,Yamaguchi Financial,Financials,Regional Banks,Asia,Japan,2.3,1.6,0.3,88.2,1393,#1633,$1.5 B,$236 M,$95.3 B,$1.4 B
+537,Nippon Express,Industrials,Trucking,Asia,Japan,5.0,17.3,0.3,12.8,1403,#1611,$19.1 B,$160 M,$14.1 B,$4.6 B
+538,Shimizu,Industrials,Construction Services,Asia,Japan,4.1,15.2,0.1,14.5,1434,#942,$16.1 B,$1.1 B,$16.9 B,$6 B
+539,Alfresa Holdings,Health Care,Pharmaceuticals,Asia,Japan,3.8,25.2,0.2,11.6,1434,#1582,$24.8 B,$323 M,$13.1 B,$4.3 B
+540,Fukuoka Financial Group,Financials,Regional Banks,Asia,Japan,3.6,2.4,0.3,130.8,1437,#927,$2.5 B,$1.5 B,$235.4 B,$2.8 B
+541,Renesas Electronics,Information Technology,Semiconductors,Asia,Japan,12.6,8.4,0.0,7.6,1447,#1660,$6.9 B,$141 M,$15.4 B,$9.3 B
+542,Mitsui Chemicals,Materials,Specialized Chemicals,Asia,Japan,2.5,15.4,-0.2,13.7,1454,#1598,$12.5 B,$416 M,$13.7 B,$3.9 B
+543,Olympus,Consumer Discretionary,Consumer Electronics,Asia,Japan,10.8,7.1,0.1,9.8,1470,#1117,$7.4 B,$557 M,$9.1 B,$20.7 B
+544,Electric Power Development,Utilities,Electric Utilities,Asia,Japan,4.7,7.0,0.3,22.2,1477,#1508,$8.4 B,$389 M,$26 B,$3.7 B
+545,Yamada Denki,Information Technology,Computer & Electronics Retail,Asia,Japan,2.9,18.7,0.0,11.8,1487,#1890,$14.9 B,$244 M,$11.3 B,$4.2 B
+546,Terumo,Health Care,Medical Equipment & Supplies,Asia,Japan,8.1,4.6,0.6,8.2,1502,#1053,$5.7 B,$824 M,$10.9 B,$25.1 B
+547,Hachijuni Bank,Financials,Regional Banks,Asia,Japan,2.9,1.7,0.3,71.5,1517,#1628,$1.4 B,$234 M,$99.1 B,$1.8 B
+548,Suzuken,Health Care,Pharmaceuticals,Asia,Japan,3.5,20.0,0.2,10.3,1534,#1752,$20.3 B,$241 M,$11.6 B,$3.5 B
+549,Hokuhoku Financial Group,Financials,Regional Banks,Asia,Japan,2.5,1.9,0.2,107.1,1556,#1584,$1.6 B,$221 M,$126.7 B,$1.1 B
+550,Iyo Bank,Financials,Regional Banks,Asia,Japan,3.0,1.2,0.3,58.4,1560,#1715,$1.1 B,$176 M,$69.6 B,$1.7 B
+551,TDK,Information Technology,Electronics,Asia,Japan,5.4,9.9,0.1,12.5,1591,#786,$12.6 B,$854 M,$18.9 B,$11.1 B
+552,77 Bank,Financials,Regional Banks,Asia,Japan,1.7,1.1,0.1,76.6,1602,#1677,$908 M,$175 M,$79.3 B,$998 M
+553,Chugoku Bank,Financials,Regional Banks,Asia,Japan,2.6,1.2,0.3,66.0,1605,#1674,$1.1 B,$141 M,$79.4 B,$1.8 B
+554,North Pacific Bank,Financials,Regional Banks,Asia,Japan,1.7,1.9,0.2,74.6,1606,#1641,$1.2 B,$99 M,$92.5 B,$702 M
+555,Bank of Kyoto,Financials,Regional Banks,Asia,Japan,3.1,1.1,0.2,73.6,1612,#1651,$1.2 B,$301 M,$88 B,$2.6 B
+556,Hiroshima Bank,Financials,Regional Banks,Asia,Japan,2.6,1.3,0.2,69.4,1619,#1653,$1.1 B,$231 M,$86.9 B,$1.3 B
+557,Gunma Bank,Financials,Regional Banks,Asia,Japan,2.5,1.3,0.2,67.8,1624,#1681,$1.3 B,$203 M,$77.5 B,$1.3 B
+558,JTEKT,Consumer Discretionary,Auto & Truck Parts,Asia,Japan,5.1,12.5,0.2,10.6,1664,#1984,$13 B,$-61 M,$11.2 B,$2.6 B
+559,Juroku Bank,Financials,Regional Banks,Asia,Japan,1.3,1.1,0.1,54.2,1672,#1772,$953 M,$108 M,$59.8 B,$663 M
+560,Senshu Ikeda Holdings,Financials,Regional Banks,Asia,Japan,1.1,1.0,0.1,50.7,1687,#1838,$758 M,$54 M,$50.5 B,$441 M
+561,Nanto Bank,Financials,Regional Banks,Asia,Japan,1.0,0.8,0.1,49.7,1692,#1810,$732 M,$86 M,$53.6 B,$690 M
+562,Hyakugo Bank,Financials,Regional Banks,Asia,Japan,1.0,0.8,0.1,48.1,1702,#1766,$805 M,$111 M,$60.1 B,$743 M
+563,Ogaki Kyoritsu Bank,Financials,Regional Banks,Asia,Japan,1.0,1.0,0.1,46.3,1713,#1798,$706 M,$74 M,$55 B,$861 M
+564,Shiga Bank,Financials,Regional Banks,Asia,Japan,1.4,0.9,0.1,45.8,1719,#1782,$828 M,$142 M,$58 B,$1.2 B
+565,Toho Bank,Financials,Regional Banks,Asia,Japan,0.9,0.6,0.1,45.8,1722,#1803,$580 M,$33 M,$54.1 B,$594 M
+566,Orient,Financials,Consumer Financial Services,Asia,Japan,1.6,2.1,0.1,45.1,1738,#1828,$2.2 B,$211 M,$51.6 B,$2 B
+567,Tokyo Electron,Information Technology,Semiconductors,Asia,Japan,11.0,5.4,-0.3,7.6,1772,#693,$10.4 B,$1.7 B,$11.8 B,$33.4 B
+568,Hanwa,Materials,Diversified Metals & Mining,Asia,Japan,0.8,16.6,0.1,5.8,1783,#1794,$17.8 B,$115 M,$8.3 B,$658 M
+569,San-In Godo Bank,Financials,Regional Banks,Asia,Japan,1.1,0.9,0.1,41.3,1784,#1793,$798 M,$116 M,$55.3 B,$826 M
+570,Hyakujushi Bank,Financials,Regional Banks,Asia,Japan,1.1,0.7,0.1,41.0,1788,#1897,$628 M,$55 M,$46.2 B,$531 M
+571,Keiyo Bank,Financials,Regional Banks,Asia,Japan,1.2,0.7,0.2,39.8,1791,#1888,$625 M,$71 M,$46.4 B,$643 M
+572,Musashino Bank,Financials,Regional Banks,Asia,Japan,1.1,0.7,0.1,38.8,1799,#1929,$578 M,$125 M,$43 B,$426 M
+573,Japan Exchange Group,Financials,Investment Services,Asia,Japan,6.6,1.2,0.3,15.6,1826,#962,$1.1 B,$438 M,$623.3 B,$10.1 B
+574,Shimano,Consumer Discretionary,Recreational Products,Asia,Japan,9.3,2.8,0.4,3.0,1849,#1525,$3.2 B,$565 M,$4.9 B,$13.7 B
+575,Japan Securities,Financials,Investment Services,Asia,Japan,0.6,0.2,0.1,35.1,1850,#1645,$267 M,$33 M,$90.9 B,$438 M
+576,Shiseido,Consumer Staples,Household/Personal Care,Asia,Japan,6.9,7.5,0.0,7.0,1868,#888,$10.4 B,$675 M,$11.2 B,$23.8 B
+577,Hokkoku Bank,Financials,Regional Banks,Asia,Japan,1.1,0.6,0.1,32.8,1871,#1910,$650 M,$76 M,$44.6 B,$816 M
+578,Tosoh,Materials,Diversified Chemicals,Asia,Japan,2.3,7.7,0.3,7.1,1901,#1775,$7.4 B,$624 M,$8.2 B,$4 B
+579,SBI Holdings,Financials,Investment Services,Asia,Japan,2.6,2.3,0.2,30.4,1905,#1750,$3.4 B,$345 M,$51.1 B,$4.4 B
+580,Makita,Consumer Staples,Household/Personal Care,Asia,Japan,7.5,3.8,0.4,4.9,1951,#1952,$4.6 B,$469 M,$6.5 B,$8.9 B
+581,Nippon Steel Trading,Materials,Diversified Metals & Mining,Asia,Japan,1.0,12.1,0.2,6.3,1953,#1685,$23.2 B,$204 M,$8.5 B,$1 B
+582,Meiji Holdings,Consumer Staples,Food Processing,Asia,Japan,4.5,11.6,0.2,7.8,1991,#1212,$11.5 B,$481 M,$9.5 B,$10.1 B
+583,Arab Bank,Financials,Regional Banks,Asia,Jordan,7.0,2.2,0.5,46.4,1092,#1466,$2.3 B,$597 M,$37.1 B,$4.3 B
+584,Halyk Bank,Financials,Regional Banks,Asia,Kazakhstan,2.2,1.7,0.5,16.3,1681,#1465,$2.6 B,$873 M,$24.1 B,$2.6 B
+585,National Bank of Kuwait,Financials,Regional Banks,Asia,Kuwait,16.7,2.5,0.8,65.9,717,#677,$4.6 B,$1.3 B,$96.5 B,$16.3 B
+586,Kuwait Finance House,Financials,Regional Banks,Asia,Kuwait,12.6,2.8,0.4,54.8,966,#801,$4 B,$826 M,$63.9 B,$14.6 B
+587,Zain,Telecommunication Services,Telecommunications services,Asia,Kuwait,9.7,4.4,0.8,11.0,1219,#1408,$5.5 B,$714 M,$15.6 B,$7.4 B
+588,Bank Audi,Financials,Regional Banks,Asia,Lebanon,2.2,2.3,0.3,36.2,1636,#1502,$3.7 B,$493 M,$47.5 B,$764 M
+589,Blom Bank,Financials,Regional Banks,Asia,Lebanon,1.9,1.6,0.3,26.2,1661,#1559,$2.7 B,$502 M,$38.5 B,$670 M
+590,ArcelorMittal,Materials,Iron & Steel,Europe,Luxembourg,26.8,79.4,-2.5,112.3,491,#650,$70.5 B,$-2.5 B,$87.9 B,$11.1 B
+591,Tenaris,Energy,Oil Services & Equipment,Europe,Luxembourg,26.2,10.6,1.6,15.9,572,#1810,$7.2 B,$-168 M,$14.1 B,$8.3 B
+592,RTL Group,Consumer Discretionary,Broadcasting & Cable,Europe,Luxembourg,17.7,7.8,1.2,10.4,805,#1599,$7.7 B,$788 M,$9.6 B,$5.1 B
+593,Ternium,Materials,Iron & Steel,Europe,Luxembourg,5.9,8.5,0.5,10.5,1345,#1530,$10.3 B,$571 M,$12.9 B,$2.7 B
+594,Maybank,Financials,Regional Banks,Asia,Malaysia,26.3,9.7,2.1,171.1,326,#349,$10.5 B,$2 B,$204 B,$19.8 B
+595,Tenaga Nasional,Utilities,Electric Utilities,Asia,Malaysia,20.7,12.0,1.6,31.3,443,#540,$12.3 B,$1.1 B,$43.7 B,$16.2 B
+596,CIMB Group Holdings,Financials,Regional Banks,Asia,Malaysia,18.1,6.8,1.4,113.2,460,#689,$7.4 B,$1.1 B,$140.1 B,$8 B
+597,Public Bank,Financials,Regional Banks,Asia,Malaysia,20.6,4.6,1.3,93.3,585,#664,$5 B,$1.3 B,$105.8 B,$14.8 B
+598,Axiata Group,Information Technology,Communications Equipment,Asia,Malaysia,17.7,5.8,0.8,13.3,861,#1790,$5.9 B,$330 M,$16.3 B,$8.4 B
+599,Genting,Consumer Discretionary,Casinos & Gaming,Asia,Malaysia,11.4,5.6,0.6,21.8,915,#1685,$5.2 B,$482 M,$25.1 B,$3.7 B
+600,Petronas Chemicals,Materials,Specialized Chemicals,Asia,Malaysia,16.7,4.8,1.0,8.5,1062,#1547,$4 B,$680 M,$9.8 B,$10.4 B
+601,AmBank Group,Financials,Regional Banks,Asia,Malaysia,6.6,2.6,0.5,40.0,1121,#1807,$2 B,$375 M,$38.6 B,$2.1 B
+602,Hong Leong Financial,Financials,Investment Services,Asia,Malaysia,5.1,2.5,0.5,56.0,1246,#1469,$2.2 B,$465 M,$59.8 B,$3.5 B
+603,Femsa,Consumer Staples,Beverages,North America,Mexico,33.3,20.0,1.2,27.4,373,#431,$26.3 B,$1 B,$33.8 B,$23.4 B
+604,Grupo Mexico,Materials,Diversified Metals & Mining,North America,Mexico,24.4,9.4,1.8,20.2,529,#549,$10.7 B,$2.2 B,$29.1 B,$16.8 B
+605,Grupo Inbursa,Financials,Regional Banks,North America,Mexico,16.9,4.4,1.3,27.5,744,#1554,$3.8 B,$671 M,$25.7 B,$4 B
+606,Cemex,Materials,Construction Materials,North America,Mexico,14.5,15.3,-0.8,37.9,788,#1327,$13.5 B,$88 M,$29.4 B,$3.2 B
+607,ALFA,Industrials,Conglomerates,North America,Mexico,13.2,15.9,0.5,12.6,826,#1296,$17.2 B,$412 M,$18.2 B,$2.1 B
+608,Grupo Bimbo,Consumer Staples,Food Processing,North America,Mexico,12.8,13.8,0.3,10.3,1027,#1435,$15.2 B,$328 M,$14.8 B,$6.8 B
+609,El Puerto de Liverpool,Consumer Discretionary,Department Stores,North America,Mexico,14.3,5.8,0.6,7.4,1147,#1766,$7.4 B,$629 M,$8.5 B,$3.4 B
+610,Arca Continental,Consumer Staples,Beverages,North America,Mexico,9.4,4.7,0.5,5.1,1513,#1473,$8.5 B,$541 M,$12.7 B,$6.9 B
+611,Grupo Elektra,Information Technology,Computer & Electronics Retail,North America,Mexico,7.3,5.6,0.1,13.4,1647,#1022,$6.2 B,$839 M,$18.4 B,$11.3 B
+612,Attijariwafa Bank,Financials,Regional Banks,Africa,Morocco,7.9,2.8,0.5,44.9,1065,#1138,$4.3 B,$605 M,$55.7 B,$7.1 B
+613,Banque Centrale Populaire,Financials,Regional Banks,Africa,Morocco,4.1,2.2,0.2,35.6,1842,#1813,$2.3 B,$347 M,$45.1 B,$4.2 B
+614,Royal Dutch Shell,Energy,Oil & Gas Operations,Europe,Netherlands,234.1,451.4,16.4,357.5,11,#21,$311.6 B,$9.9 B,$394 B,$126.5 B
+615,ING Group,Financials,Life & Health Insurance,Europe,Netherlands,56.1,34.5,4.4,1488.7,97,#194,$20.5 B,$5.4 B,"$1,001 B",$21.4 B
+616,Unilever,Consumer Staples,Food Processing,Europe,Netherlands,124.5,66.1,6.4,62.7,110,#110,$58.2 B,$6.3 B,$72.7 B,$130.6 B
+617,LyondellBasell Industries,Materials,Diversified Chemicals,Europe,Netherlands,48.2,44.1,3.8,27.3,226,#336,$34.7 B,$3.4 B,$30.4 B,$19.3 B
+618,Aegon,Financials,Diversified Insurance,Europe,Netherlands,19.8,40.2,1.1,473.0,234,#523,$29.5 B,$1.4 B,$470.9 B,$5.3 B
+619,Philips,Industrials,Conglomerates,Europe,Netherlands,32.2,31.0,1.6,36.6,296,#385,$21.8 B,$1.3 B,$30.3 B,$38.8 B
+620,Ageas,Financials,Diversified Insurance,Europe,Netherlands,10.2,15.8,0.8,129.0,470,#618,$12.4 B,$1.1 B,$122 B,$6.9 B
+621,Akzo Nobel,Materials,Diversified Chemicals,Europe,Netherlands,19.8,19.4,1.0,22.1,477,#920,$10.2 B,$653 M,$14.6 B,$14.9 B
+622,ASML Holding,Information Technology,Semiconductors,Europe,Netherlands,41.2,7.0,1.6,16.8,591,#361,$13.4 B,$2.9 B,$25.5 B,$124.5 B
+623,KPN,Telecommunication Services,Telecommunications services,Europe,Netherlands,15.2,13.2,-0.3,35.6,811,#1262,$6.2 B,$687 M,$13.8 B,$9.7 B
+624,DSM,Materials,Diversified Chemicals,Europe,Netherlands,12.1,12.0,0.4,16.6,908,#787,$10.1 B,$848 M,$15.1 B,$21 B
+625,HAL Trust,Financials,Investment Services,Europe,Netherlands,9.8,5.5,0.6,9.8,1214,#1050,$5.8 B,$745 M,$22.2 B,$10.7 B
+626,NXP Semiconductors,Information Technology,Semiconductors,Europe,Netherlands,15.1,4.8,0.3,6.4,1474,#1025,$8.8 B,$243 M,$19.5 B,$27.8 B
+627,Wolters Kluwer,Consumer Discretionary,Printing & Publishing,Europe,Netherlands,8.4,4.7,0.5,9.5,1507,#1202,$5.2 B,$749 M,$9.9 B,$19.6 B
+628,Vopak,Industrials,Other Transportation,Europe,Netherlands,7.0,1.7,0.4,6.6,1957,#1837,$1.4 B,$639 M,$7.3 B,$7.4 B
+629,Zenith Bank,Financials,Regional Banks,Africa,Nigeria,4.0,2.1,0.6,19.7,1478,#1842,$1.8 B,$576 M,$18.7 B,$1.2 B
+630,DNB,Financials,Regional Banks,Europe,Norway,28.6,16.8,3.0,393.9,197,#333,$9.7 B,$2.8 B,$317.9 B,$19.1 B
+631,Telenor,Telecommunication Services,Telecommunications services,Europe,Norway,33.1,17.7,2.2,30.6,330,#691,$13.3 B,$528 M,$26.4 B,$21.9 B
+632,Yara International,Materials,Specialized Chemicals,Europe,Norway,12.2,14.4,1.0,14.7,668,#972,$12.9 B,$600 M,$16.7 B,$9.3 B
+633,Storebrand,Financials,Diversified Insurance,Europe,Norway,2.6,9.0,0.3,74.2,1056,#1228,$9.6 B,$235 M,$72 B,$2.3 B
+634,Norsk Hydro,Materials,Aluminum,Europe,Norway,10.2,11.0,-0.2,19.0,1061,#1459,$17 B,$-206 M,$18.7 B,$5.2 B
+635,Orkla,Industrials,Conglomerates,Europe,Norway,8.7,5.6,0.1,8.6,1892,#1965,$5 B,$436 M,$6.5 B,$9.1 B
+636,Bank Muscat,Financials,Regional Banks,Asia,Oman,4.0,1.1,0.4,22.0,1629,#1712,$1.6 B,$449 M,$31.9 B,$2.7 B
+637,Credicorp,Financials,Regional Banks,South America,Peru,11.0,4.5,0.6,41.0,900,#717,$5.8 B,$1.3 B,$56.9 B,$11.9 B
+638,SM Investments,Consumer Discretionary,Department Stores,Asia,Philippines,12.8,5.8,0.6,14.3,963,#707,$9.2 B,$861 M,$22.6 B,$20.2 B
+639,Top Frontier Investment Holdings,,,Asia,Philippines,0.7,16.7,0.0,26.9,1191,#1170,$19.5 B,$207 M,$36.2 B,$930 M
+640,Metropolitan Bank & Trust,Financials,Regional Banks,Asia,Philippines,4.9,1.9,0.5,31.1,1381,#1453,$2.8 B,$534 M,$46.7 B,$3.5 B
+641,PKO Bank Polski,Financials,Regional Banks,Europe,Poland,17.4,4.9,1.0,66.0,623,#958,$4.8 B,$1.1 B,$91.9 B,$6.6 B
+642,Grupa PZU,Financials,Property & Casualty Insurance,Europe,Poland,12.3,6.0,1.0,19.6,797,#731,$10.7 B,$858 M,$90.2 B,$6.3 B
+643,Pgnig Group,Energy,Oil & Gas Operations,Europe,Poland,8.6,10.2,0.6,15.6,897,#1698,$10.8 B,$357 M,$15.6 B,$5.2 B
+644,PKN Orlen,Energy,Oil & Gas Operations,Europe,Poland,6.0,36.0,0.1,17.1,1091,#775,$29 B,$1.2 B,$18.8 B,$6.4 B
+645,Galp Energia,Energy,Oil & Gas Operations,Europe,Portugal,14.3,26.0,0.3,18.9,844,#1194,$18.6 B,$157 M,$15 B,$9.6 B
+646,Jeronimo Martins,Consumer Staples,Food Retail,Europe,Portugal,10.6,15.7,0.5,7.0,978,#1086,$20.9 B,$436 M,$10.9 B,$10.6 B
+647,Banco Comercial Portugues,Financials,Regional Banks,Europe,Portugal,6.3,5.0,-1.0,113.0,1250,#1642,$3.6 B,$313 M,$92.1 B,$1.7 B
+648,Popular,Financials,Regional Banks,North America,Puerto Rico,3.2,2.5,0.6,35.7,1300,#1279,$2.9 B,$671 M,$52.1 B,$3.4 B
+649,Qatar National Bank,Financials,Regional Banks,Asia,Qatar,37.1,5.4,2.6,121.8,407,#190,$15.9 B,$3.9 B,$264.9 B,$43.7 B
+650,Industries Qatar,Materials,Specialized Chemicals,Asia,Qatar,31.3,1.6,2.2,9.6,901,#1579,$1.4 B,$578 M,$9.2 B,$11.7 B
+651,Masraf Al Rayan,Financials,Regional Banks,Asia,Qatar,8.5,0.6,0.5,18.3,1284,#1258,$1 B,$599 M,$30 B,$7.9 B
+652,Commercial Bank of Qatar,Financials,Regional Banks,Asia,Qatar,5.3,1.4,0.4,31.1,1399,#1575,$2.3 B,$481 M,$40.2 B,$4.4 B
+653,Qatar Islamic Bank,Financials,Regional Banks,Asia,Qatar,4.9,0.8,0.4,21.2,1699,#973,$1.5 B,$784 M,$45.6 B,$10.1 B
+654,Gazprom,Energy,Oil & Gas Operations,Asia,Russia,88.8,164.6,39.0,397.2,21,#32,$122.6 B,$22.7 B,$331.7 B,$60.8 B
+655,Rosneft,Energy,Oil & Gas Operations,Asia,Russia,70.0,142.6,12.8,229.4,34,#53,$126.9 B,$10.9 B,$208.5 B,$48.1 B
+656,Sberbank,Financials,Regional Banks,Asia,Russia,51.5,56.5,11.4,554.2,58,#402,$47.6 B,$10.6 B,$410 M,$59.9 B
+657,LukOil,Energy,Oil & Gas Operations,Asia,Russia,47.7,119.2,7.8,109.4,83,#99,$116.3 B,$9.9 B,$95.7 B,$41.2 B
+658,Surgutneftegas,Energy,Oil & Gas Operations,Asia,Russia,26.5,26.9,5.8,68.8,198,#251,$24.7 B,$6.8 B,$80.8 B,$17.9 B
+659,VTB Bank,Financials,Regional Banks,Asia,Russia,14.6,22.8,2.4,262.0,263,#452,$23 B,$2.9 B,$249.8 B,$6.1 B
+660,Transneft,Energy,Oil Services & Equipment,Asia,Russia,15.6,23.7,5.3,65.9,279,#405,$16.4 B,$2.8 B,$54.3 B,$13.4 B
+661,Sistema,Telecommunication Services,Telecommunications services,Asia,Russia,9.8,35.5,2.3,44.4,384,#1412,$10.2 B,$442 M,$20.3 B,$1.9 B
+662,Novatek,Energy,Oil & Gas Operations,Asia,Russia,30.5,9.4,3.4,18.2,481,#316,$13.2 B,$13.4 B,$32.5 B,$42.6 B
+663,Norilsk Nickel,Materials,Diversified Metals & Mining,Asia,Russia,26.9,11.7,1.2,20.2,515,#424,$13.6 B,$5.8 B,$19.4 B,$43.8 B
+664,Tatneft,Energy,Oil & Gas Operations,Asia,Russia,13.0,14.3,2.4,20.4,519,#539,$14.8 B,$3 B,$19.9 B,$16.7 B
+665,Magnit,Consumer Staples,Food Retail,Asia,Russia,22.4,18.2,1.1,7.0,670,#1537,$21.2 B,$148 M,$15.3 B,$5.1 B
+666,Alrosa,Materials,Diversified Metals & Mining,Asia,Russia,7.8,5.0,1.0,10.4,1182,#1750,$3.6 B,$959 M,$6.9 B,$6.2 B
+667,Novolipetsk Steel,Materials,Iron & Steel,Asia,Russia,7.5,10.9,0.2,16.3,1248,#970,$10.1 B,$1.2 B,$9.7 B,$10.4 B
+668,Severstal,Materials,Iron & Steel,Asia,Russia,6.3,13.3,0.1,14.5,1309,#1051,$7.9 B,$1.4 B,$7 B,$10.1 B
+669,Inter Rao,Utilities,Electric Utilities,Asia,Russia,2.4,20.8,-0.7,15.6,1324,#1095,$16 B,$1.3 B,$12.4 B,$5 B
+670,X5 Retail Group,Consumer Staples,Food Retail,Asia,Russia,4.5,16.8,0.3,8.6,1491,#1138,$26.8 B,$302 M,$17.3 B,$8 B
+671,Magnitogorsk Iron & Steel,Materials,Iron & Steel,Asia,Russia,1.8,8.4,-0.4,14.4,1691,#1536,$7.4 B,$756 M,$8.4 B,$6.1 B
+672,Saudi Basic Industries,Materials,Diversified Chemicals,Asia,Saudi Arabia,94.4,50.4,6.7,90.4,98,#212,$37.3 B,$1.5 B,$83.4 B,$59.8 B
+673,Saudi Telecom,Telecommunication Services,Telecommunications services,Asia,Saudi Arabia,35.6,12.2,2.6,23.3,393,#335,$14.6 B,$2.9 B,$32.1 B,$48.3 B
+674,Saudi Electricity,Utilities,Electric Utilities,Asia,Saudi Arabia,17.5,9.5,0.8,73.8,491,#590,$17.3 B,$370 M,$127.9 B,$18.9 B
+675,Al Rajhi Bank,Financials,Regional Banks,Asia,Saudi Arabia,30.1,4.0,2.0,74.6,567,#473,$5.3 B,$2.8 B,$102.4 B,$38.1 B
+676,Samba Financial Group,Financials,Regional Banks,Asia,Saudi Arabia,13.7,2.0,1.2,54.7,721,#780,$2.8 B,$1.1 B,$68.1 B,$12.4 B
+677,Riyad Bank,Financials,Regional Banks,Asia,Saudi Arabia,13.9,2.2,1.1,54.7,735,#709,$3.8 B,$1.5 B,$70.9 B,$13.6 B
+678,Saudi British Bank,Financials,Regional Banks,Asia,Saudi Arabia,12.6,1.7,1.0,47.3,788,#814,$2.9 B,$803 M,$70.8 B,$13.5 B
+679,Banque Saudi Fransi,Financials,Regional Banks,Asia,Saudi Arabia,9.7,1.6,0.6,45.3,931,#934,$2.5 B,$886 M,$47.5 B,$9.9 B
+680,Arab National Bank,Financials,Regional Banks,Asia,Saudi Arabia,8.0,1.6,0.7,36.8,1001,#1013,$2.3 B,$844 M,$48.9 B,$8.2 B
+681,Saudi Arabian Mining,Materials,Diversified Metals & Mining,Asia,Saudi Arabia,9.0,1.5,0.4,17.1,1303,#1508,$4.7 B,$-197 M,$26 B,$12.2 B
+682,Almarai,Consumer Staples,Food Processing,Asia,Saudi Arabia,10.4,3.0,0.4,6.2,1667,#1618,$3.9 B,$496 M,$8.7 B,$13.1 B
+683,Alinma Bank,Financials,Regional Banks,Asia,Saudi Arabia,7.5,0.7,0.3,16.8,1719,#1124,$1.8 B,$695 M,$35.1 B,$8.4 B
+684,Oversea-Chinese Banking,Financials,Regional Banks,Asia,Singapore,26.1,11.1,2.2,268.1,298,#167,$24.9 B,$3.6 B,$365.7 B,$28.3 B
+685,Wilmar International,Consumer Staples,Food Processing,Asia,Singapore,17.7,44.1,1.3,46.6,316,#372,$42.6 B,$1.3 B,$47 B,$16.1 B
+686,SingTel,Telecommunication Services,Telecommunications services,Asia,Singapore,46.2,13.7,2.9,30.9,324,#498,$12.5 B,$933 M,$36.4 B,$32.7 B
+687,United Overseas Bank,Financials,Regional Banks,Asia,Singapore,27.2,7.0,2.4,225.1,367,#281,$12 B,$3.2 B,$300.8 B,$23.9 B
+688,Singapore Airlines,Industrials,Airline,Asia,Singapore,9.8,12.2,0.3,17.9,968,#1155,$12.4 B,$530 M,$24.3 B,$5.1 B
+689,CapitaLand,Financials,Real Estate,Asia,Singapore,9.8,3.3,0.7,28.6,980,#761,$5 B,$1.6 B,$61.2 B,$10.8 B
+690,ST Engineering,Industrials,Aerospace & Defense,Asia,Singapore,9.5,5.3,0.5,6.9,1428,#1968,$5.8 B,$424 M,$7.3 B,$7.6 B
+691,Olam International,Consumer Staples,Food Processing,Asia,Singapore,4.2,16.0,0.3,12.3,1452,#1246,$24.2 B,$373 M,$19.1 B,$3.4 B
+692,China Aviation Oil,Industrials,Trading Companies,Asia,Singapore,0.6,15.6,0.1,1.6,1797,#1748,$20.4 B,$100 M,$1.9 B,$629 M
+693,Standard Bank Group,Financials,Major Banks,Africa,South Africa,21.4,16.4,1.7,161.4,287,#544,$9.3 B,$1.8 B,$162.7 B,$8.9 B
+694,Sasol,Materials,Diversified Chemicals,Africa,South Africa,37.0,20.1,2.8,24.5,321,#1264,$13.8 B,$-442 M,$34.8 B,$2.9 B
+695,MTN Group,Telecommunication Services,Telecommunications services,Africa,South Africa,38.1,14.1,2.7,21.7,378,#1185,$10.5 B,$620 M,$21.6 B,$4.8 B
+696,FirstRand,Financials,Major Banks,Africa,South Africa,18.8,6.3,1.7,85.4,475,#536,$7.5 B,$2 B,$122.7 B,$12.4 B
+697,Steinhoff International,Consumer Discretionary,Furniture & Fixtures,Africa,South Africa,10.5,13.0,0.9,18.5,672,#1668,$12 B,$-1.3 B,$16.9 B,$251 M
+698,Sanlam,Financials,Life & Health Insurance,Africa,South Africa,12.1,5.7,0.8,53.3,688,#890,$10.8 B,$495 M,$63.6 B,$6.7 B
+699,Naspers,Consumer Discretionary,Broadcasting & Cable,Africa,South Africa,47.0,6.1,0.5,12.0,857,#563,$3.3 B,$4.4 B,$35.2 B,$67.8 B
+700,Samsung Electronics,Information Technology,Semiconductors,Asia,South Korea,186.5,208.9,27.2,202.8,22,#16,$197.6 B,$18.4 B,$304.9 B,$278.7 B
+701,Hyundai Motor,Consumer Discretionary,Auto & Truck Manufacturers,Asia,South Korea,49.7,79.8,7.8,126.4,87,#189,$90.5 B,$2.3 B,$163.3 B,$20.1 B
+702,Posco,Materials,Iron & Steel,Asia,South Korea,24.8,56.5,1.2,80.0,236,#365,$53.2 B,$1.3 B,$67.6 B,$12.1 B
+703,Shinhan Financial Group,Financials,Investment Services,Asia,South Korea,21.1,19.6,1.7,295.0,249,#268,$33.9 B,$2.9 B,$477.7 B,$11.7 B
+704,KIA Motors,Consumer Discretionary,Auto & Truck Manufacturers,Asia,South Korea,22.8,43.5,3.5,34.3,258,#478,$50.9 B,$1.2 B,$45.8 B,$9.8 B
+705,Hyundai Mobis,Consumer Discretionary,Auto & Truck Parts,Asia,South Korea,28.7,31.2,3.1,32.6,267,#417,$31.9 B,$1.8 B,$38.7 B,$13.2 B
+706,Samsung Life Insurance,Financials,Life & Health Insurance,Asia,South Korea,18.0,21.8,0.7,182.8,356,#529,$23.8 B,$838 M,$270.4 B,$7.2 B
+707,KB Financial Group,Financials,Investment Services,Asia,South Korea,13.7,15.8,1.2,276.5,370,#278,$37.3 B,$2.7 B,$449.9 B,$11.1 B
+708,SK Hynix,Information Technology,Semiconductors,Asia,South Korea,24.9,12.9,2.6,19.8,439,#296,$23.2 B,$1.3 B,$55.2 B,$47 B
+709,Hana Financial Group,Financials,Regional Banks,Asia,South Korea,10.6,13.0,0.8,279.7,457,#420,$28.3 B,$2.1 B,$364.5 B,$6.6 B
+710,SK Telecom,Telecommunication Services,Telecommunications services,Asia,South Korea,16.6,15.3,1.5,25.2,460,#615,$15.2 B,$750 M,$38.6 B,$12.7 B
+711,SK Innovation,Energy,Oil & Gas Operations,Asia,South Korea,10.6,60.9,0.7,33.4,497,#929,$42.8 B,$-31 M,$34.2 B,$7.1 B
+712,Korea Electric Power,Utilities,Electric Utilities,Asia,South Korea,21.9,49.4,0.1,147.4,524,#594,$50.7 B,$-2 B,$170.9 B,$12.6 B
+713,LG Chem,Materials,Specialized Chemicals,Asia,South Korea,16.4,21.1,1.1,16.5,547,#719,$24.6 B,$131 M,$30.5 B,$23.7 B
+714,Lotte Shopping,Consumer Discretionary,Department Stores,Asia,South Korea,9.3,25.8,0.7,36.9,560,#1288,$15.1 B,$-780 M,$29.4 B,$2.3 B
+715,Samsung Fire & Marine,Financials,Property & Casualty Insurance,Asia,South Korea,9.4,16.7,0.6,45.7,596,#728,$19.1 B,$551 M,$73 B,$6.6 B
+716,SK Holdings,Energy,Oil & Gas Operations,Asia,South Korea,8.6,102.2,0.3,87.7,666,#541,$85.1 B,$615 M,$114.2 B,$7.3 B
+717,Industrial Bank of Korea,Financials,Regional Banks,Asia,South Korea,6.4,8.9,0.8,201.4,677,#629,$13.8 B,$1.3 B,$275.1 B,$3.7 B
+718,Hyundai Steel,Materials,Iron & Steel,Asia,South Korea,7.5,12.4,0.6,28.0,764,#1277,$17 B,$-179 M,$27.9 B,$2.3 B
+719,LG Electronics,Consumer Discretionary,Consumer Electronics,Asia,South Korea,10.0,53.1,0.2,33.7,766,#770,$52.5 B,$411 M,$37.4 B,$8.1 B
+720,LG Display,Information Technology,Electronics,Asia,South Korea,9.0,24.7,0.4,20.6,787,#1226,$18.9 B,$-2.5 B,$29.5 B,$3.2 B
+721,Samsung C&T,Industrials,Trading Companies,Asia,South Korea,9.1,26.0,0.2,24.1,894,#510,$25.7 B,$970 M,$34.8 B,$14.3 B
+722,Korea Gas,Utilities,Natural Gas Utilities,Asia,South Korea,5.4,34.8,-0.2,41.4,961,#1168,$21.4 B,$31 M,$34 B,$1.9 B
+723,Hyundai Engineering,Industrials,Construction Services,Asia,South Korea,5.9,12.7,0.5,14.0,1082,#1418,$14.8 B,$421 M,$15.8 B,$3.2 B
+724,Doosan,Industrials,Construction Services,Asia,South Korea,2.7,20.0,0.1,29.5,1127,#1331,$16.1 B,$-151 M,$25.2 B,$561 M
+725,E-mart,Consumer Discretionary,Discount Stores,Asia,South Korea,6.3,11.9,0.4,12.4,1155,#1503,$16.3 B,$195 M,$18.2 B,$2.7 B
+726,Hyundai Glovis,Industrials,Other Transportation,Asia,South Korea,8.6,11.7,0.4,4.8,1173,#1584,$15.7 B,$431 M,$8.8 B,$3.1 B
+727,S-Oil,Energy,Oil & Gas Operations,Asia,South Korea,6.6,28.5,0.3,11.4,1203,#1446,$20.4 B,$-785 M,$13.4 B,$6.7 B
+728,Korean Air,Industrials,Airline,Asia,South Korea,2.1,10.9,-0.2,21.7,1388,#1554,$10.9 B,$-539 M,$23.4 B,$1.6 B
+729,Hyundai Marine & Fire,Financials,Property & Casualty Insurance,Asia,South Korea,2.5,10.0,0.3,21.9,1404,#1285,$11.9 B,$214 M,$39.2 B,$1.7 B
+730,Lotte Chemical,Materials,Specialized Chemicals,Asia,South Korea,6.2,15.0,0.3,10.1,1430,#1119,$13 B,$613 M,$17.3 B,$6.1 B
+731,KT&G,Consumer Staples,Tobacco,Asia,South Korea,10.3,3.5,0.5,6.7,1524,#1563,$4.3 B,$889 M,$9.3 B,$8.4 B
+732,GS Holdings,Energy,Oil & Gas Operations,Asia,South Korea,4.2,8.8,0.3,12.0,1568,#1191,$15.1 B,$467 M,$21.4 B,$3 B
+733,CJ Cheiljedang,Consumer Staples,Food Processing,Asia,South Korea,3.6,9.9,0.1,12.3,1707,#1326,$19.2 B,$131 M,$22.7 B,$3.6 B
+734,LG Uplus,Telecommunication Services,Telecommunications services,Asia,South Korea,4.3,10.5,0.3,11.2,1759,#1674,$10.6 B,$376 M,$15.5 B,$4.8 B
+735,DGB Financial Group,Financials,Consumer Financial Services,Asia,South Korea,2.0,1.7,0.2,35.6,1835,#1757,$2.6 B,$276 M,$62.7 B,$732 M
+736,Meritz Financial Group,,,Asia,South Korea,0.9,5.3,0.1,20.0,1843,#1383,$7.9 B,$329 M,$53.1 B,$1.1 B
+737,Daelim Industrial,Industrials,Construction Services,Asia,South Korea,2.8,9.0,0.0,10.2,1933,#1733,$8.4 B,$564 M,$11.6 B,$2.8 B
+738,BBVA-Banco Bilbao Vizcaya,Financials,Major Banks,Europe,Spain,71.0,28.2,3.0,802.8,118,#320,$38.3 B,$617 M,$802 B,$21.8 B
+739,Iberdrola,Utilities,Electric Utilities,Europe,Spain,44.1,43.6,3.4,127.3,133,#120,$39.7 B,$4.1 B,$136.6 B,$62.5 B
+740,Inditex,Consumer Discretionary,Apparel/Footwear Retail,Europe,Spain,94.3,22.2,3.2,18.6,313,#244,$31.6 B,$4.1 B,$31.5 B,$79.3 B
+741,CaixaBank,Financials,Regional Banks,Europe,Spain,33.3,15.9,0.7,468.8,325,#462,$11.3 B,$1.4 B,$456.9 B,$10.7 B
+742,Mapfre,Financials,Diversified Insurance,Europe,Spain,13.2,27.3,1.0,74.1,376,#731,$24.5 B,$591 M,$76.7 B,$5.6 B
+743,Grupo ACS,Industrials,Construction Services,Europe,Spain,12.4,50.9,0.9,54.8,382,#564,$43.7 B,$1.1 B,$43.3 B,$7.6 B
+744,Ferrovial,Industrials,Other Transportation,Europe,Spain,16.1,10.8,1.0,31.4,556,#1115,$6.8 B,$300 M,$27.1 B,$18.3 B
+745,Bankia,Financials,Regional Banks,Europe,Spain,24.3,5.1,0.7,346.5,582,#1242,$4 B,$479 M,$229.8 B,$3.1 B
+746,Banco de Sabadell,Financials,Regional Banks,Europe,Spain,13.0,9.5,0.3,225.2,688,#837,$7.6 B,$859 M,$251.2 B,$2.4 B
+747,Bankinter,Financials,Regional Banks,Europe,Spain,7.4,3.0,0.3,76.0,1263,#1212,$2.6 B,$616 M,$94 B,$3.7 B
+748,Abengoa,Industrials,Construction Services,Europe,Spain,4.0,9.8,0.1,29.1,1330,#1936,$1.7 B,$999 M,$4.3 B,$305 M
+749,Acciona,Industrials,Construction Services,Europe,Spain,4.9,8.8,-2.6,23.1,1443,#1647,$8 B,$394 M,$19.5 B,$5.4 B
+750,Grifols,Health Care,Biotechs,Europe,Spain,13.2,3.6,0.5,8.0,1489,#959,$5.7 B,$700 M,$17.4 B,$23.3 B
+751,Liberbank,Financials,Regional Banks,Europe,Spain,1.8,2.0,0.1,61.4,1645,#1882,$862 M,$125 M,$47.1 B,$609 M
+752,Nordea Bank,Financials,Regional Banks,Europe,Sweden,58.0,25.6,4.1,868.7,119,#291,$13 B,$1.7 B,$622.8 B,$26.1 B
+753,Ericsson,Information Technology,Communications Equipment,Europe,Sweden,43.5,34.9,1.8,41.9,235,#704,$23.8 B,$215 M,$29.5 B,$28.9 B
+754,Svenska Handelsbanken,Financials,Major Banks,Europe,Sweden,32.1,10.1,2.2,387.7,289,#464,$7.2 B,$1.7 B,$363 B,$18.3 B
+755,Swedbank,Financials,Major Banks,Europe,Sweden,29.8,10.7,2.0,283.5,296,#577,$6.2 B,$1.3 B,$270 B,$13.2 B
+756,Volvo Group,Industrials,Heavy Equipment,Europe,Sweden,34.7,41.8,0.6,53.7,352,#233,$43.4 B,$3.1 B,$55.6 B,$26.3 B
+757,Atlas Copco,Industrials,Other Industrial Equipment,Europe,Sweden,35.4,12.9,1.9,13.7,514,#658,$10.9 B,$1.7 B,$12.1 B,$42.2 B
+758,SCA,Consumer Staples,Household/Personal Care,Europe,Sweden,20.8,13.7,0.9,22.2,541,#1439,$2 B,$1.6 B,$10.1 B,$7.6 B
+759,Sandvik,Industrials,Other Industrial Equipment,Europe,Sweden,18.0,13.4,0.8,14.6,649,#868,$10.6 B,$759 M,$12.5 B,$19.4 B
+760,Skanska,Industrials,Construction Services,Europe,Sweden,9.7,21.0,0.6,13.6,781,#1008,$18.4 B,$664 M,$13.3 B,$7.9 B
+761,Assa Abloy,Industrials,Other Industrial Equipment,Europe,Sweden,20.0,7.4,0.7,10.2,864,#823,$9.9 B,$1 B,$12.8 B,$20 B
+762,ICA Gruppen,Consumer Discretionary,Printing & Publishing,Europe,Sweden,7.4,11.9,1.6,10.7,870,#1408,$12.7 B,$375 M,$10.4 B,$8.8 B
+763,SKF Group,Industrials,Other Industrial Equipment,Europe,Sweden,11.7,9.8,0.1,11.1,1264,#1476,$8.9 B,$531 M,$10.2 B,$7.3 B
+764,Electrolux Group,Consumer Discretionary,Household Appliances,Europe,Sweden,6.3,16.8,0.1,11.8,1351,#1965,$13.3 B,$265 M,$11.4 B,$4 B
+765,Alfa Laval,Industrials,Other Industrial Equipment,Europe,Sweden,11.5,4.6,0.5,5.4,1456,#1884,$4.9 B,$552 M,$6.5 B,$7.9 B
+766,Hexagon,Industrials,Other Industrial Equipment,Europe,Sweden,12.3,3.2,0.5,7.5,1486,#1249,$4.3 B,$766 M,$11.8 B,$18.3 B
+767,Lundbergs,Financials,Real Estate,Europe,Sweden,5.9,3.1,0.5,15.0,1566,#1078,$2.7 B,$1.3 B,$18.7 B,$10.5 B
+768,Securitas,Consumer Discretionary,Business & Personal Services,Europe,Sweden,4.3,10.1,0.3,5.8,1920,#1941,$11.7 B,$355 M,$6.6 B,$4.3 B
+769,Novartis,Health Care,Pharmaceuticals,Europe,Switzerland,227.4,57.9,9.2,126.3,54,#68,$48.6 B,$12.2 B,$123.1 B,$193 B
+770,UBS,Financials,Investment Services,Europe,Switzerland,81.0,39.7,3.4,1135.5,79,#109,$34.2 B,$4.8 B,"$1,098.1 B",$38.4 B
+771,Zurich Insurance Group,Financials,Diversified Insurance,Europe,Switzerland,45.8,71.9,4.0,397.1,84,#76,$71.8 B,$4.1 B,$381.9 B,$47.4 B
+772,Roche Holding,Health Care,Pharmaceuticals,Europe,Switzerland,253.7,50.5,12.0,69.9,90,#74,$61.9 B,$13.6 B,$85.8 B,$297.4 B
+773,Credit Suisse Group,Financials,Investment Services,Europe,Switzerland,52.3,39.5,2.8,981.2,112,#160,$32.8 B,$4 B,$860.1 B,$22 B
+774,Swiss Re,Financials,Diversified Insurance,Europe,Switzerland,34.7,36.8,4.4,205.2,132,#309,$49 B,$734 M,$238.6 B,$20.3 B
+775,ABB,Industrials,Conglomerates,Europe,Switzerland,60.0,41.8,2.8,48.4,169,#298,$28 B,$1.4 B,$46.1 B,$40.5 B
+776,Richemont,Consumer Discretionary,Specialty Stores,Europe,Switzerland,54.3,13.6,2.8,21.1,371,#401,$16.4 B,$1.6 B,$34 B,$32.1 B
+777,Glencore International,Materials,Diversified Metals & Mining,Europe,Switzerland,67.5,232.6,-7.5,154.9,406,#484,$215.1 B,$-416 M,$124.1 B,$24.5 B
+778,Swisscom,Telecommunication Services,Telecommunications services,Europe,Switzerland,31.3,12.3,1.8,23.0,427,#527,$11.5 B,$1.7 B,$25 B,$26.9 B
+779,Swiss Life Holding,Financials,Life & Health Insurance,Europe,Switzerland,7.9,20.2,0.8,191.3,480,#364,$25.5 B,$1.2 B,$235.8 B,$11.3 B
+780,TE Connectivity,Information Technology,Electronics,Europe,Switzerland,24.7,13.5,1.4,18.4,498,#672,$13.1 B,$699 M,$19.4 B,$24.5 B
+781,Swatch Group,Consumer Discretionary,Apparel/Accessories,Europe,Switzerland,33.6,9.1,2.1,11.3,606,#1075,$8.3 B,$735 M,$14.1 B,$10.3 B
+782,Adecco,Consumer Discretionary,Business & Personal Services,Europe,Switzerland,16.0,25.9,0.7,12.7,627,#980,$26.2 B,$812 M,$11.9 B,$7.1 B
+783,Weatherford International,Energy,Oil Services & Equipment,Europe,Switzerland,13.5,15.3,-0.3,22.0,887,#1481,$5.2 B,$3.6 B,$7.3 B,$315 M
+784,Schindler Holding,Industrials,Other Industrial Equipment,Europe,Switzerland,17.1,9.5,0.5,8.8,992,#811,$11.3 B,$868 M,$10.9 B,$23.9 B
+785,SGS,Consumer Discretionary,Business & Personal Services,Europe,Switzerland,18.9,6.3,0.6,5.7,1025,#1140,$6.6 B,$664 M,$6.5 B,$17.1 B
+786,Helvetia Holding,Financials,Diversified Insurance,Europe,Switzerland,4.5,9.1,0.4,49.6,1048,#976,$10.6 B,$543 M,$63.3 B,$4.5 B
+787,Julius Baer Group,Financials,Investment Services,Europe,Switzerland,9.6,2.7,0.2,81.5,1202,#1077,$4.1 B,$468 M,$105.4 B,$8.5 B
+788,Givaudan,Materials,Specialized Chemicals,Europe,Switzerland,14.3,4.7,0.5,7.0,1307,#1030,$6.2 B,$706 M,$10.7 B,$30.9 B
+789,Coca-Cola HBC,Consumer Staples,Beverages,Europe,Switzerland,9.1,9.1,0.3,10.0,1337,#1376,$7.9 B,$546 M,$9.2 B,$9.3 B
+790,Garmin,Consumer Discretionary,Consumer Electronics,Europe,Switzerland,11.6,2.6,0.6,4.9,1407,#1222,$3.8 B,$974 M,$6.1 B,$15.5 B
+791,Sika,Materials,Construction Materials,Europe,Switzerland,10.2,5.5,0.4,5.3,1495,#960,$8.2 B,$757 M,$10.4 B,$23.5 B
+792,Geberit,Materials,Construction Materials,Europe,Switzerland,12.5,2.2,0.5,2.5,1503,#1359,$3.1 B,$651 M,$3.8 B,$16.2 B
+793,STMicroelectronics,Information Technology,Semiconductors,Europe,Switzerland,8.3,8.1,-0.5,9.2,1581,#822,$9.7 B,$1 B,$11.9 B,$23.1 B
+794,Lindt & Sprungli,Consumer Staples,Food Processing,Europe,Switzerland,13.2,3.1,0.3,4.4,1700,#1438,$4.5 B,$513 M,$8.4 B,$19.9 B
+795,Basler Kantonalbank,Financials,Regional Banks,Europe,Switzerland,2.6,0.9,0.1,44.1,1750,#1892,$670 M,$113 M,$46.3 B,$366 M
+796,Luzerner Kantonalbank,Financials,Regional Banks,Europe,Switzerland,3.5,0.7,0.2,32.0,1880,#1893,$633 M,$204 M,$46.3 B,$3.4 B
+797,EMS-Chemie Holding,Materials,Specialized Chemicals,Europe,Switzerland,8.8,2.0,0.4,1.8,1918,#1525,$2.2 B,$530 M,$2.3 B,$15.2 B
+798,Hon Hai Precision,Information Technology,Electronics,Asia,Taiwan,37.3,127.2,3.4,68.2,139,#121,$172.8 B,$3.7 B,$110.8 B,$35.9 B
+799,Taiwan Semiconductor,Information Technology,Semiconductors,Asia,Taiwan,102.0,20.1,6.3,42.4,190,#108,$37.8 B,$13 B,$77.5 B,$265.5 B
+800,Cathay Financial,Financials,Life & Health Insurance,Asia,Taiwan,17.1,11.0,1.0,199.3,400,#250,$24.2 B,$2 B,$335.5 B,$17.7 B
+801,Fubon Financial,Financials,Investment Services,Asia,Taiwan,13.9,12.5,1.1,149.1,411,#272,$33.3 B,$1.9 B,$284.6 B,$14.6 B
+802,Formosa Petrochemical,Energy,Oil & Gas Operations,Asia,Taiwan,24.3,31.4,0.7,17.3,495,#607,$20.9 B,$1.2 B,$13.3 B,$28.7 B
+803,Formosa Chemicals,Materials,Specialized Chemicals,Asia,Taiwan,14.1,14.5,0.9,17.4,619,#765,$10.2 B,$961 M,$18.4 B,$14.9 B
+804,Quanta Computer,Information Technology,Computer Hardware,Asia,Taiwan,10.3,29.7,0.6,18.6,634,#835,$33.3 B,$516 M,$20.5 B,$8.4 B
+805,Chunghwa Telecom,Telecommunication Services,Telecommunications services,Asia,Taiwan,23.9,7.7,1.3,14.3,657,#808,$6.6 B,$1.1 B,$15.9 B,$28.6 B
+806,China Steel,Materials,Iron & Steel,Asia,Taiwan,12.9,11.7,0.6,22.9,696,#1126,$11.8 B,$285 M,$22.2 B,$10.4 B
+807,Nan Ya Plastics,Materials,Diversified Chemicals,Asia,Taiwan,16.7,10.2,0.7,17.4,702,#802,$9.3 B,$747 M,$18.5 B,$17.7 B
+808,Mega Financial Holding,Financials,Investment Services,Asia,Taiwan,9.6,2.4,0.7,95.4,832,#730,$3.3 B,$937 M,$122.9 B,$13.8 B
+809,Formosa Plastics,Materials,Specialized Chemicals,Asia,Taiwan,16.0,7.3,0.7,13.4,844,#837,$6.7 B,$1.2 B,$16.6 B,$18.8 B
+810,Uni-President,Consumer Staples,Food Processing,Asia,Taiwan,8.8,14.5,0.5,12.4,956,#844,$14.5 B,$615 M,$15.9 B,$13.3 B
+811,Asustek Computer,Information Technology,Computer Hardware,Asia,Taiwan,7.5,15.5,0.7,9.1,968,#1850,$11.4 B,$393 M,$11.7 B,$5.1 B
+812,Shin Kong Financial,Financials,Life & Health Insurance,Asia,Taiwan,3.0,8.5,0.4,83.2,1037,#798,$15.6 B,$536 M,$132.8 B,$3.7 B
+813,Taishin Financial Holdings,Financials,Investment Services,Asia,Taiwan,3.6,2.5,0.6,95.9,1114,#1427,$2.1 B,$469 M,$67.8 B,$4.6 B
+814,Delta Electronics,Information Technology,Electronics,Asia,Taiwan,14.9,5.8,0.5,6.3,1165,#1092,$8.8 B,$710 M,$10.1 B,$12.2 B
+815,Pegatron,Information Technology,Electronics,Asia,Taiwan,3.5,32.2,0.3,13.9,1205,#900,$44.2 B,$625 M,$19 B,$5.8 B
+816,First Financial Holding,Financials,Investment Services,Asia,Taiwan,5.5,1.6,0.4,76.1,1295,#940,$3.1 B,$627 M,$107 B,$9.2 B
+817,Hua Nan Financial,Financials,Consumer Financial Services,Asia,Taiwan,5.2,1.5,0.3,71.1,1463,#1079,$2.7 B,$516 M,$91.1 B,$8 B
+818,SinoPac Financial,Financials,Consumer Financial Services,Asia,Taiwan,4.0,1.4,0.4,48.3,1465,#1569,$1.8 B,$404 M,$61.2 B,$4.6 B
+819,China Life Insurance (Taiwan),Financials,Life & Health Insurance,Asia,Taiwan,2.5,6.8,0.2,30.8,1473,#1012,$11.8 B,$440 M,$66.7 B,$3.1 B
+820,Compal Electronics,Information Technology,Computer Hardware,Asia,Taiwan,3.1,23.1,0.1,10.7,1492,#1558,$31.7 B,$225 M,$12.8 B,$2.8 B
+821,Taiwan Cooperative Financial,Financials,Consumer Financial Services,Asia,Taiwan,4.6,2.0,0.3,101.9,1521,#986,$3.1 B,$558 M,$124.7 B,$8.8 B
+822,Wistron,Information Technology,Computer Hardware,Asia,Taiwan,2.0,22.0,0.2,9.7,1553,#1634,$28.4 B,$220 M,$11.5 B,$2.7 B
+823,Chang Hwa Bank,Financials,Regional Banks,Asia,Taiwan,4.6,1.1,0.3,56.2,1557,#1404,$1.6 B,$374 M,$71.2 B,$6.6 B
+824,E.Sun Financial,Financials,Consumer Financial Services,Asia,Taiwan,3.5,1.2,0.3,45.1,1666,#901,$2.6 B,$650 M,$83.3 B,$10.7 B
+825,Far Eastern New Century,Materials,Diversified Chemicals,Asia,Taiwan,5.6,8.0,0.2,12.3,1705,#1792,$8.1 B,$347 M,$19.2 B,$4.7 B
+826,Taiwan Business Bank,Financials,Regional Banks,Asia,Taiwan,1.6,0.9,0.1,44.6,1747,#1779,$1.2 B,$218 M,$58.3 B,$2.6 B
+827,Mercuries & Associates,Consumer Discretionary,Department Stores,Asia,Taiwan,0.5,5.2,0.0,23.1,1762,#1580,$6.8 B,$113 M,$42.8 B,$576 M
+828,Inventec,Information Technology,Computer Hardware,Asia,Taiwan,3.5,14.9,0.2,6.9,1822,#1848,$16.2 B,$178 M,$6.4 B,$2.8 B
+829,Pou Chen,Consumer Discretionary,Apparel/Accessories,Asia,Taiwan,4.1,9.3,0.3,8.3,1840,#1938,$10.1 B,$383 M,$12.1 B,$2.8 B
+830,President Chain Store,Consumer Staples,Food Retail,Asia,Taiwan,7.3,6.9,0.3,2.8,1844,#1590,$8.3 B,$341 M,$6.5 B,$10.8 B
+831,WPG Holdings,Information Technology,Electronics,Asia,Taiwan,2.0,13.7,0.2,4.5,1865,#1822,$17.1 B,$209 M,$7.7 B,$2.2 B
+832,Yuanta Financial Holding,Financials,Investment Services,Asia,Taiwan,5.0,1.2,0.2,29.1,1889,#1074,$4.1 B,$661 M,$80.5 B,$6.7 B
+833,Siam Commercial Bank,Financials,Regional Banks,Asia,Thailand,16.6,5.7,1.6,77.1,542,#745,$6.8 B,$1.3 B,$95.6 B,$7.2 B
+834,Kasikornbank,Financials,Major Banks,Asia,Thailand,13.3,6.9,1.3,69.7,555,#714,$8.9 B,$1.1 B,$106.1 B,$6.4 B
+835,Siam Cement,Materials,Specialized Chemicals,Asia,Thailand,15.5,14.1,1.2,13.4,626,#693,$13.9 B,$882 M,$21.6 B,$12.8 B
+836,PTT Global Chemical,Materials,Diversified Chemicals,Asia,Thailand,10.1,18.0,1.1,13.2,687,#1573,$13.3 B,$376 M,$15.1 B,$5.2 B
+837,Bangkok Bank,Financials,Regional Banks,Asia,Thailand,10.7,4.6,1.2,79.0,711,#855,$5.8 B,$1.1 B,$103.5 B,$6.1 B
+838,Krung Thai Bank,Financials,Regional Banks,Asia,Thailand,8.1,4.5,1.1,76.5,799,#1046,$5.2 B,$906 M,$96.3 B,$4.8 B
+839,Advanced Info Service,Telecommunication Services,Telecommunications services,Asia,Thailand,21.0,4.6,1.2,3.4,1018,#1068,$5.8 B,$1 B,$9.7 B,$18.2 B
+840,CP All,Consumer Discretionary,Specialty Stores,Asia,Thailand,12.1,8.9,0.3,8.8,1230,#783,$17.7 B,$688 M,$12.5 B,$19.7 B
+841,Thai Beverage,Consumer Staples,Beverages,Asia,Thailand,12.1,5.1,0.6,5.6,1261,#1002,$8.7 B,$782 M,$13.8 B,$12.3 B
+842,Charoen Pokphand Foods,Consumer Staples,Food Processing,Asia,Thailand,6.7,12.7,0.2,11.1,1414,#1071,$17.2 B,$575 M,$21.2 B,$4.8 B
+843,Airports of Thailand,Industrials,Other Transportation,Asia,Thailand,8.5,1.2,0.5,4.7,1612,#1134,$2 B,$837 M,$6.7 B,$27.5 B
+844,Isbank,Financials,Regional Banks,Europe,Turkey,9.9,14.6,2.3,114.3,392,#718,$13.9 B,$985 M,$90.3 B,$3.2 B
+845,Garanti Bank,Financials,Regional Banks,Europe,Turkey,14.9,9.5,1.9,101.3,414,#799,$9.9 B,$1.1 B,$72.9 B,$5 B
+846,Akbank,Financials,Regional Banks,Europe,Turkey,13.2,7.9,1.7,90.4,487,#850,$8.3 B,$1.2 B,$66.7 B,$4.4 B
+847,Sabanci Holding,Industrials,Conglomerates,Europe,Turkey,8.1,13.0,0.9,96.1,563,#886,$10.7 B,$665 M,$68.3 B,$2.4 B
+848,Halkbank,Financials,Regional Banks,Europe,Turkey,7.9,6.4,1.6,61.1,659,#1247,$9 B,$253 M,$76.3 B,$930 M
+849,VakifBank,Financials,Regional Banks,Europe,Turkey,4.8,6.3,0.9,62.9,911,#1004,$8.5 B,$593 M,$68.1 B,$1.6 B
+850,Turkish Airlines,Industrials,Airline,Europe,Turkey,4.3,9.9,0.4,11.8,1485,#991,$13.2 B,$798 M,$24.7 B,$2.1 B
+851,Etisalat,Telecommunication Services,Telecommunications services,Asia,United Arab Emirates,25.8,10.6,1.9,23.3,458,#358,$14.2 B,$2.4 B,$35.4 B,$36.7 B
+852,Emirates NBD,Financials,Regional Banks,Asia,United Arab Emirates,12.8,4.0,0.8,93.1,765,#351,$10.7 B,$3.6 B,$188.3 B,$14.8 B
+853,Abu Dhabi Commercial Bank,Financials,Regional Banks,Asia,United Arab Emirates,11.2,2.5,0.9,49.9,813,#776,$5.4 B,$1.2 B,$110.3 B,$8.4 B
+854,Emaar Properties,Financials,Real Estate,Asia,United Arab Emirates,17.9,2.9,0.7,17.7,953,#981,$7.1 B,$1.7 B,$31.8 B,$5.3 B
+855,DP World,Industrials,Other Transportation,Asia,United Arab Emirates,15.1,3.1,0.6,16.8,1020,#715,$7.4 B,$1.2 B,$34.1 B,$13.3 B
+856,Dubai Islamic Bank,Financials,Regional Banks,Asia,United Arab Emirates,6.8,1.3,0.4,30.8,1257,#932,$3.7 B,$1.2 B,$63.1 B,$7.2 B
+857,Mashreq Bank,Financials,Regional Banks,Asia,United Arab Emirates,5.3,1.9,0.5,24.4,1396,#1500,$2.8 B,$514 M,$44.3 B,$3.3 B
+858,Abu Dhabi Islamic Bank,Financials,Regional Banks,Asia,United Arab Emirates,4.8,1.3,0.3,28.1,1736,#1472,$2 B,$625 M,$34.3 B,$3.6 B
+859,HSBC Holdings,Financials,Major Banks,Europe,United Kingdom,192.6,79.6,16.3,2671.3,14,#44,$67.2 B,$3.8 B,"$2,917.8 B",$105.3 B
+860,BP,Energy,Oil & Gas Operations,Europe,United Kingdom,148.8,379.2,23.6,305.7,17,#357,$271.6 B,$-3.3 B,$273.9 B,$79.4 B
+861,Vodafone,Telecommunication Services,Telecommunications services,Europe,United Kingdom,96.9,65.1,31.8,235.6,38,#465,$49.4 B,$-2.5 B,$174.4 B,$37.9 B
+862,Prudential,Financials,Life & Health Insurance,Europe,United Kingdom,56.1,81.9,2.1,528.5,107,#220,$94.5 B,$768 M,$440.4 B,$36.9 B
+863,Rio Tinto,Materials,Diversified Metals & Mining,Europe,United Kingdom,103.8,51.2,3.7,111.0,109,#114,$43.2 B,$8 B,$87.8 B,$75.5 B
+864,GlaxoSmithKline,Health Care,Pharmaceuticals,Europe,United Kingdom,128.8,41.4,8.5,69.7,116,#97,$44.7 B,$6.8 B,$104.6 B,$104.4 B
+865,Standard Chartered,Financials,Major Banks,Europe,United Kingdom,51.1,25.6,4.1,674.4,123,#253,$24.7 B,$1.9 B,$720.4 B,$16.2 B
+866,Aviva,Financials,Life & Health Insurance,Europe,United Kingdom,24.1,53.8,3.1,449.9,143,#213,$89.5 B,$3.2 B,$593.1 B,$12 B
+867,Barclays,Financials,Major Banks,Europe,United Kingdom,64.6,55.0,0.8,2173.4,160,#181,$28.8 B,$2.6 B,"$1,790.9 B",$23.1 B
+868,National Grid,Utilities,Natural Gas Utilities,Europe,United Kingdom,49.6,23.4,3.9,83.9,168,#262,$19 B,$1.9 B,$81.7 B,$41.3 B
+869,British American Tobacco,Consumer Staples,Tobacco,Europe,United Kingdom,104.3,23.9,6.1,44.5,173,#91,$33 B,$7.3 B,$186.8 B,$88.8 B
+870,AstraZeneca,Health Care,Pharmaceuticals,Europe,United Kingdom,82.3,25.7,2.6,55.9,183,#237,$26.2 B,$1.5 B,$57.2 B,$137.7 B
+871,Legal & General Group,Financials,Life & Health Insurance,Europe,United Kingdom,20.8,61.2,1.4,596.7,191,#192,$85.2 B,$2.3 B,$735 B,$15.3 B
+872,BT Group,Telecommunication Services,Telecommunications services,Europe,United Kingdom,50.0,28.6,3.2,39.9,218,#314,$29.6 B,$2.8 B,$63.3 B,$14.5 B
+873,Diageo,Consumer Staples,Beverages,Europe,United Kingdom,77.3,17.7,4.0,40.2,228,#273,$16.8 B,$3.9 B,$42 B,$81 B
+874,Rolls-Royce Holdings,Industrials,Aerospace & Defense,Europe,United Kingdom,34.3,24.2,2.1,38.2,281,#920,$21.2 B,$-1.7 B,$42.7 B,$8 B
+875,Centrica,Utilities,Natural Gas Utilities,Europe,United Kingdom,27.7,41.5,1.5,38.8,291,#1196,$28.9 B,$-1.3 B,$25.7 B,$2.9 B
+876,Old Mutual,Financials,Investment Services,Europe,United Kingdom,16.6,31.0,1.1,229.3,295,#864,$12.2 B,$636 M,$64.5 B,$3.4 B
+877,Reckitt Benckiser Group,Consumer Staples,Household/Personal Care,Europe,United Kingdom,58.7,15.2,2.7,25.1,329,#650,$16.4 B,$-4.7 B,$42.6 B,$59.4 B
+878,SSE,Utilities,Electric Utilities,Europe,United Kingdom,24.1,47.5,1.2,31.1,336,#636,$9 B,$1.6 B,$25.8 B,$16.3 B
+879,WPP,Consumer Discretionary,Advertising,Europe,United Kingdom,27.7,17.2,1.5,41.4,346,#665,$16.9 B,$702 M,$41.5 B,$9.5 B
+880,Lloyds Banking Group,Financials,Major Banks,Europe,United Kingdom,89.9,58.6,-1.3,1402.9,391,#115,$64.3 B,$3.1 B,"$1,104.7 B",$28.6 B
+881,Royal Bank of Scotland,Financials,Major Banks,Europe,United Kingdom,59.8,38.3,-13.4,1702.4,424,#207,$23.5 B,$4.5 B,$957.8 B,$16.8 B
+882,Aon,Financials,Insurance Brokers,Europe,United Kingdom,25.5,11.8,1.1,30.3,455,#485,$11 B,$1.5 B,$29.4 B,$39.9 B
+883,Associated British Foods,Consumer Staples,Food Processing,Europe,United Kingdom,36.7,20.8,0.9,16.8,465,#591,$20.3 B,$901 M,$20.5 B,$18.9 B
+884,Tesco,Consumer Staples,Food Retail,Europe,United Kingdom,39.5,100.6,-0.5,78.0,465,#254,$82.7 B,$1.2 B,$66.8 B,$29 B
+885,Anglo American,Materials,Diversified Metals & Mining,Europe,United Kingdom,35.3,29.3,-0.9,71.2,551,#274,$29.9 B,$3.5 B,$56.2 B,$22 B
+886,Compass Group,Consumer Discretionary,Restaurants,Europe,United Kingdom,27.3,27.4,0.7,14.8,553,#505,$31.7 B,$1.4 B,$16.4 B,$26.8 B
+887,J Sainsbury,Consumer Staples,Food Retail,Europe,United Kingdom,9.8,37.2,1.0,20.9,559,#1058,$37 B,$165 M,$35.7 B,$5.5 B
+888,Kingfisher,Consumer Discretionary,Home Improvement Retail,Europe,United Kingdom,17.0,17.4,1.1,16.1,569,#1642,$14.9 B,$233 M,$15.2 B,$4.2 B
+889,Liberty Global,Consumer Discretionary,Broadcasting & Cable,Europe,United Kingdom,32.1,14.5,-1.0,67.7,621,#880,$11.5 B,$-795 M,$49 B,$12.3 B
+890,BAE Systems,Industrials,Aerospace & Defense,Europe,United Kingdom,21.8,26.4,0.3,33.0,654,#389,$23.4 B,$1.9 B,$34.5 B,$20.6 B
+891,Marks & Spencer,Consumer Discretionary,Department Stores,Europe,United Kingdom,12.5,15.9,0.8,12.5,721,#1944,$13.1 B,$75 M,$12.1 B,$2.3 B
+892,International Airlines,Industrials,Airline,Europe,United Kingdom,14.3,24.7,0.2,28.6,773,#624,$28.6 B,$1.9 B,$40 B,$5.6 B
+893,Phoenix Group Holdings,Financials,Life & Health Insurance,Europe,United Kingdom,2.6,6.9,0.6,124.0,924,#826,$37.1 B,$79 M,$311.6 B,$5.5 B
+894,Investec,Financials,Investment Services,Europe,United Kingdom,6.8,5.4,0.5,77.0,939,#1107,$5.8 B,$647 M,$73.6 B,$2 B
+895,RSA Insurance Group,Financials,Property & Casualty Insurance,Europe,United Kingdom,8.7,14.5,-0.5,33.0,944,#1420,$8.8 B,$440 M,$23.4 B,$4.7 B
+896,Johnson Matthey,Materials,Diversified Chemicals,Europe,United Kingdom,11.2,19.1,0.5,6.0,960,#1561,$13.3 B,$491 M,$8 B,$4.9 B
+897,Antofagasta,Materials,Diversified Metals & Mining,Europe,United Kingdom,13.8,6.0,0.7,12.4,970,#1557,$5 B,$500 M,$14.6 B,$10.1 B
+898,Schroders,Financials,Investment Services,Europe,United Kingdom,12.5,2.8,0.6,27.5,981,#1188,$3.3 B,$630 M,$28.2 B,$9.2 B
+899,Wm Morrison Supermarkets,Consumer Staples,Food Retail,Europe,United Kingdom,8.2,27.7,-0.4,17.6,987,#1270,$22.4 B,$445 M,$14.4 B,$5.5 B
+900,Next,Consumer Discretionary,Apparel/Footwear Retail,Europe,United Kingdom,17.2,5.9,0.9,3.5,1002,#1564,$5.4 B,$779 M,$4.8 B,$7.6 B
+901,United Utilities,Utilities,Diversified Utilities,Europe,United Kingdom,9.1,2.6,1.1,16.8,1055,#1876,$2.3 B,$395 M,$17.4 B,$7.8 B
+902,London Stock Exchange,Financials,Investment Services,Europe,United Kingdom,9.0,1.4,0.3,913.6,1107,#670,$3 B,$532 M,"$1,064.6 B",$33 B
+903,Mondi,Materials,Paper & Paper Products,Europe,United Kingdom,8.4,8.6,0.5,8.6,1211,#1189,$8.1 B,$908 M,$9.6 B,$8.6 B
+904,Smith & Nephew,Health Care,Medical Equipment & Supplies,Europe,United Kingdom,13.7,4.3,0.6,5.8,1360,#1323,$5.1 B,$600 M,$9.3 B,$17.2 B
+905,Bunzl,Consumer Discretionary,Business & Personal Services,Europe,United Kingdom,8.9,9.5,0.3,5.3,1377,#1422,$11.9 B,$446 M,$7.9 B,$7.3 B
+906,Inchcape,Consumer Discretionary,Specialty Stores,Europe,United Kingdom,5.1,10.2,0.3,5.6,1811,#1764,$12 B,$412 M,$5.9 B,$2.5 B
+907,JPMorgan Chase,Financials,Major Banks,North America,United States,229.7,105.7,17.3,2435.3,4,#3,$142.9 B,$30 B,"$3,139.4 B",$291.7 B
+908,Berkshire Hathaway,Financials,Investment Services,North America,United States,309.1,178.8,19.5,493.4,5,#4,$254.6 B,$81.4 B,$817.7 B,$455.4 B
+909,General Electric,Industrials,Conglomerates,North America,United States,259.6,143.3,14.8,656.6,7,#53,$99.9 B,$6.3 B,$262 B,$59.5 B
+910,Wells Fargo,Financials,Major Banks,North America,United States,261.4,88.7,21.9,1543.0,8,#17,$98.9 B,$14.3 B,"$1,981.3 B",$118.8 B
+911,Bank of America,Financials,Major Banks,North America,United States,183.3,101.5,11.4,2113.8,13,#8,$112.1 B,$24.1 B,"$2,620 B",$208.6 B
+912,Apple,Information Technology,Computer Hardware,North America,United States,483.1,173.8,37.0,225.2,15,#9,$267.7 B,$57.2 B,$320.4 B,"$1,285.5 B"
+913,Citigroup,Financials,Major Banks,North America,United States,145.1,94.1,13.4,1883.4,16,#18,$104.4 B,$17.1 B,"$2,219.8 B",$101.1 B
+914,Chevron,Energy,Oil & Gas Operations,North America,United States,227.2,211.8,21.4,253.8,18,#61,$140.1 B,$2.9 B,$237.4 B,$171.8 B
+915,AT&T,Telecommunication Services,Telecommunications services,North America,United States,182.7,128.8,18.2,277.8,23,#11,$179.2 B,$14.4 B,$545.4 B,$218.6 B
+916,Verizon Communications,Telecommunication Services,Telecommunications services,North America,United States,197.7,120.6,11.5,274.1,26,#20,$131.4 B,$18.4 B,$294.5 B,$237.7 B
+917,Microsoft,Information Technology,Software & Programming,North America,United States,343.8,83.3,22.8,153.5,32,#13,$138.6 B,$46.3 B,$285.4 B,"$1,359 B"
+918,IBM,Information Technology,Computer Services,North America,United States,202.5,99.8,16.5,126.2,35,#51,$76.5 B,$9 B,$153.4 B,$111.5 B
+919,Procter & Gamble,Consumer Staples,Household/Personal Care,North America,United States,217.8,84.7,10.9,142.9,40,#71,$70.3 B,$5 B,$118.6 B,$291.8 B
+920,Johnson & Johnson,Health Care,Medical Equipment & Supplies,North America,United States,277.0,71.3,13.8,132.7,41,#34,$82.8 B,$17.2 B,$155 B,$395.3 B
+921,American International Group,Financials,Diversified Insurance,North America,United States,73.2,68.1,9.1,540.7,42,#155,$50.1 B,$3.3 B,$525.1 B,$21.9 B
+922,Pfizer,Health Care,Pharmaceuticals,North America,United States,203.9,52.7,22.0,172.1,45,#49,$50.7 B,$15.8 B,$167.5 B,$212.8 B
+923,Ford Motor,Consumer Discretionary,Auto & Truck Manufacturers,North America,United States,64.5,146.9,7.2,202.0,47,#486,$149.9 B,$-3.1 B,$264.2 B,$20.2 B
+924,Comcast,Consumer Discretionary,Broadcasting & Cable,North America,United States,130.0,64.7,6.8,158.8,57,#27,$108.7 B,$11.7 B,$262.4 B,$171.7 B
+925,Goldman Sachs Group,Financials,Investment Services,North America,United States,75.1,39.5,8.0,911.5,59,#47,$53.9 B,$7.4 B,"$1,090 B",$63.4 B
+926,General Motors,Consumer Discretionary,Auto & Truck Manufacturers,North America,United States,54.6,155.4,5.3,166.3,67,#89,$137.2 B,$6.7 B,$228 B,$31.9 B
+927,MetLife,Financials,Diversified Insurance,North America,United States,60.0,71.0,3.4,885.3,69,#80,$69 B,$5.9 B,$746.3 B,$32.8 B
+928,ConocoPhillips,Energy,Oil & Gas Operations,North America,United States,86.3,55.6,9.2,118.1,76,#201,$29.5 B,$3.6 B,$65 B,$45.3 B
+929,Intel,Information Technology,Semiconductors,North America,United States,129.2,52.7,9.6,92.4,78,#38,$75.7 B,$22.7 B,$147.7 B,$254 B
+930,Coca-Cola,Consumer Staples,Beverages,North America,United States,168.7,46.3,8.5,91.3,81,#96,$37.2 B,$10 B,$94 B,$197.1 B
+931,Cisco Systems,Information Technology,Communications Equipment,North America,United States,119.0,47.9,8.2,98.4,82,#82,$51.6 B,$11.1 B,$90.4 B,$179.7 B
+932,Boeing,Industrials,Aerospace & Defense,North America,United States,95.3,86.6,4.6,92.7,84,#413,$70.6 B,$-3.4 B,$143.1 B,$79.6 B
+933,UnitedHealth Group,Health Care,Managed Health Care,North America,United States,81.0,122.5,5.6,81.9,84,#24,$246.3 B,$13.8 B,$189.1 B,$277.1 B
+934,PepsiCo,Consumer Staples,Beverages,North America,United States,126.2,66.4,6.7,77.5,93,#87,$68.2 B,$7.2 B,$85.1 B,$183.6 B
+935,Oracle,Information Technology,Software & Programming,North America,United States,185.0,37.9,11.1,86.6,94,#94,$39.8 B,$10.8 B,$96.7 B,$167 B
+936,Walt Disney,Consumer Discretionary,Broadcasting & Cable,North America,United States,142.9,46.0,6.6,83.2,100,#36,$74.8 B,$10.4 B,$200.9 B,$195.3 B
+937,American Express,Financials,Consumer Financial Services,North America,United States,96.9,34.9,5.3,155.9,104,#88,$46.8 B,$5.5 B,$186.1 B,$73.5 B
+938,Morgan Stanley,Financials,Investment Services,North America,United States,61.7,40.8,2.8,832.7,106,#48,$53 B,$8.3 B,$896.8 B,$62.1 B
+939,Schlumberger,Energy,Oil Services & Equipment,North America,United States,128.0,45.4,6.7,67.1,117,#630,$32.5 B,$-17.9 B,$48.6 B,$23.3 B
+940,Caterpillar,Industrials,Heavy Equipment,North America,United States,63.7,55.7,3.8,84.9,122,#132,$51 B,$5.3 B,$75.9 B,$63 B
+941,US Bancorp,Financials,Major Banks,North America,United States,78.2,20.2,5.8,364.0,125,#103,$25.9 B,$6.4 B,$542.9 B,$55.5 B
+942,Home Depot,Consumer Discretionary,Home Improvement Retail,North America,United States,109.7,78.8,5.4,40.5,137,#106,$110.2 B,$11.2 B,$51.2 B,$236.1 B
+943,Phillips 66,Energy,Oil & Gas Operations,North America,United States,46.8,157.9,3.7,51.0,140,#186,$107.4 B,$3.1 B,$58.7 B,$32 B
+944,Capital One Financial,Financials,Consumer Financial Services,North America,United States,44.0,24.2,4.1,298.5,141,#161,$31.1 B,$2.8 B,$396.9 B,$29.5 B
+945,Occidental Petroleum,Energy,Oil & Gas Operations,North America,United States,75.0,24.4,5.9,70.9,151,#669,$18.5 B,$-672 M,$113 B,$14.9 B
+946,Qualcomm,Information Technology,Semiconductors,North America,United States,135.5,25.5,6.8,46.3,154,#258,$24.7 B,$4 B,$31.9 B,$88.5 B
+947,Philip Morris International,Consumer Staples,Tobacco,North America,United States,130.3,30.9,8.6,38.2,157,#203,$30.2 B,$7.6 B,$37.5 B,$116.2 B
+948,Honeywell International,Industrials,Conglomerates,North America,United States,72.9,39.1,3.9,45.4,158,#153,$36.7 B,$6.1 B,$58.7 B,$100.4 B
+949,United Parcel Service,Industrials,Air Courier,North America,United States,89.6,55.5,4.4,36.2,160,#143,$74.8 B,$4.3 B,$57.9 B,$81.3 B
+950,PNC Financial Services,Financials,Regional Banks,North America,United States,46.6,16.5,4.2,324.1,162,#139,$21.5 B,$5 B,$445.5 B,$45.2 B
+951,Duke Energy,Utilities,Electric Utilities,North America,United States,49.9,24.6,2.7,114.8,165,#144,$25.1 B,$3.7 B,$163.6 B,$62.1 B
+952,Delta Air Lines,Industrials,Airline,North America,United States,30.4,37.7,10.5,59.4,166,#263,$45.1 B,$3.5 B,$68.7 B,$16.5 B
+953,Amgen,Health Care,Biotechs,North America,United States,95.2,18.7,5.1,66.1,170,#162,$23.9 B,$7.7 B,$61.7 B,$140.6 B
+954,Valero Energy,Energy,Oil & Gas Operations,North America,United States,29.6,138.1,2.7,47.3,179,#493,$106.1 B,$422 M,$47.7 B,$25.8 B
+955,Union Pacific,Industrials,Railroads,North America,United States,85.8,22.0,4.4,49.7,185,#183,$21.6 B,$6 B,$62.2 B,$108.4 B
+956,McDonald's,Consumer Discretionary,Restaurants,North America,United States,96.9,28.1,5.6,36.6,186,#209,$20.8 B,$5.8 B,$47.5 B,$139.5 B
+957,Aflac,Financials,Life & Health Insurance,North America,United States,28.8,24.1,3.2,124.3,188,#217,$22 B,$2.9 B,$151.6 B,$26.9 B
+958,3M,Industrials,Conglomerates,North America,United States,89.8,30.9,4.7,33.6,194,#195,$32.3 B,$5 B,$46.2 B,$87.4 B
+959,Allstate,Financials,Diversified Insurance,North America,United States,25.3,34.2,2.3,123.5,195,#147,$44.3 B,$4.8 B,$121.1 B,$32.2 B
+960,Lockheed Martin,Industrials,Aerospace & Defense,North America,United States,52.3,45.4,3.0,36.2,198,#145,$61.1 B,$6.2 B,$49.2 B,$109.1 B
+961,Target,Consumer Discretionary,Discount Stores,North America,United States,38.4,72.6,2.0,44.6,200,#196,$78.1 B,$3.3 B,$42.8 B,$54.9 B
+962,Bank of New York Mellon,Financials,Major Banks,North America,United States,40.3,15.1,2.1,374.3,214,#159,$20.8 B,$4.5 B,$468.2 B,$33.2 B
+963,Costco Wholesale,Consumer Discretionary,Discount Stores,North America,United States,49.2,107.9,2.0,31.6,217,#142,$158.4 B,$3.8 B,$48.8 B,$133.8 B
+964,Abbott Laboratories,Health Care,Pharmaceuticals,North America,United States,59.4,21.8,2.6,43.0,229,#158,$32.1 B,$3.5 B,$66.8 B,$162.9 B
+965,Altria Group,Consumer Staples,Tobacco,North America,United States,74.5,17.7,4.5,34.9,239,#579,$20.5 B,$-880 M,$52.6 B,$72.9 B
+966,BlackRock,Financials,Investment Services,North America,United States,53.1,10.4,2.9,220.6,240,#177,$15.1 B,$4.2 B,$168.6 B,$77.9 B
+967,Exelon,Utilities,Electric Utilities,North America,United States,28.7,24.6,1.7,79.9,241,#169,$33.8 B,$2.9 B,$125 B,$36.1 B
+968,Archer Daniels Midland,Consumer Staples,Food Processing,North America,United States,28.5,89.7,1.3,43.8,243,#311,$64.4 B,$1.5 B,$44 B,$20.7 B
+969,McKesson,Health Care,Pharmaceuticals,North America,United States,40.5,130.1,1.2,36.5,243,#535,$224.9 B,$-917 M,$60.9 B,$25 B
+970,Hess,Energy,Oil & Gas Operations,North America,United States,27.3,22.2,5.1,42.8,246,#1253,$6.5 B,$-408 M,$21.8 B,$14.9 B
+971,eBay,Consumer Discretionary,Internet & Catalog Retail,North America,United States,71.0,16.0,2.9,41.5,250,#515,$10.5 B,$4.7 B,$18.9 B,$31.7 B
+972,General Dynamics,Industrials,Aerospace & Defense,North America,United States,37.7,31.2,2.4,35.4,253,#214,$38.8 B,$3.4 B,$53.7 B,$37.5 B
+973,AbbVie,Health Care,Pharmaceuticals,North America,United States,82.8,18.8,4.1,29.2,254,#119,$33.3 B,$7.8 B,$89.1 B,$121.4 B
+974,Medtronic,Health Care,Medical Equipment & Supplies,North America,United States,61.7,16.9,3.6,37.2,255,#129,$31.1 B,$5.3 B,$92.8 B,$130.8 B
+975,Bristol-Myers Squibb,Health Care,Pharmaceuticals,North America,United States,85.9,16.4,2.6,38.6,257,#138,$26.1 B,$3.4 B,$129.9 B,$137.6 B
+976,FedEx,Industrials,Air Courier,North America,United States,39.6,45.2,1.7,32.7,261,#513,$69.7 B,$-350 M,$70 B,$33.1 B
+977,Halliburton,Energy,Oil Services & Equipment,North America,United States,50.7,29.4,2.1,29.2,268,#1010,$21.7 B,$-2.3 B,$23.6 B,$9.2 B
+978,Danaher,Industrials,Conglomerates,North America,United States,52.6,19.1,2.7,34.7,269,#226,$19.9 B,$2.6 B,$62.1 B,$113.9 B
+979,Marathon Petroleum,Energy,Oil & Gas Operations,North America,United States,26.2,93.9,2.1,28.4,271,#197,$123.4 B,$2.6 B,$98.6 B,$20.9 B
+980,NextEra Energy,Utilities,Electric Utilities,North America,United States,40.9,14.6,1.9,69.3,276,#180,$17.2 B,$3.5 B,$120.6 B,$113.1 B
+981,Visa,Financials,Consumer Financial Services,North America,United States,136.0,12.1,5.1,36.2,280,#141,$23.5 B,$11.9 B,$74.8 B,$383.9 B
+982,Cigna,Health Care,Managed Health Care,North America,United States,22.5,32.4,1.5,55.5,286,#63,$154.5 B,$4.9 B,$157 B,$72.8 B
+983,State Street,Financials,Investment Services,North America,United States,30.0,9.7,2.1,243.3,307,#295,$12.3 B,$2.4 B,$362.5 B,$22.2 B
+984,Kroger,Consumer Staples,Food Retail,North America,United States,22.2,98.5,1.5,29.3,309,#266,$122.3 B,$1.7 B,$47.9 B,$25.2 B
+985,Emerson Electric,Industrials,Electrical Equipment,North America,United States,47.3,24.7,2.0,24.1,314,#429,$18 B,$2.2 B,$21.7 B,$34.1 B
+986,Kinder Morgan,Energy,Oil Services & Equipment,North America,United States,33.9,14.1,1.2,75.2,323,#350,$12.8 B,$1.3 B,$73.5 B,$34.4 B
+987,EOG Resources,Energy,Oil & Gas Operations,North America,United States,54.1,14.5,2.2,30.6,331,#337,$17.6 B,$2.7 B,$37.1 B,$27.7 B
+988,Chubb,Financials,Property & Casualty Insurance,North America,United States,21.8,13.9,2.3,52.7,338,#134,$34 B,$3.7 B,$173.1 B,$48.8 B
+989,American Electric,Utilities,Electric Utilities,North America,United States,24.6,15.3,1.5,56.4,341,#289,$15.5 B,$1.9 B,$79.1 B,$41.1 B
+990,Northrop Grumman,Industrials,Aerospace & Defense,North America,United States,26.9,24.7,2.0,26.4,345,#241,$34.3 B,$2.3 B,$43.2 B,$55.1 B
+991,Discover Financial Services,Financials,Consumer Financial Services,North America,United States,27.8,9.2,2.5,79.6,349,#379,$14.1 B,$2.2 B,$112.7 B,$13.1 B
+992,Fannie Mae,Financials,Investment Services,North America,United States,4.6,122.9,84.0,3270.1,355,#328,$122.8 B,$14.2 B,"$3,503.3 B",$2 B
+993,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,North America,United States,67.2,13.8,2.3,22.7,357,#500,$11.9 B,$2.1 B,$21.2 B,$36.7 B
+994,Baxter International,Health Care,Medical Equipment & Supplies,North America,United States,39.9,15.3,2.0,25.9,358,#588,$11.5 B,$1 B,$19.1 B,$45 B
+995,Ameriprise Financial,Financials,Investment Services,North America,United States,21.3,11.2,1.3,144.6,362,#353,$14.4 B,$1.9 B,$151.8 B,$14.1 B
+996,International Paper,Materials,Paper & Paper Products,North America,United States,20.1,29.1,1.4,31.5,363,#605,$22.1 B,$660 M,$33.2 B,$13.5 B
+997,Gilead Sciences,Health Care,Biotechs,North America,United States,113.2,11.2,3.1,22.5,364,#186,$22.6 B,$5 B,$59.7 B,$105.8 B
+998,Kimberly-Clark,Consumer Staples,Household/Personal Care,North America,United States,41.5,21.2,2.1,18.9,366,#475,$18.8 B,$2.4 B,$15.7 B,$47.2 B
+999,Marathon Oil,Energy,Oil & Gas Operations,North America,United States,24.5,14.8,1.8,35.8,373,#1900,$5.1 B,$480 M,$20.2 B,$4.8 B
+1000,Carnival,Consumer Discretionary,Hotels & Motels,North America,United States,31.0,15.5,1.1,40.1,375,#468,$20.9 B,$1.9 B,$46.9 B,$10.9 B
+1001,Freddie Mac,Financials,Investment Services,North America,United States,2.6,62.2,48.7,1981.8,377,#340,$79.3 B,$7.2 B,"$2,203.6 B",$1.1 B
+1002,General Mills,Consumer Staples,Food Processing,North America,United States,31.8,18.0,1.8,22.9,379,#373,$16.8 B,$2.1 B,$30.2 B,$36.3 B
+1003,Thermo Fisher Scientific,,Precision Healthcare Equipment,North America,United States,47.8,13.1,1.3,31.9,383,#184,$25.6 B,$3.7 B,$58.7 B,$132.2 B
+1004,CSX,Industrials,Railroads,North America,United States,29.3,12.0,1.9,31.8,394,#332,$11.8 B,$3.3 B,$38.8 B,$50.7 B
+1005,Norfolk Southern,Industrials,Railroads,North America,United States,30.4,11.2,1.9,32.9,395,#388,$11.1 B,$2.4 B,$37.4 B,$43.8 B
+1006,Lincoln National,Financials,Life & Health Insurance,North America,United States,13.4,12.2,1.2,239.0,396,#560,$17.2 B,$885 M,$335.9 B,$6.9 B
+1007,Macy's,Consumer Discretionary,Department Stores,North America,United States,21.7,27.9,1.5,21.6,397,#1000,$25.3 B,$564 M,$22.6 B,$1.8 B
+1008,PG&E,Utilities,Electric Utilities,North America,United States,19.4,15.6,0.8,57.3,413,#987,$17.1 B,$-7.6 B,$94 B,$5.6 B
+1009,Illinois Tool Works,Industrials,Other Industrial Equipment,North America,United States,34.9,15.4,1.7,20.0,415,#511,$14.1 B,$2.5 B,$15.1 B,$51.6 B
+1010,Humana,Health Care,Managed Health Care,North America,United States,17.5,41.3,1.2,21.3,418,#235,$67.7 B,$2.6 B,$34.6 B,$50.5 B
+1011,Texas Instruments,Information Technology,Semiconductors,North America,United States,51.4,12.2,2.1,18.9,421,#416,$14.1 B,$4.9 B,$17.3 B,$106.5 B
+1012,Colgate-Palmolive,Consumer Staples,Household/Personal Care,North America,United States,59.0,17.4,2.2,13.9,423,#494,$15.7 B,$2.4 B,$15 B,$60.3 B
+1013,PPL,Utilities,Electric Utilities,North America,United States,20.7,11.9,1.1,46.3,430,#557,$7.8 B,$1.7 B,$45.7 B,$19.5 B
+1014,Prudential Financial,Financials,Life & Health Insurance,North America,United States,39.7,48.7,-0.7,731.8,433,#116,$64.9 B,$4.1 B,$896.6 B,$24.7 B
+1015,Edison International,Utilities,Electric Utilities,North America,United States,18.4,12.6,1.0,46.6,438,#436,$12.3 B,$1.3 B,$64.4 B,$21.3 B
+1016,Chesapeake Energy,Energy,Oil & Gas Operations,North America,United States,17.4,17.8,0.7,41.8,451,#1983,$8.6 B,$-308 M,$16.2 B,$171 M
+1017,Paccar,Industrials,Heavy Equipment,North America,United States,24.0,17.1,1.2,20.7,454,#382,$24.3 B,$2.1 B,$27.3 B,$23.9 B
+1018,Xerox,Industrials,Business Products & Supplies,North America,United States,13.6,21.6,1.2,29.0,456,#1507,$8.8 B,$589 M,$14.8 B,$3.9 B
+1019,Loews,Financials,Diversified Insurance,North America,United States,17.2,14.7,0.6,79.9,459,#552,$14.8 B,$932 M,$82.2 B,$9.8 B
+1020,TJX Cos,Consumer Discretionary,Department Stores,North America,United States,43.5,27.4,2.1,10.2,463,#293,$41.7 B,$3.3 B,$24.1 B,$59.5 B
+1021,Charles Schwab,Financials,Investment Services,North America,United States,35.6,5.5,1.1,143.9,464,#224,$11.5 B,$3.5 B,$370.8 B,$48.6 B
+1022,Principal Financial Group,Financials,Life & Health Insurance,North America,United States,13.9,9.5,0.9,208.2,465,#436,$17.1 B,$1.3 B,$246.9 B,$10 B
+1023,Sempra Energy,Utilities,Natural Gas Utilities,North America,United States,23.6,10.6,1.0,37.2,472,#338,$10.8 B,$2.2 B,$65.7 B,$36.2 B
+1024,Corning,Information Technology,Communications Equipment,North America,United States,29.2,7.8,2.0,28.5,482,#878,$11.1 B,$365 M,$28.9 B,$16.7 B
+1025,Consolidated Edison,Utilities,Electric Utilities,North America,United States,15.6,12.3,1.1,40.6,486,#409,$12.5 B,$1.3 B,$58.1 B,$26.3 B
+1026,Micron Technology,Information Technology,Semiconductors,North America,United States,25.9,11.3,1.8,19.8,488,#277,$19.6 B,$2.3 B,$49.6 B,$53.3 B
+1027,Progressive,Financials,Property & Casualty Insurance,North America,United States,14.3,18.2,1.2,25.2,490,#198,$39.1 B,$3.6 B,$56.3 B,$45.2 B
+1028,Cummins,Industrials,Heavy Equipment,North America,United States,27.4,17.3,1.5,14.7,496,#457,$22.6 B,$2.1 B,$20.1 B,$24.1 B
+1029,Ecolab,Materials,Specialized Chemicals,North America,United States,32.7,13.3,1.0,19.6,499,#455,$15 B,$1.5 B,$22.3 B,$56 B
+1030,Kellogg,Consumer Staples,Food Processing,North America,United States,22.5,14.8,1.8,15.5,508,#635,$13.5 B,$1 B,$18.2 B,$22.4 B
+1031,Facebook,Information Technology,Computer Services,North America,United States,159.7,7.9,1.5,17.9,510,#39,$73.4 B,$21 B,$138.4 B,$583.7 B
+1032,Sysco,Consumer Staples,Food Retail,North America,United States,21.1,45.5,1.0,13.0,518,#391,$60.5 B,$1.8 B,$19.4 B,$28.6 B
+1033,DISH Network,Consumer Discretionary,Broadcasting & Cable,North America,United States,29.3,13.9,0.8,20.4,520,#575,$12.8 B,$1.4 B,$33.6 B,$13.1 B
+1034,Omnicom Group,Consumer Discretionary,Advertising,North America,United States,18.7,14.6,1.0,22.1,525,#626,$14.9 B,$1.3 B,$23.7 B,$12.2 B
+1035,Cardinal Health,Health Care,Pharmaceuticals,North America,United States,23.9,96.7,0.4,25.0,526,#661,$149.7 B,$-4.2 B,$41 B,$14.4 B
+1036,Marsh & McLennan,Financials,Insurance Brokers,North America,United States,27.2,12.3,1.4,17.0,531,#352,$17.2 B,$1.8 B,$31.4 B,$49.2 B
+1037,Xcel Energy,Utilities,Electric Utilities,North America,United States,15.1,10.9,0.9,33.9,558,#407,$11.5 B,$1.4 B,$52.7 B,$33.4 B
+1038,Franklin Resources,Financials,Investment Services,North America,United States,34.3,8.2,2.2,15.9,561,#1200,$5.5 B,$971 M,$14.7 B,$9.4 B
+1039,Hartford Financial Services,Financials,Diversified Insurance,North America,United States,15.9,26.4,0.3,279.6,568,#385,$20.5 B,$1.7 B,$68.7 B,$13.6 B
+1040,Simon Property Group,Financials,Real Estate,North America,United States,51.8,5.2,1.3,33.3,571,#668,$5.7 B,$2.1 B,$31.2 B,$20.4 B
+1041,Regions Financial,Financials,Regional Banks,North America,United States,16.0,5.6,1.1,118.1,573,#641,$6.5 B,$1.4 B,$133.5 B,$10.3 B
+1042,Southwest Airlines,Industrials,Airline,North America,United States,16.8,17.7,0.8,19.3,575,#482,$21.5 B,$1.8 B,$26.9 B,$15.9 B
+1043,Western Digital,Information Technology,Computer Storage Devices,North America,United States,22.1,15.3,1.0,15.3,576,#918,$16.1 B,$-595 M,$25.5 B,$13.8 B
+1044,Air Products & Chemicals,Materials,Specialized Chemicals,North America,United States,25.4,10.2,1.0,17.9,587,#554,$9 B,$2 B,$19.5 B,$49.8 B
+1045,Entergy,Utilities,Electric Utilities,North America,United States,12.0,11.4,0.7,43.4,590,#506,$10.8 B,$1.3 B,$51.7 B,$19.2 B
+1046,SLM,Financials,Consumer Financial Services,North America,United States,10.6,5.8,1.4,159.5,592,#1379,$2.6 B,$782 M,$31.8 B,$3.1 B
+1047,Mosaic,Materials,Specialized Chemicals,North America,United States,19.9,8.2,1.3,19.6,601,#1782,$8.9 B,$-1.1 B,$19.3 B,$4.4 B
+1048,Stryker,Health Care,Medical Equipment & Supplies,North America,United States,31.0,9.0,1.0,15.7,608,#345,$15 B,$2.2 B,$29.4 B,$69.9 B
+1049,Tyson Foods,Consumer Staples,Food Processing,North America,United States,14.8,34.8,0.9,11.8,611,#329,$43.1 B,$2 B,$33.8 B,$22.3 B
+1050,FirstEnergy,Utilities,Electric Utilities,North America,United States,14.0,14.9,0.4,50.4,612,#655,$10.9 B,$533 M,$42.1 B,$22.4 B
+1051,M&T Bank,Financials,Regional Banks,North America,United States,16.0,4.8,1.1,85.6,615,#543,$6.8 B,$1.7 B,$124.6 B,$14.6 B
+1052,Murphy Oil,Energy,Oil & Gas Operations,North America,United States,11.3,16.8,1.0,17.5,618,#1860,$2.7 B,$1.1 B,$11.7 B,$1.8 B
+1053,Dollar General,Consumer Discretionary,Discount Stores,North America,United States,18.1,17.5,1.0,10.9,640,#354,$27.8 B,$1.7 B,$25.1 B,$44.1 B
+1054,Parker-Hannifin,Industrials,Other Industrial Equipment,North America,United States,18.2,13.1,1.0,12.9,642,#583,$14.2 B,$1.3 B,$20.4 B,$20.3 B
+1055,Whirlpool,Consumer Discretionary,Household Appliances,North America,United States,11.9,18.8,0.8,15.5,648,#833,$20 B,$865 M,$19.4 B,$7 B
+1056,Kohl's,Consumer Discretionary,Department Stores,North America,United States,11.9,19.0,0.9,14.4,652,#1128,$20 B,$691 M,$14.6 B,$2.9 B
+1057,Genworth Financial,Financials,Diversified Insurance,North America,United States,8.9,9.6,0.6,111.0,653,#1052,$8.5 B,$464 M,$101.3 B,$1.8 B
+1058,Annaly Capital Management,Financials,Real Estate,North America,United States,10.4,3.6,3.7,81.9,656,#1258,$2.3 B,$-5 B,$96.9 B,$8.9 B
+1059,VF,Consumer Discretionary,Apparel/Accessories,North America,United States,27.4,11.4,1.2,10.3,658,#738,$12.3 B,$1.3 B,$10.8 B,$22.9 B
+1060,CME Group,Financials,Investment Services,North America,United States,24.4,2.9,1.0,54.5,662,#440,$5.2 B,$2.4 B,$137.9 B,$63.9 B
+1061,CenturyLink,Telecommunication Services,Telecommunications services,North America,United States,19.1,18.1,-0.2,51.8,665,#744,$22.4 B,$-5.3 B,$64.7 B,$11.7 B
+1062,AmerisourceBergen,Health Care,Pharmaceuticals,North America,United States,15.1,96.1,0.3,19.8,674,#443,$182.1 B,$649 M,$40 B,$18.5 B
+1063,DTE Energy,Utilities,Electric Utilities,North America,United States,13.2,9.6,0.7,25.9,678,#521,$12 B,$1.1 B,$43.2 B,$20 B
+1064,Nucor,Materials,Iron & Steel,North America,United States,16.1,19.1,0.5,15.2,698,#702,$22.1 B,$785 M,$17.9 B,$12.4 B
+1065,Gap,Consumer Discretionary,Apparel/Footwear Retail,North America,United States,18.3,16.1,1.3,7.8,705,#1608,$16.4 B,$351 M,$13.7 B,$3 B
+1066,KeyCorp,Financials,Regional Banks,North America,United States,12.8,4.3,0.9,92.9,713,#567,$7.6 B,$1.5 B,$156.2 B,$11.2 B
+1067,DaVita,Health Care,Healthcare Services,North America,United States,14.8,11.8,0.6,17.1,714,#868,$11.4 B,$811 M,$18.1 B,$9.6 B
+1068,Northern Trust,Financials,Regional Banks,North America,United States,15.6,4.0,0.7,102.9,725,#526,$6.9 B,$1.5 B,$161.7 B,$16.5 B
+1069,American Airlines Group,,,North America,United States,17.9,25.8,-1.9,26.8,726,#967,$43.7 B,$-740 M,$58.6 B,$5.1 B
+1070,Thomson Reuters,Consumer Discretionary,Printing & Publishing,North America,United States,28.3,12.7,0.1,32.4,747,#737,$5.9 B,$1.6 B,$17.3 B,$35 B
+1071,Best Buy,Information Technology,Computer & Electronics Retail,North America,United States,9.2,42.4,0.5,14.0,748,#531,$43.6 B,$1.5 B,$15.6 B,$19.8 B
+1072,Allergan,Health Care,Pharmaceuticals,North America,United States,36.9,6.3,1.3,10.6,753,#561,$16.1 B,$-5.3 B,$94.7 B,$61.6 B
+1073,Bunge,Consumer Staples,Food Processing,North America,United States,11.7,61.4,0.2,26.8,759,#1231,$41.1 B,$-1.3 B,$18.3 B,$5.6 B
+1074,Motorola Solutions,Information Technology,Communications Equipment,North America,United States,16.5,8.7,1.1,11.9,767,#913,$7.9 B,$869 M,$10.6 B,$24.7 B
+1075,VMware,Information Technology,Software & Programming,North America,United States,48.2,5.2,1.0,12.3,784,#403,$10.2 B,$6.4 B,$26.3 B,$55 B
+1076,Eastman Chemical,Materials,Specialized Chemicals,North America,United States,13.1,9.4,1.2,11.8,786,#1056,$9.1 B,$808 M,$16 B,$8.2 B
+1077,Republic Services,Industrials,Environmental & Waste,North America,United States,12.3,8.4,0.6,19.9,800,#619,$10.3 B,$1.1 B,$22.7 B,$25 B
+1078,Goodyear,Consumer Discretionary,Auto & Truck Parts,North America,United States,6.7,19.5,0.6,17.5,810,#1597,$14.2 B,$-869 M,$16.7 B,$1.7 B
+1079,AES,Utilities,Electric Utilities,North America,United States,10.4,16.1,0.3,40.4,812,#1121,$10.2 B,$302 M,$33.6 B,$8.8 B
+1080,Fluor,Industrials,Construction Services,North America,United States,12.4,27.4,0.7,8.3,813,#1825,$17 B,$-1.3 B,$7.9 B,$1.6 B
+1081,Weyerhaeuser,Financials,Real Estate,North America,United States,17.4,8.6,0.6,14.5,815,#1362,$6.6 B,$-76 M,$16.4 B,$16.3 B
+1082,Mylan,Health Care,Pharmaceuticals,North America,United States,18.3,7.0,0.6,15.2,816,#1104,$11.5 B,$17 M,$31.3 B,$8.7 B
+1083,HollyFrontier,Energy,Oil & Gas Operations,North America,United States,9.6,20.2,0.7,10.1,820,#1190,$17.5 B,$771 M,$12.2 B,$5.3 B
+1084,Stanley Black & Decker,Consumer Staples,Household/Personal Care,North America,United States,12.7,11.0,0.5,16.5,824,#632,$14.2 B,$919 M,$22.9 B,$17 B
+1085,Dover,Industrials,Conglomerates,North America,United States,14.1,8.7,1.0,10.8,827,#1143,$7.1 B,$749 M,$8.9 B,$13.5 B
+1086,Waste Management,Industrials,Environmental & Waste,North America,United States,19.5,14.0,0.1,22.6,831,#414,$15.5 B,$1.7 B,$28.2 B,$42.4 B
+1087,Invesco,Financials,Investment Services,North America,United States,16.2,4.7,0.9,19.3,834,#1208,$6.5 B,$651 M,$37 B,$4 B
+1088,Hertz Global Holdings,Financials,Rental & Leasing,North America,United States,12.3,10.8,0.4,24.6,843,#1583,$9.8 B,$-58 M,$24.6 B,$575 M
+1089,AutoZone,Consumer Discretionary,Specialty Stores,North America,United States,17.8,9.4,1.0,7.3,846,#679,$12.1 B,$1.6 B,$12.9 B,$23.8 B
+1090,L Brands,Consumer Discretionary,Apparel/Footwear Retail,North America,United States,16.7,10.8,0.9,7.2,851,#1990,$12.9 B,$-366 M,$10.1 B,$3.3 B
+1091,Sherwin-Williams,Consumer Discretionary,Home Improvement Retail,North America,United States,19.9,10.2,0.7,6.4,856,#448,$18 B,$1.6 B,$20.6 B,$48.7 B
+1092,Royal Caribbean Cruises,Consumer Discretionary,Hotels & Motels,North America,United States,12.4,8.0,0.5,20.1,860,#648,$11 B,$1.9 B,$30.3 B,$9.8 B
+1093,Constellation Brands,Consumer Staples,Beverages,North America,United States,16.2,4.3,1.9,14.3,866,#928,$8.3 B,$-12 M,$27.3 B,$31.4 B
+1094,Applied Materials,Information Technology,Semiconductors,North America,United States,25.0,8.1,0.5,12.2,868,#436,$15 B,$2.8 B,$19.8 B,$45.6 B
+1095,TD Ameritrade Holding,Financials,Investment Services,North America,United States,18.8,2.9,0.7,22.2,876,#587,$5.8 B,$1.9 B,$51 B,$21.2 B
+1096,Marriott International,Consumer Discretionary,Hotels & Motels,North America,United States,16.8,12.8,0.6,6.8,878,#458,$21 B,$1.3 B,$25.1 B,$29.5 B
+1097,Genuine Parts,Consumer Discretionary,Specialty Stores,North America,United States,13.3,14.1,0.7,7.7,879,#853,$19.4 B,$621 M,$14.6 B,$11.5 B
+1098,Ross Stores,Consumer Discretionary,Apparel/Footwear Retail,North America,United States,15.5,10.2,0.8,4.1,881,#628,$16 B,$1.7 B,$10.3 B,$32.5 B
+1099,Agilent Technologies,Information Technology,Electronics,North America,United States,18.8,6.8,0.7,10.6,883,#1132,$5.2 B,$764 M,$9.5 B,$23.7 B
+1100,Textron,Industrials,Conglomerates,North America,United States,11.1,12.1,0.5,12.9,884,#1112,$13.3 B,$686 M,$15.9 B,$6 B
+1101,WW Grainger,Industrials,Electrical Equipment,North America,United States,17.4,9.4,0.8,5.3,889,#923,$11.7 B,$769 M,$7.2 B,$14.7 B
+1102,American Tower,Financials,Real Estate,North America,United States,32.2,3.4,0.6,20.3,890,#450,$7.8 B,$1.9 B,$40.8 B,$105.5 B
+1103,Hershey,Consumer Staples,Food Processing,North America,United States,23.3,7.1,0.8,5.4,902,#848,$8 B,$1.1 B,$8.9 B,$27.5 B
+1104,CIT Group,Financials,Consumer Financial Services,North America,United States,9.7,3.5,0.7,47.1,909,#1776,$3.2 B,$-213 M,$58.9 B,$1.9 B
+1105,Nordstrom,Consumer Discretionary,Department Stores,North America,United States,11.9,12.5,0.7,8.6,909,#1490,$15.5 B,$497 M,$9.7 B,$2.9 B
+1106,Boston Properties,Financials,Real Estate,North America,United States,17.7,2.1,0.7,20.2,917,#992,$3 B,$921 M,$21.8 B,$15.1 B
+1107,Starbucks,Consumer Discretionary,Restaurants,North America,United States,55.9,15.3,0.0,10.3,919,#288,$26.7 B,$3.4 B,$27.5 B,$89.6 B
+1108,News Corp,Consumer Discretionary,Broadcasting & Cable,North America,United States,10.1,8.8,0.5,16.0,922,#1737,$9.7 B,$-183 M,$16.3 B,$5.8 B
+1109,NRG Energy,Utilities,Electric Utilities,North America,United States,10.3,11.8,-0.4,33.9,930,#885,$9.7 B,$4.1 B,$12.5 B,$8.4 B
+1110,CarMax,Consumer Discretionary,Specialty Stores,North America,United States,10.6,12.3,0.5,11.3,936,#666,$20.3 B,$888 M,$21.3 B,$12 B
+1111,NiSource,Utilities,Natural Gas Utilities,North America,United States,11.2,5.7,0.5,22.7,941,#1451,$5.2 B,$383 M,$24.1 B,$9.6 B
+1112,Comerica,Financials,Regional Banks,North America,United States,9.4,2.6,0.5,65.5,950,#1154,$3.6 B,$789 M,$76.3 B,$4.8 B
+1113,Oneok,Energy,Oil Services & Equipment,North America,United States,12.3,14.6,0.3,17.7,951,#813,$9.4 B,$800 M,$22 B,$12.4 B
+1114,Reinsurance Group of America,Financials,Diversified Insurance,North America,United States,5.6,10.3,0.4,39.7,959,#676,$14.3 B,$870 M,$76.7 B,$6.5 B
+1115,MGM Resorts,Consumer Discretionary,Casinos & Gaming,North America,United States,13.0,9.8,-0.2,26.1,962,#603,$12 B,$2.8 B,$39.1 B,$8.3 B
+1116,Broadcom,Information Technology,Semiconductors,North America,United States,18.3,8.2,0.4,11.5,964,#192,$22.7 B,$2.6 B,$81 B,$108.6 B
+1117,Fidelity National Information,Consumer Discretionary,Business & Personal Services,North America,United States,15.7,6.1,0.5,14.0,971,#639,$10.3 B,$298 M,$83.8 B,$81.5 B
+1118,Public Storage,Financials,Real Estate,North America,United States,29.2,2.0,1.0,9.9,977,#983,$2.9 B,$1.5 B,$11.8 B,$32.4 B
+1119,Rockwell Automation,Industrials,Other Industrial Equipment,North America,United States,17.3,6.5,0.8,5.9,984,#1064,$6.8 B,$712 M,$6.7 B,$21.9 B
+1120,Avnet,Information Technology,Electronics,North America,United States,6.5,26.7,0.5,11.5,985,#1787,$18.2 B,$-113 M,$8.1 B,$3 B
+1121,Ralph Lauren,Consumer Discretionary,Apparel/Accessories,North America,United States,14.7,7.2,0.8,6.1,990,#1810,$6.4 B,$665 M,$7.4 B,$5.4 B
+1122,Continental Resources,Energy,Oil & Gas Operations,North America,United States,22.8,3.5,0.8,12.0,997,#1623,$4.6 B,$776 M,$16.3 B,$6 B
+1123,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,North America,United States,23.0,5.6,0.7,8.4,1000,#1787,$6.6 B,$123 M,$13.9 B,$9.2 B
+1124,IntercontinentalExchange,Financials,Investment Services,North America,United States,22.2,1.8,0.3,64.8,1011,#387,$6.6 B,$2.1 B,$138.9 B,$49.1 B
+1125,CenterPoint Energy,Utilities,Natural Gas Utilities,North America,United States,10.2,8.1,0.3,21.9,1017,#747,$12.1 B,$791 M,$36.3 B,$8.6 B
+1126,Ventas,Financials,Real Estate,North America,United States,18.1,2.8,0.4,19.7,1031,#1309,$3.9 B,$433 M,$24.7 B,$12.1 B
+1127,O'Reilly Automotive,Consumer Discretionary,Specialty Stores,North America,United States,15.9,6.6,0.7,6.1,1032,#746,$10.2 B,$1.4 B,$11.1 B,$28.7 B
+1128,Newmont Mining,Materials,Diversified Metals & Mining,North America,United States,11.8,8.3,-2.5,24.8,1033,#394,$9.7 B,$2.8 B,$40 B,$48 B
+1129,Assurant,Financials,Diversified Insurance,North America,United States,4.7,9.0,0.5,30.8,1042,#1114,$10.1 B,$383 M,$44.3 B,$6.4 B
+1130,BorgWarner,Consumer Discretionary,Auto & Truck Parts,North America,United States,14.4,7.4,0.6,6.9,1043,#1356,$10.2 B,$746 M,$9.7 B,$5.9 B
+1131,Hormel Foods,Consumer Staples,Food Processing,North America,United States,12.9,8.9,0.5,5.1,1057,#829,$9.5 B,$980 M,$8.3 B,$25.2 B
+1132,Prologis,Financials,Real Estate,North America,United States,20.4,1.8,0.3,24.6,1063,#568,$3.5 B,$1.7 B,$55 B,$65.9 B
+1133,Celanese,Materials,Diversified Chemicals,North America,United States,8.7,6.5,1.1,9.0,1071,#1343,$6.1 B,$733 M,$9.5 B,$9.8 B
+1134,Alleghany,Financials,Property & Casualty Insurance,North America,United States,6.8,4.9,0.6,23.7,1077,#922,$8.4 B,$858 M,$27.1 B,$7.7 B
+1135,Arrow Electronics,Information Technology,Electronics,North America,United States,6.0,21.4,0.4,12.1,1078,#1449,$28.1 B,$-295 M,$15.4 B,$5 B
+1136,Boston Scientific,Health Care,Medical Equipment & Supplies,North America,United States,18.0,7.1,-0.1,16.6,1079,#378,$10.8 B,$4.3 B,$30.6 B,$52.4 B
+1137,PulteGroup,Industrials,Construction Services,North America,United States,7.5,5.6,2.6,8.7,1086,#1104,$10.5 B,$1 B,$11.4 B,$7.6 B
+1138,T Rowe Price,Financials,Investment Services,North America,United States,21.8,3.5,1.0,5.2,1086,#879,$5.8 B,$1.9 B,$8.6 B,$26.3 B
+1139,Quest Diagnostics,Health Care,Healthcare Services,North America,United States,8.7,7.1,0.8,8.9,1089,#1057,$7.7 B,$791 M,$12 B,$14.7 B
+1140,CMS Energy,Utilities,Electric Utilities,North America,United States,7.8,6.6,0.5,17.4,1090,#834,$6.7 B,$710 M,$27.4 B,$16.3 B
+1141,Charter Communications,Consumer Discretionary,Broadcasting & Cable,North America,United States,13.6,8.2,-0.2,17.3,1101,#149,$45.8 B,$1.7 B,$150.6 B,$104 B
+1142,NetApp,Information Technology,Computer Storage Devices,North America,United States,12.3,6.4,0.6,9.0,1102,#1283,$5.6 B,$1 B,$7.5 B,$9.7 B
+1143,Campbell Soup,Consumer Staples,Food Processing,North America,United States,14.0,8.3,0.5,8.1,1110,#1182,$8.3 B,$508 M,$11.7 B,$15.1 B
+1144,Dollar Tree,Consumer Discretionary,Discount Stores,North America,United States,10.8,7.8,0.6,2.8,1113,#600,$23.6 B,$827 M,$19.6 B,$18.9 B
+1145,Western Union,Consumer Discretionary,Business & Personal Services,North America,United States,9.2,5.5,0.8,10.2,1122,#1454,$5.3 B,$1.1 B,$8.8 B,$7.8 B
+1146,First Republic Bank,Financials,Regional Banks,North America,United States,7.3,1.6,0.5,42.2,1125,#685,$4.3 B,$922 M,$123.9 B,$17.9 B
+1147,Fiserv,Information Technology,Software & Programming,North America,United States,14.6,4.8,0.7,9.7,1126,#411,$10.2 B,$893 M,$77.5 B,$69.7 B
+1148,Molson Coors Brewing,Consumer Staples,Beverages,North America,United States,10.8,4.2,0.6,15.6,1142,#1158,$10.4 B,$-27 M,$28.5 B,$8.9 B
+1149,Sears Holdings,Consumer Discretionary,Department Stores,North America,United States,5.2,36.2,-1.4,18.3,1146,#1974,$13.2 B,$-1.7 B,$6.7 B,$68 M
+1150,Intuit,Information Technology,Software & Programming,North America,United States,22.4,4.2,0.7,4.7,1158,#764,$7.1 B,$1.6 B,$6.7 B,$70.3 B
+1151,Henry Schein,Health Care,Medical Equipment & Supplies,North America,United States,10.2,9.6,0.4,5.6,1171,#1390,$10 B,$508 M,$7.2 B,$7.8 B
+1152,Lear,Consumer Discretionary,Auto & Truck Parts,North America,United States,7.1,16.2,0.4,8.3,1172,#1091,$19.8 B,$790 M,$12.7 B,$5.8 B
+1153,Ameren,Utilities,Electric Utilities,North America,United States,9.9,5.8,0.3,21.0,1182,#810,$5.9 B,$828 M,$28.9 B,$18 B
+1154,Fidelity National Financial,Financials,Property & Casualty Insurance,North America,United States,8.9,8.6,0.4,10.5,1186,#1283,$8.4 B,$795 M,$10.2 B,$7.4 B
+1155,American Financial Group,Financials,Diversified Insurance,North America,United States,5.2,5.0,0.5,40.9,1189,#852,$7.9 B,$897 M,$70.3 B,$6 B
+1156,WR Berkley,Financials,Property & Casualty Insurance,North America,United States,5.3,6.4,0.5,20.6,1192,#1033,$7.9 B,$497 M,$26.1 B,$10.1 B
+1157,Moody's,Consumer Discretionary,Business & Personal Services,North America,United States,17.3,3.0,0.8,4.4,1193,#917,$5 B,$1.5 B,$11.3 B,$45.7 B
+1158,Cincinnati Financial,Financials,Diversified Insurance,North America,United States,7.8,4.5,0.5,18.1,1210,#1354,$6.8 B,$76 M,$23.3 B,$10.6 B
+1159,Crown Castle International,Telecommunication Services,Telecommunications services,North America,United States,25.0,3.0,0.1,20.6,1215,#617,$5.8 B,$911 M,$38.6 B,$66.4 B
+1160,Lennar,Industrials,Construction Services,North America,United States,8.3,6.3,0.5,11.3,1216,#454,$22.9 B,$2 B,$29.2 B,$15.6 B
+1161,Equity Residential,Financials,Real Estate,North America,United States,21.1,2.4,-0.2,22.8,1217,#882,$2.7 B,$968 M,$21.2 B,$24.2 B
+1162,Intuitive Surgical,Health Care,Medical Equipment & Supplies,North America,United States,18.9,2.3,0.7,4.0,1223,#954,$4.6 B,$1.4 B,$9.9 B,$59.6 B
+1163,Host Hotels & Resorts,Financials,Real Estate,North America,United States,15.6,5.3,0.3,12.8,1236,#1356,$5.5 B,$920 M,$12.3 B,$8.7 B
+1164,Brown-Forman,Consumer Staples,Beverages,North America,United States,19.1,3.0,0.6,4.0,1237,#1113,$3.4 B,$858 M,$5.5 B,$29.7 B
+1165,JM Smucker,Consumer Staples,Food Processing,North America,United States,10.1,5.7,0.6,9.0,1238,#1030,$7.6 B,$621 M,$16.6 B,$13.1 B
+1166,Analog Devices,Information Technology,Semiconductors,North America,United States,16.9,2.6,0.7,6.4,1242,#720,$5.8 B,$1.2 B,$21.4 B,$40.4 B
+1167,Clorox,Consumer Staples,Household/Personal Care,North America,United States,11.4,5.7,0.6,4.4,1244,#1045,$6.1 B,$816 M,$5.5 B,$23.3 B
+1168,Amphenol,Information Technology,Electronics,North America,United States,14.6,4.6,0.6,6.2,1246,#839,$8.1 B,$1.1 B,$12.1 B,$26.1 B
+1169,Raymond James Financial,Financials,Investment Services,North America,United States,7.8,4.6,0.4,21.9,1260,#735,$8.3 B,$959 M,$49.8 B,$9.2 B
+1170,AutoNation,Consumer Discretionary,Specialty Stores,North America,United States,6.5,17.5,0.4,7.9,1267,#1449,$21.3 B,$450 M,$10.7 B,$3.3 B
+1171,Zions Bancorp,Financials,Regional Banks,North America,United States,5.8,2.3,0.4,56.4,1288,#1252,$3.2 B,$614 M,$71.5 B,$5.2 B
+1172,Vornado Realty,Financials,Real Estate,North America,United States,18.6,2.7,0.1,20.1,1294,#997,$5.3 B,$3.1 B,$18.3 B,$8.4 B
+1173,Universal Health,Health Care,Healthcare Services,North America,United States,8.1,7.3,0.5,8.3,1306,#1100,$11.4 B,$721 M,$11.6 B,$9 B
+1174,Regeneron Pharmaceuticals,Health Care,Biotechs,North America,United States,30.7,2.1,0.4,3.0,1310,#646,$7.9 B,$2.1 B,$14.8 B,$59.2 B
+1175,Paychex,Consumer Discretionary,Business & Personal Services,North America,United States,15.5,2.4,0.6,7.1,1320,#1080,$4.1 B,$1.1 B,$9.5 B,$24.6 B
+1176,CNO Financial Group,Financials,Life & Health Insurance,North America,United States,4.1,4.5,0.5,34.8,1324,#1786,$3.9 B,$409 M,$34.2 B,$2 B
+1177,Zoetis,Health Care,Pharmaceuticals,North America,United States,14.7,4.6,0.5,6.6,1330,#812,$6.3 B,$1.5 B,$11.5 B,$61.4 B
+1178,Xilinx,Information Technology,Semiconductors,North America,United States,14.7,2.3,0.6,5.0,1338,#1203,$3.2 B,$793 M,$4.7 B,$21.7 B
+1179,LabCorp,Health Care,Healthcare Services,North America,United States,8.7,5.8,0.6,7.0,1343,#1084,$11.6 B,$321 M,$17.3 B,$16 B
+1180,PVH,Consumer Discretionary,Apparel/Accessories,North America,United States,10.3,8.2,0.1,11.6,1357,#1736,$9.9 B,$417 M,$13.6 B,$3.5 B
+1181,Rite Aid,Consumer Staples,Drug Retail,North America,United States,6.2,25.4,0.3,7.1,1370,#1706,$21.9 B,$-452 M,$10.5 B,$784 M
+1182,Mohawk Industries,Consumer Discretionary,Furniture & Fixtures,North America,United States,10.0,7.3,0.3,8.5,1371,#1247,$10 B,$744 M,$13.4 B,$6.2 B
+1183,Manpower,Consumer Discretionary,Business & Personal Services,North America,United States,6.5,20.2,0.3,7.3,1375,#1544,$20.4 B,$414 M,$8.7 B,$4.4 B
+1184,Ball,Materials,Containers & Packaging,North America,United States,7.7,8.5,0.4,7.8,1379,#803,$11.5 B,$566 M,$17.4 B,$21.4 B
+1185,Markel,Financials,Diversified Insurance,North America,United States,8.3,4.3,0.3,24.6,1394,#1093,$8.1 B,$-193 M,$34.8 B,$11.9 B
+1186,Advance Auto Parts,Consumer Discretionary,Specialty Stores,North America,United States,9.3,6.5,0.4,5.6,1412,#1392,$9.7 B,$487 M,$11.2 B,$8.4 B
+1187,Pioneer Natural Resources,Energy,Oil & Gas Operations,North America,United States,26.5,3.5,-0.8,12.3,1420,#794,$9.7 B,$751 M,$20.6 B,$14.7 B
+1188,Starwood Property Trust,,,North America,United States,4.6,0.6,0.3,104.1,1423,#1335,$1.3 B,$506 M,$78 B,$3.7 B
+1189,Cerner,Health Care,Healthcare Services,North America,United States,19.4,2.9,0.4,4.1,1425,#1269,$5.7 B,$510 M,$6.7 B,$21.1 B
+1190,United Rentals,Financials,Rental & Leasing,North America,United States,8.9,5.0,0.4,11.2,1427,#856,$9.4 B,$1.2 B,$18.9 B,$9.3 B
+1191,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,North America,United States,2.8,8.6,-2.9,24.7,1428,#1451,$8.7 B,$-1.2 B,$25.3 B,$6.6 B
+1192,Ametek,Industrials,Electrical Equipment,North America,United States,12.9,3.6,0.5,5.9,1436,#1161,$5.2 B,$861 M,$9.8 B,$19.2 B
+1193,Aramark,,,North America,United States,6.6,13.5,0.1,10.2,1441,#1383,$16.2 B,$344 M,$14.3 B,$6.9 B
+1194,US Steel,Materials,Iron & Steel,North America,United States,4.0,17.4,-1.7,13.1,1442,#1965,$12.2 B,$-1.1 B,$12.4 B,$1.3 B
+1195,E-Trade Financial,Financials,Investment Services,North America,United States,6.8,1.9,0.1,46.3,1450,#912,$3.1 B,$846 M,$67.9 B,$9 B
+1196,Fastenal,Consumer Discretionary,Home Improvement Retail,North America,United States,14.8,3.3,0.4,2.1,1464,#1136,$5.4 B,$799 M,$3.9 B,$20.7 B
+1197,Interpublic Group,Consumer Discretionary,Advertising,North America,United States,7.3,7.1,0.3,12.9,1476,#1144,$10.2 B,$669 M,$16.4 B,$6.6 B
+1198,Quanta Services,Industrials,Construction Services,North America,United States,8.0,6.5,0.4,5.9,1478,#1779,$12.1 B,$402 M,$8.3 B,$5 B
+1199,CBRE Group,Financials,Real Estate,North America,United States,9.2,7.2,0.3,7.0,1492,#623,$23.9 B,$1.3 B,$16.2 B,$14.4 B
+1200,American Water Works,Utilities,Diversified Utilities,North America,United States,8.1,2.9,0.4,15.1,1505,#1010,$3.6 B,$621 M,$22.7 B,$22 B
+1201,Tenet Healthcare,Health Care,Healthcare Services,North America,United States,4.2,11.1,-0.1,16.1,1508,#1318,$18.5 B,$-232 M,$23.4 B,$2.1 B
+1202,Salesforce.com,Information Technology,Software & Programming,North America,United States,35.9,4.1,-0.2,9.2,1521,#578,$17.1 B,$126 M,$55.1 B,$144.9 B
+1203,Foot Locker,Consumer Discretionary,Apparel/Footwear Retail,North America,United States,6.9,6.5,0.4,3.5,1530,#1899,$8 B,$498 M,$6.6 B,$2.7 B
+1204,Westlake Chemical,Materials,Diversified Chemicals,North America,United States,8.9,3.8,0.6,4.1,1531,#1884,$8.1 B,$418 M,$13.3 B,$5.5 B
+1205,Darden Restaurants,Consumer Discretionary,Restaurants,North America,United States,6.8,8.7,0.3,7.2,1542,#1219,$8.8 B,$636 M,$10 B,$9.6 B
+1206,World Fuel Services,Consumer Discretionary,Specialty Stores,North America,United States,3.2,41.5,0.2,4.7,1545,#1593,$36 B,$183 M,$5.5 B,$1.6 B
+1207,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,North America,United States,18.0,3.2,0.3,2.1,1561,#1520,$5.7 B,$338 M,$5.2 B,$24.5 B
+1208,Avis Budget Group,Financials,Rental & Leasing,North America,United States,5.3,7.9,0.0,16.3,1571,#1625,$9.2 B,$302 M,$24 B,$1.1 B
+1209,NVIDIA,Information Technology,Semiconductors,North America,United States,10.3,4.1,0.4,7.3,1589,#489,$10.9 B,$2.8 B,$17.3 B,$179 B
+1210,Expeditors International,Industrials,Air Courier,North America,United States,8.0,6.1,0.3,3.0,1600,#1201,$8.2 B,$590 M,$3.8 B,$12 B
+1211,Alexion Pharmaceuticals,Health Care,Biotechs,North America,United States,30.7,1.5,0.3,3.3,1610,#796,$5 B,$2.4 B,$17.5 B,$23.9 B
+1212,Tech Data,Information Technology,Electronics,North America,United States,2.4,26.3,0.2,6.7,1617,#1380,$37 B,$375 M,$13.3 B,$5 B
+1213,Tractor Supply,Consumer Discretionary,Specialty Stores,North America,United States,10.0,5.2,0.3,1.9,1618,#1206,$8.5 B,$569 M,$6 B,$11.8 B
+1214,Crown Holdings,Materials,Containers & Packaging,North America,United States,6.3,8.7,0.3,8.0,1622,#1125,$11.7 B,$495 M,$15.5 B,$8.7 B
+1215,Alaska Air Group,Industrials,Airline,North America,United States,6.5,5.2,0.5,5.8,1628,#1398,$8.8 B,$769 M,$14 B,$4 B
+1216,NCR,Information Technology,Computer Hardware,North America,United States,6.1,6.1,0.4,8.1,1635,#1956,$6.9 B,$550 M,$9.6 B,$2.7 B
+1217,Masco,Materials,Construction Materials,North America,United States,8.0,8.2,0.3,6.9,1638,#1442,$7.4 B,$459 M,$4.8 B,$10.8 B
+1218,Twitter,,,North America,United States,27.6,0.7,-0.6,3.4,1644,#1017,$3.5 B,$1.3 B,$13.5 B,$22.5 B
+1219,Netflix,Consumer Discretionary,Internet & Catalog Retail,North America,United States,21.8,4.4,0.1,5.4,1647,#284,$21.4 B,$2.2 B,$35.1 B,$184.7 B
+1220,Huntsman,Materials,Diversified Chemicals,North America,United States,6.0,11.1,0.1,9.2,1663,#1833,$7.6 B,$562 M,$8.3 B,$3.7 B
+1221,Waters,,Precision Healthcare Equipment,North America,United States,9.3,1.9,0.4,3.6,1665,#1631,$2.4 B,$537 M,$2.7 B,$11.6 B
+1222,PBF Energy,Energy,Oil & Gas Operations,North America,United States,3.0,19.2,0.0,4.4,1702,#1672,$24.5 B,$319 M,$9.1 B,$1.4 B
+1223,Reliance Steel,Materials,Iron & Steel,North America,United States,5.5,9.2,0.3,7.3,1705,#1513,$10.6 B,$573 M,$8.1 B,$5.7 B
+1224,Pinnacle West,Utilities,Electric Utilities,North America,United States,6.0,3.5,0.4,13.5,1709,#1493,$3.5 B,$538 M,$18.5 B,$8.7 B
+1225,BOK Financial,Financials,Regional Banks,North America,United States,4.9,1.3,0.3,27.0,1711,#1565,$2.2 B,$450 M,$47.1 B,$3.6 B
+1226,Kansas City Southern,Industrials,Railroads,North America,United States,11.4,2.4,0.4,7.4,1718,#1545,$2.9 B,$588 M,$9.8 B,$12.4 B
+1227,Jabil Circuit,Information Technology,Electronics,North America,United States,3.7,17.5,0.3,8.1,1727,#1571,$26.3 B,$133 M,$13.1 B,$4.3 B
+1228,Murphy USA,Consumer Discretionary,Specialty Stores,North America,United States,1.9,18.1,0.2,1.9,1727,#1928,$14.1 B,$239 M,$2.6 B,$3.1 B
+1229,VeriSign,Information Technology,Software & Programming,North America,United States,7.2,1.0,0.5,2.7,1739,#1175,$1.2 B,$784 M,$1.8 B,$24.2 B
+1230,Monster Beverage,Consumer Staples,Beverages,North America,United States,11.9,2.2,0.3,1.4,1745,#1049,$4.2 B,$1.1 B,$5.3 B,$32.5 B
+1231,East West Bancorp,Financials,Regional Banks,North America,United States,5.3,1.1,0.3,24.7,1753,#1335,$2.1 B,$655 M,$45.9 B,$5 B
+1232,Illumina,Health Care,Biotechs,North America,United States,20.1,1.4,0.1,3.0,1756,#1038,$3.6 B,$942 M,$7.3 B,$46.8 B
+1233,SVB Financial Group,Financials,Regional Banks,North America,United States,5.9,1.4,0.2,26.5,1758,#842,$3.5 B,$984 M,$75 B,$9.9 B
+1234,Church & Dwight,Consumer Staples,Household/Personal Care,North America,United States,9.4,3.2,0.4,4.3,1759,#1316,$4.5 B,$670 M,$7.5 B,$17.2 B
+1235,Maxim Integrated Products,Information Technology,Semiconductors,North America,United States,9.3,2.4,0.4,4.3,1765,#1298,$2.2 B,$815 M,$3.5 B,$14.8 B
+1236,American Equity Investment,Financials,Life & Health Insurance,North America,United States,1.7,1.6,0.3,41.3,1776,#1713,$2.6 B,$246 M,$69.7 B,$1.9 B
+1237,UGI,Utilities,Natural Gas Utilities,North America,United States,5.2,7.5,0.3,10.7,1777,#1815,$7.1 B,$404 M,$14.3 B,$6.3 B
+1238,Citrix Systems,Information Technology,Software & Programming,North America,United States,10.7,2.9,0.3,5.2,1793,#1267,$3.2 B,$753 M,$4.3 B,$17.9 B
+1239,Signature Bank,Financials,Regional Banks,North America,United States,6.1,0.8,0.2,22.4,1803,#1300,$2 B,$543 M,$53.1 B,$5.9 B
+1240,Interactive Brokers Group,Financials,Investment Services,North America,United States,1.2,1.1,0.0,37.9,1806,#1688,$2.6 B,$158 M,$75.8 B,$3.1 B
+1241,Cheniere Energy,,,North America,United States,13.7,0.3,-0.5,9.7,1808,#771,$9.3 B,$648 M,$38.2 B,$11.8 B
+1242,Cabot Oil & Gas,Energy,Oil & Gas Operations,North America,United States,14.3,1.7,0.3,5.0,1811,#1990,$1.7 B,$472 M,$4.5 B,$8.6 B
+1243,Verisk Analytics,Consumer Discretionary,Business & Personal Services,North America,United States,10.0,1.7,0.3,2.5,1822,#1441,$2.6 B,$450 M,$7.1 B,$24.9 B
+1244,Penske Automotive,Consumer Discretionary,Specialty Stores,North America,United States,3.9,14.7,0.2,6.4,1829,#1301,$23.2 B,$436 M,$14.6 B,$2.9 B
+1245,Vertex Pharmaceuticals,Health Care,Biotechs,North America,United States,16.9,1.2,-0.4,2.3,1837,#915,$4.8 B,$1.5 B,$8.9 B,$65.1 B
+1246,LKQ,Consumer Discretionary,Auto & Truck Parts,North America,United States,8.2,5.1,0.3,4.5,1846,#1175,$12.4 B,$588 M,$12.4 B,$8 B
+1247,People's United Financial,Financials,Thrifts & Mortgage Finance,North America,United States,4.6,1.3,0.2,33.5,1864,#1338,$2.4 B,$536 M,$60.4 B,$5.4 B
+1248,Microchip Technology,Information Technology,Semiconductors,North America,United States,9.5,1.9,0.3,4.0,1869,#1040,$5.3 B,$645 M,$17.6 B,$21 B
+1249,Alliant Energy,Utilities,Electric Utilities,North America,United States,6.3,3.3,0.4,11.1,1894,#1318,$3.6 B,$567 M,$17.2 B,$11.9 B
+1250,Edwards Lifesciences,Health Care,Medical Equipment & Supplies,North America,United States,7.8,2.0,0.4,2.7,1913,#1006,$4.5 B,$1.1 B,$6.1 B,$44.9 B
+1251,Amdocs,Information Technology,Software & Programming,North America,United States,7.4,3.4,0.4,4.9,1918,#1940,$4.1 B,$490 M,$5.6 B,$8.7 B
+1252,Frontier Communications,Telecommunication Services,Telecommunications services,North America,United States,5.6,4.8,0.1,16.6,1924,#1879,$8.1 B,$-5.9 B,$19.3 B,$9 M
+1253,Packaging Corp of America,,,North America,United States,7.0,3.7,0.4,5.2,1931,#1369,$6.9 B,$648 M,$7.2 B,$9.2 B
+1254,Akamai Technologies,Information Technology,Computer Services,North America,United States,10.6,1.6,0.3,3.0,1940,#1542,$3 B,$494 M,$6.9 B,$15.8 B
+1255,Oshkosh,Industrials,Heavy Equipment,North America,United States,5.0,7.4,0.3,4.5,1986,#1918,$8.1 B,$486 M,$5.9 B,$4.6 B
+1256,FMC,Materials,Specialized Chemicals,North America,United States,10.3,4.0,0.3,5.2,1986,#1687,$4.6 B,$485 M,$9.9 B,$11.9 B
+1257,Synovus Financial,Financials,Regional Banks,North America,United States,3.4,1.2,0.2,26.2,1998,#1490,$2.4 B,$482 M,$50.6 B,$3.1 B
+1258,Equifax,Consumer Discretionary,Business & Personal Services,North America,United States,8.5,2.3,0.3,4.5,1999,#1908,$3.6 B,$270 M,$7.6 B,$16.9 B
+1259,Mercantil Servicios,Financials,Regional Banks,South America,Venezuela,14.4,4.1,1.2,38.0,773,#1758,$2.6 B,$1.5 B,$852 M,$309 M
+1260,Vietin Bank,Financials,Regional Banks,Asia,Vietnam,2.9,2.3,0.3,27.3,1854,#1595,$4.1 B,$407 M,$53.5 B,$3.2 B
